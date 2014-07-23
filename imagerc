@@ -1,0 +1,55 @@
+# Flat theme
+# Copyright (c) 2013 Andrew Pullins
+
+# ---------------------------------------------------------------------
+
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+# ---------------------------------------------------------------------
+
+#pixmap_path "$HOME/.gimp-2.3/themes/Test/"
+#
+# include "rc-file"
+#
+# style <name> [= <name>]
+# {
+#   <option>
+#
+#   stock[<stock_id>] =
+#     {
+#       { <filename> [, <direction> [, <state> [, <size>]]] },
+#       { ... }
+#     }
+# }
+#
+# widget <widget_set> style <style_name>
+# widget_class <widget_class_set> style <style_name>
+
+# Tool Box
+# ==================================================================
+
+	style "gimp-icons"
+	{
+		stock["gimp-tool-free-select"] =
+			{
+				{ "images/gimp-tool-free-select.png", *, *, "gtk-button"}
+			}
+		stock["gimp-tool-rect-select"] =
+			{
+				{ "images/gimp-tool-rect-select.png", *, *, "gtk-button"}
+			}
+	}
+
+
+class "GtkWidget" style "gimp-icons"
