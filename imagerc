@@ -1,55 +1,1891 @@
-# Flat theme
-# Copyright (c) 2013 Andrew Pullins
 
-# ---------------------------------------------------------------------
-
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-# ---------------------------------------------------------------------
-
-#pixmap_path "$HOME/.gimp-2.3/themes/Test/"
+# Gimp Icons
 #
-# include "rc-file"
-#
-# style <name> [= <name>]
-# {
-#   <option>
-#
-#   stock[<stock_id>] =
-#     {
-#       { <filename> [, <direction> [, <state> [, <size>]]] },
-#       { ... }
-#     }
-# }
-#
-# widget <widget_set> style <style_name>
-# widget_class <widget_class_set> style <style_name>
+# http://developer.gimp.org/api/2.0/libgimpwidgets/libgimpwidgets-GimpStock.html
+# --------------------
 
-# Tool Box
-# ==================================================================
+	style "gimp-icons" {
 
-	style "gimp-icons"
-	{
-		stock["gimp-tool-free-select"] =
-			{
-				{ "images/gimp-tool-free-select.png", *, *, "gtk-button"}
-			}
-		stock["gimp-tool-rect-select"] =
-			{
-				{ "images/gimp-tool-rect-select.png", *, *, "gtk-button"}
-			}
+	# anchor
+	# -----------------
+		stock["gimp-anchor"] = {
+			{"images/gimp-anchor.png", *, *, "gtk-button"},
+			{"images/gimp-anchor.png", *, *, "gtk-dialog"},
+			{"images/gimp-anchor.png", *, *, "gtk-menu"},
+			{"images/gimp-anchor.png", *, *, *}
+		}
+
+	# center
+	# -----------------
+		stock["gimp-center"] = {
+			{"images/gimp-center.png", *, *, "gtk-button"},
+			{"images/gimp-center.png", *, *, "gtk-dialog"},
+			{"images/gimp-center.png", *, *, "gtk-menu"},
+			{"images/gimp-center.png", *, *, *}
+		}
+
+	# duplicate
+	# -----------------
+		stock["gimp-duplicate"] = {
+			{"images/gimp-duplicate.png", *, *, "gtk-button"},
+			{"images/gimp-duplicate.png", *, *, "gtk-dialog"},
+			{"images/gimp-duplicate.png", *, *, "gtk-menu"},
+			{"images/gimp-duplicate.png", *, *, *}
+		}
+
+	# edit
+	# -----------------
+		stock["gimp-edit"] = {
+			{"images/gimp-edit.png", *, *, "gtk-button"},
+			{"images/gimp-edit.png", *, *, "gtk-dialog"},
+			{"images/gimp-edit.png", *, *, "gtk-menu"},
+			{"images/gimp-edit.png", *, *, *}
+		}
+
+	# reset
+	# -----------------
+		stock["gimp-reset"] = {
+			{"images/gimp-reset.png", *, *, "gtk-button"},
+			{"images/gimp-reset.png", *, *, "gtk-dialog"},
+			{"images/gimp-reset.png", *, *, "gtk-menu"},
+			{"images/gimp-reset.png", *, *, *}
+		}
+
+	# close
+	# -----------------
+		stock["gimp-close"] = {
+			{"images/gimp-close.png", *, *, "gtk-button"},
+			{"images/gimp-close.png", *, *, "gtk-dialog"},
+			{"images/gimp-close.png", *, *, "gtk-menu"},
+			{"images/gimp-close.png", *, *, *}
+		}
+
+	# menu-left
+	# -----------------
+		stock["gimp-menu-left"] = {
+			{"images/gimp-menu-left.png", *, *, "gtk-button"},
+			{"images/gimp-menu-left.png", *, *, "gtk-dialog"},
+			{"images/gimp-menu-left.png", *, *, "gtk-menu"},
+			{"images/gimp-menu-left.png", *, *, *}
+		}
+
+	# menu-right
+	# -----------------
+		stock["gimp-menu-right"] = {
+			{"images/gimp-menu-right.png", *, *, "gtk-button"},
+			{"images/gimp-menu-right.png", *, *, "gtk-dialog"},
+			{"images/gimp-menu-right.png", *, *, "gtk-menu"},
+			{"images/gimp-menu-right.png", *, *, *}
+		}
+
+	# move-to-screen
+	# -----------------
+		stock["gimp-move-to-screen"] = {
+			{"images/gimp-move-to-screen.png", *, *, "gtk-button"},
+			{"images/gimp-move-to-screen.png", *, *, "gtk-dialog"},
+			{"images/gimp-move-to-screen.png", *, *, "gtk-menu"},
+			{"images/gimp-move-to-screen.png", *, *, *}
+		}
+
+	# invert
+	# -----------------
+		stock["gimp-invert"] = {
+			{"images/gimp-invert.png", *, *, "gtk-button"},
+			{"images/gimp-invert.png", *, *, "gtk-dialog"},
+			{"images/gimp-invert.png", *, *, "gtk-menu"},
+			{"images/gimp-invert.png", *, *, *}
+		}
+
+	# layer-to-imagesize
+	# -----------------
+		stock["gimp-layer-to-imagesize"] = {
+			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-button"},
+			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-dialog"},
+			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-menu"},
+			{"images/gimp-layer-to-imagesize.png", *, *, *}
+		}
+
+	# merge-down
+	# -----------------
+		stock["gimp-merge-down"] = {
+			{"images/gimp-merge-down.png", *, *, "gtk-button"},
+			{"images/gimp-merge-down.png", *, *, "gtk-dialog"},
+			{"images/gimp-merge-down.png", *, *, "gtk-menu"},
+			{"images/gimp-merge-down.png", *, *, *}
+		}
+
+	# navigation
+	# -----------------
+		stock["gimp-navigation"] = {
+			{"images/gimp-navigation.png", *, *, "gtk-button"},
+			{"images/gimp-navigation.png", *, *, "gtk-dialog"},
+			{"images/gimp-navigation.png", *, *, "gtk-menu"},
+			{"images/gimp-navigation.png", *, *, *}
+		}
+
+	# paste-as-new
+	# -----------------
+		stock["gimp-paste-as-new"] = {
+			{"images/gimp-paste-as-new.png", *, *, "gtk-button"},
+			{"images/gimp-paste-as-new.png", *, *, "gtk-dialog"},
+			{"images/gimp-paste-as-new.png", *, *, "gtk-menu"},
+			{"images/gimp-paste-as-new.png", *, *, *}
+		}
+
+	# paste-into
+	# -----------------
+		stock["gimp-paste-into"] = {
+			{"images/gimp-paste-into.png", *, *, "gtk-button"},
+			{"images/gimp-paste-into.png", *, *, "gtk-dialog"},
+			{"images/gimp-paste-into.png", *, *, "gtk-menu"},
+			{"images/gimp-paste-into.png", *, *, *}
+		}
+
+	# path-stroke
+	# -----------------
+		stock["gimp-path-stroke"] = {
+			{"images/gimp-path-stroke.png", *, *, "gtk-button"},
+			{"images/gimp-path-stroke.png", *, *, "gtk-dialog"},
+			{"images/gimp-path-stroke.png", *, *, "gtk-menu"},
+			{"images/gimp-path-stroke.png", *, *, *}
+		}
+
+	# plugin
+	# -----------------
+		stock["gimp-plugin"] = {
+			{"images/gimp-plugin.png", *, *, "gtk-button"},
+			{"images/gimp-plugin.png", *, *, "gtk-dialog"},
+			{"images/gimp-plugin.png", *, *, "gtk-menu"},
+			{"images/gimp-plugin.png", *, *, *}
+		}
+
+	# quick-mask-off
+	# -----------------
+		stock["gimp-quick-mask-off"] = {
+			{"images/gimp-quick-mask-off.png", *, *, "gtk-button"},
+			{"images/gimp-quick-mask-off.png", *, *, "gtk-dialog"},
+			{"images/gimp-quick-mask-off.png", *, *, "gtk-menu"},
+			{"images/gimp-quick-mask-off.png", *, *, *}
+		}
+
+	# quick-mask-on
+	# -----------------
+		stock["gimp-quick-mask-on"] = {
+			{"images/gimp-quick-mask-on.png", *, *, "gtk-button"},
+			{"images/gimp-quick-mask-on.png", *, *, "gtk-dialog"},
+			{"images/gimp-quick-mask-on.png", *, *, "gtk-menu"},
+			{"images/gimp-quick-mask-on.png", *, *, *}
+		}
+
+	# histogram
+	# -----------------
+		stock["gimp-histogram"] = {
+			{"images/gimp-histogram.png", *, *, "gtk-button"},
+			{"images/gimp-histogram.png", *, *, "gtk-dialog"},
+			{"images/gimp-histogram.png", *, *, "gtk-menu"},
+			{"images/gimp-histogram.png", *, *, *}
+		}
+
+	# histogram-linear
+	# -----------------
+		stock["gimp-histogram-linear"] = {
+			{"images/gimp-histogram-linear.png", *, *, "gtk-button"},
+			{"images/gimp-histogram-linear.png", *, *, "gtk-dialog"},
+			{"images/gimp-histogram-linear.png", *, *, "gtk-menu"},
+			{"images/gimp-histogram-linear.png", *, *, *}
+		}
+
+	# histogram-logarithmic
+	# -----------------
+		stock["gimp-histogram-logarithmic"] = {
+			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-button"},
+			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-dialog"},
+			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-menu"},
+			{"images/gimp-histogram-logarithmic.png", *, *, *}
+		}
+
+	# reshow-filter
+	# -----------------
+		stock["gimp-reshow-filter"] = {
+			{"images/gimp-reshow-filter.png", *, *, "gtk-button"},
+			{"images/gimp-reshow-filter.png", *, *, "gtk-dialog"},
+			{"images/gimp-reshow-filter.png", *, *, "gtk-menu"},
+			{"images/gimp-reshow-filter.png", *, *, *}
+		}
+
+	# resize
+	# -----------------
+		stock["gimp-resize"] = {
+			{"images/gimp-resize.png", *, *, "gtk-button"},
+			{"images/gimp-resize.png", *, *, "gtk-dialog"},
+			{"images/gimp-resize.png", *, *, "gtk-menu"},
+			{"images/gimp-resize.png", *, *, *}
+		}
+
+	# flip-horizontal
+	# -----------------
+		stock["gimp-flip-horizontal"] = {
+			{"images/gimp-flip-horizontal.png", *, *, "gtk-button"},
+			{"images/gimp-flip-horizontal.png", *, *, "gtk-dialog"},
+			{"images/gimp-flip-horizontal.png", *, *, "gtk-menu"},
+			{"images/gimp-flip-horizontal.png", *, *, *}
+		}
+
+	# flip-vertical
+	# -----------------
+		stock["gimp-flip-vertical"] = {
+			{"images/gimp-flip-vertical.png", *, *, "gtk-button"},
+			{"images/gimp-flip-vertical.png", *, *, "gtk-dialog"},
+			{"images/gimp-flip-vertical.png", *, *, "gtk-menu"},
+			{"images/gimp-flip-vertical.png", *, *, *}
+		}
+
+	# rotate-180
+	# -----------------
+		stock["gimp-rotate-180"] = {
+			{"images/gimp-rotate-180.png", *, *, "gtk-button"},
+			{"images/gimp-rotate-180.png", *, *, "gtk-dialog"},
+			{"images/gimp-rotate-180.png", *, *, "gtk-menu"},
+			{"images/gimp-rotate-180.png", *, *, *}
+		}
+
+	# rotate-270
+	# -----------------
+		stock["gimp-rotate-270"] = {
+			{"images/gimp-rotate-270.png", *, *, "gtk-button"},
+			{"images/gimp-rotate-270.png", *, *, "gtk-dialog"},
+			{"images/gimp-rotate-270.png", *, *, "gtk-menu"},
+			{"images/gimp-rotate-270.png", *, *, *}
+		}
+
+	# rotate-90
+	# -----------------
+		stock["gimp-rotate-90"] = {
+			{"images/gimp-rotate-90.png", *, *, "gtk-button"},
+			{"images/gimp-rotate-90.png", *, *, "gtk-dialog"},
+			{"images/gimp-rotate-90.png", *, *, "gtk-menu"},
+			{"images/gimp-rotate-90.png", *, *, *}
+		}
+
+	# scale
+	# -----------------
+		stock["gimp-scale"] = {
+			{"images/gimp-scale.png", *, *, "gtk-button"},
+			{"images/gimp-scale.png", *, *, "gtk-dialog"},
+			{"images/gimp-scale.png", *, *, "gtk-menu"},
+			{"images/gimp-scale.png", *, *, *}
+		}
+
+	# linked
+	# -----------------
+		stock["gimp-linked"] = {
+			{"images/gimp-linked.png", *, *, "gtk-button"},
+			{"images/gimp-linked.png", *, *, "gtk-dialog"},
+			{"images/gimp-linked.png", *, *, "gtk-menu"},
+			{"images/gimp-linked.png", *, *, *}
+		}
+
+	# visible
+	# -----------------
+		stock["gimp-visible"] = {
+			{"images/gimp-visible.png", *, *, "gtk-button"},
+			{"images/gimp-visible.png", *, *, "gtk-dialog"},
+			{"images/gimp-visible.png", *, *, "gtk-menu"},
+			{"images/gimp-visible.png", *, *, *}
+		}
+
+	# list
+	# -----------------
+		stock["gimp-list"] = {
+			{"images/gimp-list.png", *, *, "gtk-button"},
+			{"images/gimp-list.png", *, *, "gtk-dialog"},
+			{"images/gimp-list.png", *, *, "gtk-menu"},
+			{"images/gimp-list.png", *, *, *}
+		}
+
+	# grid
+	# -----------------
+		stock["gimp-grid"] = {
+			{"images/gimp-grid.png", *, *, "gtk-button"},
+			{"images/gimp-grid.png", *, *, "gtk-dialog"},
+			{"images/gimp-grid.png", *, *, "gtk-menu"},
+			{"images/gimp-grid.png", *, *, *}
+		}
+
+	# portrait
+	# -----------------
+		stock["gimp-portrait"] = {
+			{"images/gimp-portrait.png", *, *, "gtk-button"},
+			{"images/gimp-portrait.png", *, *, "gtk-dialog"},
+			{"images/gimp-portrait.png", *, *, "gtk-menu"},
+			{"images/gimp-portrait.png", *, *, *}
+		}
+
+	# landscape
+	# -----------------
+		stock["gimp-landscape"] = {
+			{"images/gimp-landscape.png", *, *, "gtk-button"},
+			{"images/gimp-landscape.png", *, *, "gtk-dialog"},
+			{"images/gimp-landscape.png", *, *, "gtk-menu"},
+			{"images/gimp-landscape.png", *, *, *}
+		}
+
+	# video
+	# -----------------
+		stock["gimp-video"] = {
+			{"images/gimp-video.png", *, *, "gtk-button"},
+			{"images/gimp-video.png", *, *, "gtk-dialog"},
+			{"images/gimp-video.png", *, *, "gtk-menu"},
+			{"images/gimp-video.png", *, *, *}
+		}
+
+	# web
+	# -----------------
+		stock["gimp-web"] = {
+			{"images/gimp-web.png", *, *, "gtk-button"},
+			{"images/gimp-web.png", *, *, "gtk-dialog"},
+			{"images/gimp-web.png", *, *, "gtk-menu"},
+			{"images/gimp-web.png", *, *, *}
+		}
+
+	# image
+	# -----------------
+		stock["gimp-image"] = {
+			{"images/gimp-image.png", *, *, "gtk-button"},
+			{"images/gimp-image.png", *, *, "gtk-dialog"},
+			{"images/gimp-image.png", *, *, "gtk-menu"},
+			{"images/gimp-image.png", *, *, *}
+		}
+
+	# layer
+	# -----------------
+		stock["gimp-layer"] = {
+			{"images/gimp-layer.png", *, *, "gtk-button"},
+			{"images/gimp-layer.png", *, *, "gtk-dialog"},
+			{"images/gimp-layer.png", *, *, "gtk-menu"},
+			{"images/gimp-layer.png", *, *, *}
+		}
+
+	# layer-mask
+	# -----------------
+		stock["gimp-layer-mask"] = {
+			{"images/gimp-layer-mask.png", *, *, "gtk-button"},
+			{"images/gimp-layer-mask.png", *, *, "gtk-dialog"},
+			{"images/gimp-layer-mask.png", *, *, "gtk-menu"},
+			{"images/gimp-layer-mask.png", *, *, *}
+		}
+
+	# channel
+	# -----------------
+		stock["gimp-channel"] = {
+			{"images/gimp-channel.png", *, *, "gtk-button"},
+			{"images/gimp-channel.png", *, *, "gtk-dialog"},
+			{"images/gimp-channel.png", *, *, "gtk-menu"},
+			{"images/gimp-channel.png", *, *, *}
+		}
+
+	# channel-red
+	# -----------------
+		stock["gimp-channel-red"] = {
+			{"images/gimp-channel-red.png", *, *, "gtk-button"},
+			{"images/gimp-channel-red.png", *, *, "gtk-dialog"},
+			{"images/gimp-channel-red.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-red.png", *, *, *}
+		}
+
+	# channel-green
+	# -----------------
+		stock["gimp-channel-green"] = {
+			{"images/gimp-channel-green.png", *, *, "gtk-button"},
+			{"images/gimp-channel-green.png", *, *, "gtk-dialog"},
+			{"images/gimp-channel-green.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-green.png", *, *, *}
+		}
+
+	# channel-blue
+	# -----------------
+		stock["gimp-channel-blue"] = {
+			{"images/gimp-channel-blue.png", *, *, "gtk-button"},
+			{"images/gimp-channel-blue.png", *, *, "gtk-dialog"},
+			{"images/gimp-channel-blue.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-blue.png", *, *, *}
+		}
+
+	# channel-gray
+	# -----------------
+		stock["gimp-channel-gray"] = {
+			{"images/gimp-channel-gray.png", *, *, "gtk-button"},
+			{"images/gimp-channel-gray.png", *, *, "gtk-dialog"},
+			{"images/gimp-channel-gray.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-gray.png", *, *, *}
+		}
+
+	# channel-indexed
+	# -----------------
+		stock["gimp-channel-indexed"] = {
+			{"images/gimp-channel-indexed.png", *, *, "gtk-button"},
+			{"images/gimp-channel-indexed.png", *, *, "gtk-dialog"},
+			{"images/gimp-channel-indexed.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-indexed.png", *, *, *}
+		}
+
+	# channel-alpha
+	# -----------------
+		stock["gimp-channel-alpha"] = {
+			{"images/gimp-channel-alpha.png", *, *, "gtk-button"},
+			{"images/gimp-channel-alpha.png", *, *, "gtk-dialog"},
+			{"images/gimp-channel-alpha.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-alpha.png", *, *, *}
+		}
+
+	# path
+	# -----------------
+		stock["gimp-path"] = {
+			{"images/gimp-path.png", *, *, "gtk-button"},
+			{"images/gimp-path.png", *, *, "gtk-dialog"},
+			{"images/gimp-path.png", *, *, "gtk-menu"},
+			{"images/gimp-path.png", *, *, *}
+		}
+
+	# text-layer
+	# -----------------
+		stock["gimp-text-layer"] = {
+			{"images/gimp-text-layer.png", *, *, "gtk-button"},
+			{"images/gimp-text-layer.png", *, *, "gtk-dialog"},
+			{"images/gimp-text-layer.png", *, *, "gtk-menu"},
+			{"images/gimp-text-layer.png", *, *, *}
+		}
+
+	# floating-selection
+	# -----------------
+		stock["gimp-floating-selection"] = {
+			{"images/gimp-floating-selection.png", *, *, "gtk-button"},
+			{"images/gimp-floating-selection.png", *, *, "gtk-dialog"},
+			{"images/gimp-floating-selection.png", *, *, "gtk-menu"},
+			{"images/gimp-floating-selection.png", *, *, *}
+		}
+
+	# template
+	# -----------------
+		stock["gimp-template"] = {
+			{"images/gimp-template.png", *, *, "gtk-button"},
+			{"images/gimp-template.png", *, *, "gtk-dialog"},
+			{"images/gimp-template.png", *, *, "gtk-menu"},
+			{"images/gimp-template.png", *, *, *}
+		}
+
+	# images
+	# -----------------
+		stock["gimp-images"] = {
+			{"images/gimp-images.png", *, *, "gtk-button"},
+			{"images/gimp-images.png", *, *, "gtk-dialog"},
+			{"images/gimp-images.png", *, *, "gtk-menu"},
+			{"images/gimp-images.png", *, *, *}
+		}
+
+	# layers
+	# -----------------
+		stock["gimp-layers"] = {
+			{"images/gimp-layers.png", *, *, "gtk-button"},
+			{"images/gimp-layers.png", *, *, "gtk-dialog"},
+			{"images/gimp-layers.png", *, *, "gtk-menu"},
+			{"images/gimp-layers.png", *, *, *}
+		}
+
+	# channels
+	# -----------------
+		stock["gimp-channels"] = {
+			{"images/gimp-channels.png", *, *, "gtk-button"},
+			{"images/gimp-channels.png", *, *, "gtk-dialog"},
+			{"images/gimp-channels.png", *, *, "gtk-menu"},
+			{"images/gimp-channels.png", *, *, *}
+		}
+
+	# paths
+	# -----------------
+		stock["gimp-paths"] = {
+			{"images/gimp-paths.png", *, *, "gtk-button"},
+			{"images/gimp-paths.png", *, *, "gtk-dialog"},
+			{"images/gimp-paths.png", *, *, "gtk-menu"},
+			{"images/gimp-paths.png", *, *, *}
+		}
+
+	# colormap
+	# -----------------
+		stock["gimp-colormap"] = {
+			{"images/gimp-colormap.png", *, *, "gtk-button"},
+			{"images/gimp-colormap.png", *, *, "gtk-dialog"},
+			{"images/gimp-colormap.png", *, *, "gtk-menu"},
+			{"images/gimp-colormap.png", *, *, *}
+		}
+
+	# indexed-palette
+	# -----------------
+		stock["gimp-indexed-palette"] = {
+			{"images/gimp-indexed-palette.png", *, *, "gtk-button"},
+			{"images/gimp-indexed-palette.png", *, *, "gtk-dialog"},
+			{"images/gimp-indexed-palette.png", *, *, "gtk-menu"},
+			{"images/gimp-indexed-palette.png", *, *, *}
+		}
+
+	# cursor
+	# -----------------
+		stock["gimp-cursor"] = {
+			{"images/gimp-cursor.png", *, *, "gtk-button"},
+			{"images/gimp-cursor.png", *, *, "gtk-dialog"},
+			{"images/gimp-cursor.png", *, *, "gtk-menu"},
+			{"images/gimp-cursor.png", *, *, *}
+		}
+
+	# sample-point
+	# -----------------
+		stock["gimp-sample-point"] = {
+			{"images/gimp-sample-point.png", *, *, "gtk-button"},
+			{"images/gimp-sample-point.png", *, *, "gtk-dialog"},
+			{"images/gimp-sample-point.png", *, *, "gtk-menu"},
+			{"images/gimp-sample-point.png", *, *, *}
+		}
+
+	# shape-circle
+	# -----------------
+		stock["gimp-shape-circle"] = {
+			{"images/gimp-shape-circle.png", *, *, "gtk-button"},
+			{"images/gimp-shape-circle.png", *, *, "gtk-dialog"},
+			{"images/gimp-shape-circle.png", *, *, "gtk-menu"},
+			{"images/gimp-shape-circle.png", *, *, *}
+		}
+
+	# shape-square
+	# -----------------
+		stock["gimp-shape-square"] = {
+			{"images/gimp-shape-square.png", *, *, "gtk-button"},
+			{"images/gimp-shape-square.png", *, *, "gtk-dialog"},
+			{"images/gimp-shape-square.png", *, *, "gtk-menu"},
+			{"images/gimp-shape-square.png", *, *, *}
+		}
+
+	# shape-diamond
+	# -----------------
+		stock["gimp-shape-diamond"] = {
+			{"images/gimp-shape-diamond.png", *, *, "gtk-button"},
+			{"images/gimp-shape-diamond.png", *, *, "gtk-dialog"},
+			{"images/gimp-shape-diamond.png", *, *, "gtk-menu"},
+			{"images/gimp-shape-diamond.png", *, *, *}
+		}
+
+	# cap-butt
+	# -----------------
+		stock["gimp-cap-butt"] = {
+			{"images/gimp-cap-butt.png", *, *, "gtk-button"},
+			{"images/gimp-cap-butt.png", *, *, "gtk-dialog"},
+			{"images/gimp-cap-butt.png", *, *, "gtk-menu"},
+			{"images/gimp-cap-butt.png", *, *, *}
+		}
+
+	# cap-round
+	# -----------------
+		stock["gimp-cap-round"] = {
+			{"images/gimp-cap-round.png", *, *, "gtk-button"},
+			{"images/gimp-cap-round.png", *, *, "gtk-dialog"},
+			{"images/gimp-cap-round.png", *, *, "gtk-menu"},
+			{"images/gimp-cap-round.png", *, *, *}
+		}
+
+	# cap-square
+	# -----------------
+		stock["gimp-cap-square"] = {
+			{"images/gimp-cap-square.png", *, *, "gtk-button"},
+			{"images/gimp-cap-square.png", *, *, "gtk-dialog"},
+			{"images/gimp-cap-square.png", *, *, "gtk-menu"},
+			{"images/gimp-cap-square.png", *, *, *}
+		}
+
+	# join-miter
+	# -----------------
+		stock["gimp-join-miter"] = {
+			{"images/gimp-join-miter.png", *, *, "gtk-button"},
+			{"images/gimp-join-miter.png", *, *, "gtk-dialog"},
+			{"images/gimp-join-miter.png", *, *, "gtk-menu"},
+			{"images/gimp-join-miter.png", *, *, *}
+		}
+
+	# join-round
+	# -----------------
+		stock["gimp-join-round"] = {
+			{"images/gimp-join-round.png", *, *, "gtk-button"},
+			{"images/gimp-join-round.png", *, *, "gtk-dialog"},
+			{"images/gimp-join-round.png", *, *, "gtk-menu"},
+			{"images/gimp-join-round.png", *, *, *}
+		}
+
+	# join-bevel
+	# -----------------
+		stock["gimp-join-bevel"] = {
+			{"images/gimp-join-bevel.png", *, *, "gtk-button"},
+			{"images/gimp-join-bevel.png", *, *, "gtk-dialog"},
+			{"images/gimp-join-bevel.png", *, *, "gtk-menu"},
+			{"images/gimp-join-bevel.png", *, *, *}
+		}
+
+	# selection
+	# -----------------
+		stock["gimp-selection"] = {
+			{"images/gimp-selection.png", *, *, "gtk-button"},
+			{"images/gimp-selection.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection.png", *, *, "gtk-menu"},
+			{"images/gimp-selection.png", *, *, *}
+		}
+
+	# selection-all
+	# -----------------
+		stock["gimp-selection-all"] = {
+			{"images/gimp-selection-all.png", *, *, "gtk-button"},
+			{"images/gimp-selection-all.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-all.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-all.png", *, *, *}
+		}
+
+	# selection-none
+	# -----------------
+		stock["gimp-selection-none"] = {
+			{"images/gimp-selection-none.png", *, *, "gtk-button"},
+			{"images/gimp-selection-none.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-none.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-none.png", *, *, *}
+		}
+
+	# selection-grow
+	# -----------------
+		stock["gimp-selection-grow"] = {
+			{"images/gimp-selection-grow.png", *, *, "gtk-button"},
+			{"images/gimp-selection-grow.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-grow.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-grow.png", *, *, *}
+		}
+
+	# selection-shrink
+	# -----------------
+		stock["gimp-selection-shrink"] = {
+			{"images/gimp-selection-shrink.png", *, *, "gtk-button"},
+			{"images/gimp-selection-shrink.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-shrink.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-shrink.png", *, *, *}
+		}
+
+	# selection-border
+	# -----------------
+		stock["gimp-selection-border"] = {
+			{"images/gimp-selection-border.png", *, *, "gtk-button"},
+			{"images/gimp-selection-border.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-border.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-border.png", *, *, *}
+		}
+
+	# selection-add
+	# -----------------
+		stock["gimp-selection-add"] = {
+			{"images/gimp-selection-add.png", *, *, "gtk-button"},
+			{"images/gimp-selection-add.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-add.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-add.png", *, *, *}
+		}
+
+	# selection-subtract
+	# -----------------
+		stock["gimp-selection-subtract"] = {
+			{"images/gimp-selection-subtract.png", *, *, "gtk-button"},
+			{"images/gimp-selection-subtract.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-subtract.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-subtract.png", *, *, *}
+		}
+
+	# selection-replace
+	# -----------------
+		stock["gimp-selection-replace"] = {
+			{"images/gimp-selection-replace.png", *, *, "gtk-button"},
+			{"images/gimp-selection-replace.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-replace.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-replace.png", *, *, *}
+		}
+
+	# selection-intersect
+	# -----------------
+		stock["gimp-selection-intersect"] = {
+			{"images/gimp-selection-intersect.png", *, *, "gtk-button"},
+			{"images/gimp-selection-intersect.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-intersect.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-intersect.png", *, *, *}
+		}
+
+	# selection-stroke
+	# -----------------
+		stock["gimp-selection-stroke"] = {
+			{"images/gimp-selection-stroke.png", *, *, "gtk-button"},
+			{"images/gimp-selection-stroke.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-stroke.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-stroke.png", *, *, *}
+		}
+
+	# selection-to-channel
+	# -----------------
+		stock["gimp-selection-to-channel"] = {
+			{"images/gimp-selection-to-channel.png", *, *, "gtk-button"},
+			{"images/gimp-selection-to-channel.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-to-channel.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-to-channel.png", *, *, *}
+		}
+
+	# selection-to-path
+	# -----------------
+		stock["gimp-selection-to-path"] = {
+			{"images/gimp-selection-to-path.png", *, *, "gtk-button"},
+			{"images/gimp-selection-to-path.png", *, *, "gtk-dialog"},
+			{"images/gimp-selection-to-path.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-to-path.png", *, *, *}
+		}
+
+	# gradient-linear
+	# -----------------
+		stock["gimp-gradient-linear"] = {
+			{"images/gimp-gradient-linear.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-linear.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-linear.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-linear.png", *, *, *}
+		}
+
+	# gradient-bilinear
+	# -----------------
+		stock["gimp-gradient-bilinear"] = {
+			{"images/gimp-gradient-bilinear.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-bilinear.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-bilinear.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-bilinear.png", *, *, *}
+		}
+
+	# gradient-radial
+	# -----------------
+		stock["gimp-gradient-radial"] = {
+			{"images/gimp-gradient-radial.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-radial.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-radial.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-radial.png", *, *, *}
+		}
+
+	# gradient-square
+	# -----------------
+		stock["gimp-gradient-square"] = {
+			{"images/gimp-gradient-square.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-square.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-square.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-square.png", *, *, *}
+		}
+
+	# gradient-conical-symmetric
+	# -----------------
+		stock["gimp-gradient-conical-symmetric"] = {
+			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-conical-symmetric.png", *, *, *}
+		}
+
+	# gradient-conical-asymmetric
+	# -----------------
+		stock["gimp-gradient-conical-asymmetric"] = {
+			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-conical-asymmetric.png", *, *, *}
+		}
+
+	# gradient-shapeburst-spherical
+	# -----------------
+		stock["gimp-gradient-shapeburst-spherical"] = {
+			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-shapeburst-spherical.png", *, *, *}
+		}
+
+	# gradient-shapeburst-angular
+	# -----------------
+		stock["gimp-gradient-shapeburst-angular"] = {
+			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-shapeburst-angular.png", *, *, *}
+		}
+
+	# gradient-shapeburst-dimpled
+	# -----------------
+		stock["gimp-gradient-shapeburst-dimpled"] = {
+			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, *}
+		}
+
+	# gradient-spiral-clockwise
+	# -----------------
+		stock["gimp-gradient-spiral-clockwise"] = {
+			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-spiral-clockwise.png", *, *, *}
+		}
+
+	# gradient-spiral-anticlockwise
+	# -----------------
+		stock["gimp-gradient-spiral-anticlockwise"] = {
+			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-button"},
+			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, *}
+		}
+
+	# gravity-north-west
+	# -----------------
+		stock["gimp-gravity-north-west"] = {
+			{"images/gimp-gravity-north-west.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-north-west.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-north-west.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-north-west.png", *, *, *}
+		}
+
+	# gravity-north
+	# -----------------
+		stock["gimp-gravity-north"] = {
+			{"images/gimp-gravity-north.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-north.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-north.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-north.png", *, *, *}
+		}
+
+	# gravity-north-east
+	# -----------------
+		stock["gimp-gravity-north-east"] = {
+			{"images/gimp-gravity-north-east.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-north-east.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-north-east.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-north-east.png", *, *, *}
+		}
+
+	# gravity-west
+	# -----------------
+		stock["gimp-gravity-west"] = {
+			{"images/gimp-gravity-west.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-west.png", *, *, *}
+		}
+
+	# gravity-east
+	# -----------------
+		stock["gimp-gravity-east"] = {
+			{"images/gimp-gravity-east.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-east.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-east.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-east.png", *, *, *}
+		}
+
+	# gravity-south-west
+	# -----------------
+		stock["gimp-gravity-south-west"] = {
+			{"images/gimp-gravity-south-west.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-south-west.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-south-west.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-south-west.png", *, *, *}
+		}
+
+	# gravity-south
+	# -----------------
+		stock["gimp-gravity-south"] = {
+			{"images/gimp-gravity-south.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-south.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-south.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-south.png", *, *, *}
+		}
+
+	# gravity-south-east
+	# -----------------
+		stock["gimp-gravity-south-east"] = {
+			{"images/gimp-gravity-south-east.png", *, *, "gtk-button"},
+			{"images/gimp-gravity-south-east.png", *, *, "gtk-dialog"},
+			{"images/gimp-gravity-south-east.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-south-east.png", *, *, *}
+		}
+
+	# hcenter
+	# -----------------
+		stock["gimp-hcenter"] = {
+			{"images/gimp-hcenter.png", *, *, "gtk-button"},
+			{"images/gimp-hcenter.png", *, *, "gtk-dialog"},
+			{"images/gimp-hcenter.png", *, *, "gtk-menu"},
+			{"images/gimp-hcenter.png", *, *, *}
+		}
+
+	# vcenter
+	# -----------------
+		stock["gimp-vcenter"] = {
+			{"images/gimp-vcenter.png", *, *, "gtk-button"},
+			{"images/gimp-vcenter.png", *, *, "gtk-dialog"},
+			{"images/gimp-vcenter.png", *, *, "gtk-menu"},
+			{"images/gimp-vcenter.png", *, *, *}
+		}
+
+	# char-picker
+	# -----------------
+		stock["gimp-char-picker"] = {
+			{"images/gimp-char-picker.png", *, *, "gtk-button"},
+			{"images/gimp-char-picker.png", *, *, "gtk-dialog"},
+			{"images/gimp-char-picker.png", *, *, "gtk-menu"},
+			{"images/gimp-char-picker.png", *, *, *}
+		}
+
+	# letter-spacing
+	# -----------------
+		stock["gimp-letter-spacing"] = {
+			{"images/gimp-letter-spacing.png", *, *, "gtk-button"},
+			{"images/gimp-letter-spacing.png", *, *, "gtk-dialog"},
+			{"images/gimp-letter-spacing.png", *, *, "gtk-menu"},
+			{"images/gimp-letter-spacing.png", *, *, *}
+		}
+
+	# line-spacing
+	# -----------------
+		stock["gimp-line-spacing"] = {
+			{"images/gimp-line-spacing.png", *, *, "gtk-button"},
+			{"images/gimp-line-spacing.png", *, *, "gtk-dialog"},
+			{"images/gimp-line-spacing.png", *, *, "gtk-menu"},
+			{"images/gimp-line-spacing.png", *, *, *}
+		}
+
+	# text-dir-ltr
+	# -----------------
+		stock["gimp-text-dir-ltr"] = {
+			{"images/gimp-text-dir-ltr.png", *, *, "gtk-button"},
+			{"images/gimp-text-dir-ltr.png", *, *, "gtk-dialog"},
+			{"images/gimp-text-dir-ltr.png", *, *, "gtk-menu"},
+			{"images/gimp-text-dir-ltr.png", *, *, *}
+		}
+
+	# text-dir-rtl
+	# -----------------
+		stock["gimp-text-dir-rtl"] = {
+			{"images/gimp-text-dir-rtl.png", *, *, "gtk-button"},
+			{"images/gimp-text-dir-rtl.png", *, *, "gtk-dialog"},
+			{"images/gimp-text-dir-rtl.png", *, *, "gtk-menu"},
+			{"images/gimp-text-dir-rtl.png", *, *, *}
+		}
+
+	# print-resolution
+	# -----------------
+		stock["gimp-print-resolution"] = {
+			{"images/gimp-print-resolution.png", *, *, "gtk-button"},
+			{"images/gimp-print-resolution.png", *, *, "gtk-dialog"},
+			{"images/gimp-print-resolution.png", *, *, "gtk-menu"},
+			{"images/gimp-print-resolution.png", *, *, *}
+		}
+
+	# tools
+	# -----------------
+		stock["gimp-tools"] = {
+			{"images/gimp-tools.png", *, *, "gtk-button"},
+			{"images/gimp-tools.png", *, *, "gtk-dialog"},
+			{"images/gimp-tools.png", *, *, "gtk-menu"},
+			{"images/gimp-tools.png", *, *, *}
+		}
+
+	# tool-options
+	# -----------------
+		stock["gimp-tool-options"] = {
+			{"images/gimp-tool-options.png", *, *, "gtk-button"},
+			{"images/gimp-tool-options.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-options.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-options.png", *, *, *}
+		}
+
+	# device-status
+	# -----------------
+		stock["gimp-device-status"] = {
+			{"images/gimp-device-status.png", *, *, "gtk-button"},
+			{"images/gimp-device-status.png", *, *, "gtk-dialog"},
+			{"images/gimp-device-status.png", *, *, "gtk-menu"},
+			{"images/gimp-device-status.png", *, *, *}
+		}
+
+	# input-device
+	# -----------------
+		stock["gimp-input-device"] = {
+			{"images/gimp-input-device.png", *, *, "gtk-button"},
+			{"images/gimp-input-device.png", *, *, "gtk-dialog"},
+			{"images/gimp-input-device.png", *, *, "gtk-menu"},
+			{"images/gimp-input-device.png", *, *, *}
+		}
+
+	# display-filter
+	# -----------------
+		stock["gimp-display-filter"] = {
+			{"images/gimp-display-filter.png", *, *, "gtk-button"},
+			{"images/gimp-display-filter.png", *, *, "gtk-dialog"},
+			{"images/gimp-display-filter.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter.png", *, *, *}
+		}
+
+	# curve-free
+	# -----------------
+		stock["gimp-curve-free"] = {
+			{"images/gimp-curve-free.png", *, *, "gtk-button"},
+			{"images/gimp-curve-free.png", *, *, "gtk-dialog"},
+			{"images/gimp-curve-free.png", *, *, "gtk-menu"},
+			{"images/gimp-curve-free.png", *, *, *}
+		}
+
+	# curve-smooth
+	# -----------------
+		stock["gimp-curve-smooth"] = {
+			{"images/gimp-curve-smooth.png", *, *, "gtk-button"},
+			{"images/gimp-curve-smooth.png", *, *, "gtk-dialog"},
+			{"images/gimp-curve-smooth.png", *, *, "gtk-menu"},
+			{"images/gimp-curve-smooth.png", *, *, *}
+		}
+
+	# color-picker-black
+	# -----------------
+		stock["gimp-color-picker-black"] = {
+			{"images/gimp-color-picker-black.png", *, *, "gtk-button"},
+			{"images/gimp-color-picker-black.png", *, *, "gtk-dialog"},
+			{"images/gimp-color-picker-black.png", *, *, "gtk-menu"},
+			{"images/gimp-color-picker-black.png", *, *, *}
+		}
+
+	# color-picker-gray
+	# -----------------
+		stock["gimp-color-picker-gray"] = {
+			{"images/gimp-color-picker-gray.png", *, *, "gtk-button"},
+			{"images/gimp-color-picker-gray.png", *, *, "gtk-dialog"},
+			{"images/gimp-color-picker-gray.png", *, *, "gtk-menu"},
+			{"images/gimp-color-picker-gray.png", *, *, *}
+		}
+
+	# color-picker-white
+	# -----------------
+		stock["gimp-color-picker-white"] = {
+			{"images/gimp-color-picker-white.png", *, *, "gtk-button"},
+			{"images/gimp-color-picker-white.png", *, *, "gtk-dialog"},
+			{"images/gimp-color-picker-white.png", *, *, "gtk-menu"},
+			{"images/gimp-color-picker-white.png", *, *, *}
+		}
+
+	# color-triangle
+	# -----------------
+		stock["gimp-color-triangle"] = {
+			{"images/gimp-color-triangle.png", *, *, "gtk-button"},
+			{"images/gimp-color-triangle.png", *, *, "gtk-dialog"},
+			{"images/gimp-color-triangle.png", *, *, "gtk-menu"},
+			{"images/gimp-color-triangle.png", *, *, *}
+		}
+
+	# color-pick-from-screen
+	# -----------------
+		stock["gimp-color-pick-from-screen"] = {
+			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-button"},
+			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-dialog"},
+			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-menu"},
+			{"images/gimp-color-pick-from-screen.png", *, *, *}
+		}
+
+	# convert-grayscale
+	# -----------------
+		stock["gimp-convert-grayscale"] = {
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-button"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-dialog"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-menu"},
+			{"images/gimp-convert-grayscale.png", *, *, *}
+		}
+
+	# convert-indexed
+	# -----------------
+		stock["gimp-convert-indexed"] = {
+			{"images/gimp-convert-indexed.png", *, *, "gtk-button"},
+			{"images/gimp-convert-indexed.png", *, *, "gtk-dialog"},
+			{"images/gimp-convert-indexed.png", *, *, "gtk-menu"},
+			{"images/gimp-convert-indexed.png", *, *, *}
+		}
+
+	# convert-rgb
+	# -----------------
+		stock["gimp-convert-rgb"] = {
+			{"images/gimp-convert-rgb.png", *, *, "gtk-button"},
+			{"images/gimp-convert-rgb.png", *, *, "gtk-dialog"},
+			{"images/gimp-convert-rgb.png", *, *, "gtk-menu"},
+			{"images/gimp-convert-rgb.png", *, *, *}
+		}
+
+	# transparency
+	# -----------------
+		stock["gimp-transparency"] = {
+			{"images/gimp-transparency.png", *, *, "gtk-button"},
+			{"images/gimp-transparency.png", *, *, "gtk-dialog"},
+			{"images/gimp-transparency.png", *, *, "gtk-menu"},
+			{"images/gimp-transparency.png", *, *, *}
+		}
+
+	# default-colors
+	# -----------------
+		stock["gimp-default-colors"] = {
+			{"images/gimp-default-colors.png", *, *, "gtk-button"},
+			{"images/gimp-default-colors.png", *, *, "gtk-dialog"},
+			{"images/gimp-default-colors.png", *, *, "gtk-menu"},
+			{"images/gimp-default-colors.png", *, *, *}
+		}
+
+	# swap-colors
+	# -----------------
+		stock["gimp-swap-colors"] = {
+			{"images/gimp-swap-colors.png", *, *, "gtk-button"},
+			{"images/gimp-swap-colors.png", *, *, "gtk-dialog"},
+			{"images/gimp-swap-colors.png", *, *, "gtk-menu"},
+			{"images/gimp-swap-colors.png", *, *, *}
+		}
+
+	# undo-history
+	# -----------------
+		stock["gimp-undo-history"] = {
+			{"images/gimp-undo-history.png", *, *, "gtk-button"},
+			{"images/gimp-undo-history.png", *, *, "gtk-dialog"},
+			{"images/gimp-undo-history.png", *, *, "gtk-menu"},
+			{"images/gimp-undo-history.png", *, *, *}
+		}
+
+	# hchain
+	# -----------------
+		stock["gimp-hchain"] = {
+			{"images/gimp-hchain.png", *, *, "gtk-button"},
+			{"images/gimp-hchain.png", *, *, "gtk-dialog"},
+			{"images/gimp-hchain.png", *, *, "gtk-menu"},
+			{"images/gimp-hchain.png", *, *, *}
+		}
+
+	# hchain-broken
+	# -----------------
+		stock["gimp-hchain-broken"] = {
+			{"images/gimp-hchain-broken.png", *, *, "gtk-button"},
+			{"images/gimp-hchain-broken.png", *, *, "gtk-dialog"},
+			{"images/gimp-hchain-broken.png", *, *, "gtk-menu"},
+			{"images/gimp-hchain-broken.png", *, *, *}
+		}
+
+	# vchain
+	# -----------------
+		stock["gimp-vchain"] = {
+			{"images/gimp-vchain.png", *, *, "gtk-button"},
+			{"images/gimp-vchain.png", *, *, "gtk-dialog"},
+			{"images/gimp-vchain.png", *, *, "gtk-menu"},
+			{"images/gimp-vchain.png", *, *, *}
+		}
+
+	# vchain-broken
+	# -----------------
+		stock["gimp-vchain-broken"] = {
+			{"images/gimp-vchain-broken.png", *, *, "gtk-button"},
+			{"images/gimp-vchain-broken.png", *, *, "gtk-dialog"},
+			{"images/gimp-vchain-broken.png", *, *, "gtk-menu"},
+			{"images/gimp-vchain-broken.png", *, *, *}
+		}
+
+	# texture
+	# -----------------
+		stock["gimp-texture"] = {
+			{"images/gimp-texture.png", *, *, "gtk-button"},
+			{"images/gimp-texture.png", *, *, "gtk-dialog"},
+			{"images/gimp-texture.png", *, *, "gtk-menu"},
+			{"images/gimp-texture.png", *, *, *}
+		}
+
+	# frame
+	# -----------------
+		stock["gimp-frame"] = {
+			{"images/gimp-frame.png", *, *, "gtk-button"},
+			{"images/gimp-frame.png", *, *, "gtk-dialog"},
+			{"images/gimp-frame.png", *, *, "gtk-menu"},
+			{"images/gimp-frame.png", *, *, *}
+		}
+
+	# error
+	# -----------------
+		stock["gimp-error"] = {
+			{"images/gimp-error.png", *, *, "gtk-button"},
+			{"images/gimp-error.png", *, *, "gtk-dialog"},
+			{"images/gimp-error.png", *, *, "gtk-menu"},
+			{"images/gimp-error.png", *, *, *}
+		}
+
+	# info
+	# -----------------
+		stock["gimp-info"] = {
+			{"images/gimp-info.png", *, *, "gtk-button"},
+			{"images/gimp-info.png", *, *, "gtk-dialog"},
+			{"images/gimp-info.png", *, *, "gtk-menu"},
+			{"images/gimp-info.png", *, *, *}
+		}
+
+	# question
+	# -----------------
+		stock["gimp-question"] = {
+			{"images/gimp-question.png", *, *, "gtk-button"},
+			{"images/gimp-question.png", *, *, "gtk-dialog"},
+			{"images/gimp-question.png", *, *, "gtk-menu"},
+			{"images/gimp-question.png", *, *, *}
+		}
+
+	# warning
+	# -----------------
+		stock["gimp-warning"] = {
+			{"images/gimp-warning.png", *, *, "gtk-button"},
+			{"images/gimp-warning.png", *, *, "gtk-dialog"},
+			{"images/gimp-warning.png", *, *, "gtk-menu"},
+			{"images/gimp-warning.png", *, *, *}
+		}
+
+	# gegl
+	# -----------------
+		stock["gimp-gegl"] = {
+			{"images/gimp-gegl.png", *, *, "gtk-button"},
+			{"images/gimp-gegl.png", *, *, "gtk-dialog"},
+			{"images/gimp-gegl.png", *, *, "gtk-menu"},
+			{"images/gimp-gegl.png", *, *, *}
+		}
+
+	# user-manual
+	# -----------------
+		stock["gimp-user-manual"] = {
+			{"images/gimp-user-manual.png", *, *, "gtk-button"},
+			{"images/gimp-user-manual.png", *, *, "gtk-dialog"},
+			{"images/gimp-user-manual.png", *, *, "gtk-menu"},
+			{"images/gimp-user-manual.png", *, *, *}
+		}
+
+	# wilber
+	# -----------------
+		stock["gimp-wilber"] = {
+			{"images/gimp-wilber.png", *, *, "gtk-button"},
+			{"images/gimp-wilber.png", *, *, "gtk-dialog"},
+			{"images/gimp-wilber.png", *, *, "gtk-menu"},
+			{"images/gimp-wilber.png", *, *, *}
+		}
+
+	# wilber-eek
+	# -----------------
+		stock["gimp-wilber-eek"] = {
+			{"images/gimp-wilber-eek.png", *, *, "gtk-button"},
+			{"images/gimp-wilber-eek.png", *, *, "gtk-dialog"},
+			{"images/gimp-wilber-eek.png", *, *, "gtk-menu"},
+			{"images/gimp-wilber-eek.png", *, *, *}
+		}
+
+	# zoom-follow-window
+	# -----------------
+		stock["gimp-zoom-follow-window"] = {
+			{"images/gimp-zoom-follow-window.png", *, *, "gtk-button"},
+			{"images/gimp-zoom-follow-window.png", *, *, "gtk-dialog"},
+			{"images/gimp-zoom-follow-window.png", *, *, "gtk-menu"},
+			{"images/gimp-zoom-follow-window.png", *, *, *}
+		}
+
+	# tool-airbrush
+	# -----------------
+		stock["gimp-tool-airbrush"] = {
+			{"images/gimp-tool-airbrush.png", *, *, "gtk-button"},
+			{"images/gimp-tool-airbrush.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-airbrush.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-airbrush.png", *, *, *}
+		}
+
+	# tool-align
+	# -----------------
+		stock["gimp-tool-align"] = {
+			{"images/gimp-tool-align.png", *, *, "gtk-button"},
+			{"images/gimp-tool-align.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-align.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-align.png", *, *, *}
+		}
+
+	# tool-blend
+	# -----------------
+		stock["gimp-tool-blend"] = {
+			{"images/gimp-tool-blend.png", *, *, "gtk-button"},
+			{"images/gimp-tool-blend.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-blend.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-blend.png", *, *, *}
+		}
+
+	# tool-blur
+	# -----------------
+		stock["gimp-tool-blur"] = {
+			{"images/gimp-tool-blur.png", *, *, "gtk-button"},
+			{"images/gimp-tool-blur.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-blur.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-blur.png", *, *, *}
+		}
+
+	# tool-brightness-contrast
+	# -----------------
+		stock["gimp-tool-brightness-contrast"] = {
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-button"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, *}
+		}
+
+	# tool-bucket-fill
+	# -----------------
+		stock["gimp-tool-bucket-fill"] = {
+			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-button"},
+			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-bucket-fill.png", *, *, *}
+		}
+
+	# tool-by-color-select
+	# -----------------
+		stock["gimp-tool-by-color-select"] = {
+			{"images/gimp-tool-by-color-select.png", *, *, "gtk-button"},
+			{"images/gimp-tool-by-color-select.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-by-color-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-by-color-select.png", *, *, *}
+		}
+
+	# tool-cage
+	# -----------------
+		stock["gimp-tool-cage"] = {
+			{"images/gimp-tool-cage.png", *, *, "gtk-button"},
+			{"images/gimp-tool-cage.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-cage.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-cage.png", *, *, *}
+		}
+
+	# tool-clone
+	# -----------------
+		stock["gimp-tool-clone"] = {
+			{"images/gimp-tool-clone.png", *, *, "gtk-button"},
+			{"images/gimp-tool-clone.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-clone.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-clone.png", *, *, *}
+		}
+
+	# tool-color-balance
+	# -----------------
+		stock["gimp-tool-color-balance"] = {
+			{"images/gimp-tool-color-balance.png", *, *, "gtk-button"},
+			{"images/gimp-tool-color-balance.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-color-balance.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-color-balance.png", *, *, *}
+		}
+
+	# tool-color-picker
+	# -----------------
+		stock["gimp-tool-color-picker"] = {
+			{"images/gimp-tool-color-picker.png", *, *, "gtk-button"},
+			{"images/gimp-tool-color-picker.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-color-picker.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-color-picker.png", *, *, *}
+		}
+
+	# tool-colorize
+	# -----------------
+		stock["gimp-tool-colorize"] = {
+			{"images/gimp-tool-colorize.png", *, *, "gtk-button"},
+			{"images/gimp-tool-colorize.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-colorize.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-colorize.png", *, *, *}
+		}
+
+	# tool-crop
+	# -----------------
+		stock["gimp-tool-crop"] = {
+			{"images/gimp-tool-crop.png", *, *, "gtk-button"},
+			{"images/gimp-tool-crop.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-crop.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-crop.png", *, *, *}
+		}
+
+	# tool-curves
+	# -----------------
+		stock["gimp-tool-curves"] = {
+			{"images/gimp-tool-curves.png", *, *, "gtk-button"},
+			{"images/gimp-tool-curves.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-curves.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-curves.png", *, *, *}
+		}
+
+	# tool-desaturate
+	# -----------------
+		stock["gimp-tool-desaturate"] = {
+			{"images/gimp-tool-desaturate.png", *, *, "gtk-button"},
+			{"images/gimp-tool-desaturate.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-desaturate.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-desaturate.png", *, *, *}
+		}
+
+	# tool-dodge
+	# -----------------
+		stock["gimp-tool-dodge"] = {
+			{"images/gimp-tool-dodge.png", *, *, "gtk-button"},
+			{"images/gimp-tool-dodge.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-dodge.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-dodge.png", *, *, *}
+		}
+
+	# tool-ellipse-select
+	# -----------------
+		stock["gimp-tool-ellipse-select"] = {
+			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-button"},
+			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-ellipse-select.png", *, *, *}
+		}
+
+	# tool-eraser
+	# -----------------
+		stock["gimp-tool-eraser"] = {
+			{"images/gimp-tool-eraser.png", *, *, "gtk-button"},
+			{"images/gimp-tool-eraser.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-eraser.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-eraser.png", *, *, *}
+		}
+
+	# tool-flip
+	# -----------------
+		stock["gimp-tool-flip"] = {
+			{"images/gimp-tool-flip.png", *, *, "gtk-button"},
+			{"images/gimp-tool-flip.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-flip.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-flip.png", *, *, *}
+		}
+
+	# tool-foreground-select
+	# -----------------
+		stock["gimp-tool-foreground-select"] = {
+			{"images/gimp-tool-foreground-select.png", *, *, "gtk-button"},
+			{"images/gimp-tool-foreground-select.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-foreground-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-foreground-select.png", *, *, *}
+		}
+
+	# tool-free-select
+	# -----------------
+		stock["gimp-tool-free-select"] = {
+			{"images/gimp-tool-free-select.png", *, *, "gtk-button"},
+			{"images/gimp-tool-free-select.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-free-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-free-select.png", *, *, *}
+		}
+
+	# tool-fuzzy-select
+	# -----------------
+		stock["gimp-tool-fuzzy-select"] = {
+			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-button"},
+			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-fuzzy-select.png", *, *, *}
+		}
+
+	# tool-heal
+	# -----------------
+		stock["gimp-tool-heal"] = {
+			{"images/gimp-tool-heal.png", *, *, "gtk-button"},
+			{"images/gimp-tool-heal.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-heal.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-heal.png", *, *, *}
+		}
+
+	# tool-hue-saturation
+	# -----------------
+		stock["gimp-tool-hue-saturation"] = {
+			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-button"},
+			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-hue-saturation.png", *, *, *}
+		}
+
+	# tool-ink
+	# -----------------
+		stock["gimp-tool-ink"] = {
+			{"images/gimp-tool-ink.png", *, *, "gtk-button"},
+			{"images/gimp-tool-ink.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-ink.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-ink.png", *, *, *}
+		}
+
+	# tool-iscissors
+	# -----------------
+		stock["gimp-tool-iscissors"] = {
+			{"images/gimp-tool-iscissors.png", *, *, "gtk-button"},
+			{"images/gimp-tool-iscissors.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-iscissors.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-iscissors.png", *, *, *}
+		}
+
+	# tool-levels
+	# -----------------
+		stock["gimp-tool-levels"] = {
+			{"images/gimp-tool-levels.png", *, *, "gtk-button"},
+			{"images/gimp-tool-levels.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-levels.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-levels.png", *, *, *}
+		}
+
+	# tool-measure
+	# -----------------
+		stock["gimp-tool-measure"] = {
+			{"images/gimp-tool-measure.png", *, *, "gtk-button"},
+			{"images/gimp-tool-measure.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-measure.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-measure.png", *, *, *}
+		}
+
+	# tool-move
+	# -----------------
+		stock["gimp-tool-move"] = {
+			{"images/gimp-tool-move.png", *, *, "gtk-button"},
+			{"images/gimp-tool-move.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-move.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-move.png", *, *, *}
+		}
+
+	# tool-paintbrush
+	# -----------------
+		stock["gimp-tool-paintbrush"] = {
+			{"images/gimp-tool-paintbrush.png", *, *, "gtk-button"},
+			{"images/gimp-tool-paintbrush.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-paintbrush.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-paintbrush.png", *, *, *}
+		}
+
+	# tool-path
+	# -----------------
+		stock["gimp-tool-path"] = {
+			{"images/gimp-tool-path.png", *, *, "gtk-button"},
+			{"images/gimp-tool-path.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-path.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-path.png", *, *, *}
+		}
+
+	# tool-pencil
+	# -----------------
+		stock["gimp-tool-pencil"] = {
+			{"images/gimp-tool-pencil.png", *, *, "gtk-button"},
+			{"images/gimp-tool-pencil.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-pencil.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-pencil.png", *, *, *}
+		}
+
+	# tool-perspective
+	# -----------------
+		stock["gimp-tool-perspective"] = {
+			{"images/gimp-tool-perspective.png", *, *, "gtk-button"},
+			{"images/gimp-tool-perspective.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-perspective.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-perspective.png", *, *, *}
+		}
+
+	# tool-perspective-clone
+	# -----------------
+		stock["gimp-tool-perspective-clone"] = {
+			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-button"},
+			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-perspective-clone.png", *, *, *}
+		}
+
+	# tool-posterize
+	# -----------------
+		stock["gimp-tool-posterize"] = {
+			{"images/gimp-tool-posterize.png", *, *, "gtk-button"},
+			{"images/gimp-tool-posterize.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-posterize.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-posterize.png", *, *, *}
+		}
+
+	# tool-rect-select
+	# -----------------
+		stock["gimp-tool-rect-select"] = {
+			{"images/gimp-tool-rect-select.png", *, *, "gtk-button"},
+			{"images/gimp-tool-rect-select.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-rect-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-rect-select.png", *, *, *}
+		}
+
+	# tool-rotate
+	# -----------------
+		stock["gimp-tool-rotate"] = {
+			{"images/gimp-tool-rotate.png", *, *, "gtk-button"},
+			{"images/gimp-tool-rotate.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-rotate.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-rotate.png", *, *, *}
+		}
+
+	# tool-scale
+	# -----------------
+		stock["gimp-tool-scale"] = {
+			{"images/gimp-tool-scale.png", *, *, "gtk-button"},
+			{"images/gimp-tool-scale.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-scale.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-scale.png", *, *, *}
+		}
+
+	# tool-shear
+	# -----------------
+		stock["gimp-tool-shear"] = {
+			{"images/gimp-tool-shear.png", *, *, "gtk-button"},
+			{"images/gimp-tool-shear.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-shear.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-shear.png", *, *, *}
+		}
+
+	# tool-smudge
+	# -----------------
+		stock["gimp-tool-smudge"] = {
+			{"images/gimp-tool-smudge.png", *, *, "gtk-button"},
+			{"images/gimp-tool-smudge.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-smudge.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-smudge.png", *, *, *}
+		}
+
+	# tool-text
+	# -----------------
+		stock["gimp-tool-text"] = {
+			{"images/gimp-tool-text.png", *, *, "gtk-button"},
+			{"images/gimp-tool-text.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-text.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-text.png", *, *, *}
+		}
+
+	# tool-threshold
+	# -----------------
+		stock["gimp-tool-threshold"] = {
+			{"images/gimp-tool-threshold.png", *, *, "gtk-button"},
+			{"images/gimp-tool-threshold.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-threshold.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-threshold.png", *, *, *}
+		}
+
+	# tool-zoom
+	# -----------------
+		stock["gimp-tool-zoom"] = {
+			{"images/gimp-tool-zoom.png", *, *, "gtk-button"},
+			{"images/gimp-tool-zoom.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-zoom.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-zoom.png", *, *, *}
+		}
+
+	# controller
+	# -----------------
+		stock["gimp-controller"] = {
+			{"images/gimp-controller.png", *, *, "gtk-button"},
+			{"images/gimp-controller.png", *, *, "gtk-dialog"},
+			{"images/gimp-controller.png", *, *, "gtk-menu"},
+			{"images/gimp-controller.png", *, *, *}
+		}
+
+	# controller-keyboard
+	# -----------------
+		stock["gimp-controller-keyboard"] = {
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-button"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-dialog"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-keyboard.png", *, *, *}
+		}
+
+	# controller-linux-input
+	# -----------------
+		stock["gimp-controller-linux-input"] = {
+			{"images/gimp-controller-linux-input.png", *, *, "gtk-button"},
+			{"images/gimp-controller-linux-input.png", *, *, "gtk-dialog"},
+			{"images/gimp-controller-linux-input.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-linux-input.png", *, *, *}
+		}
+
+	# controller-midi
+	# -----------------
+		stock["gimp-controller-midi"] = {
+			{"images/gimp-controller-midi.png", *, *, "gtk-button"},
+			{"images/gimp-controller-midi.png", *, *, "gtk-dialog"},
+			{"images/gimp-controller-midi.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-midi.png", *, *, *}
+		}
+
+	# controller-mouse
+	# -----------------
+		stock["gimp-controller-mouse"] = {
+			{"images/gimp-controller-mouse.png", *, *, "gtk-button"},
+			{"images/gimp-controller-mouse.png", *, *, "gtk-dialog"},
+			{"images/gimp-controller-mouse.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-mouse.png", *, *, *}
+		}
+
+	# controller-wheel
+	# -----------------
+		stock["gimp-controller-wheel"] = {
+			{"images/gimp-controller-wheel.png", *, *, "gtk-button"},
+			{"images/gimp-controller-wheel.png", *, *, "gtk-dialog"},
+			{"images/gimp-controller-wheel.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-wheel.png", *, *, *}
+		}
+
+	# display-filter-colorblind
+	# -----------------
+		stock["gimp-display-filter-colorblind"] = {
+			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-button"},
+			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-dialog"},
+			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-colorblind.png", *, *, *}
+		}
+
+	# display-filter-contrast
+	# -----------------
+		stock["gimp-display-filter-contrast"] = {
+			{"images/gimp-display-filter-contrast.png", *, *, "gtk-button"},
+			{"images/gimp-display-filter-contrast.png", *, *, "gtk-dialog"},
+			{"images/gimp-display-filter-contrast.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-contrast.png", *, *, *}
+		}
+
+	# display-filter-gamma
+	# -----------------
+		stock["gimp-display-filter-gamma"] = {
+			{"images/gimp-display-filter-gamma.png", *, *, "gtk-button"},
+			{"images/gimp-display-filter-gamma.png", *, *, "gtk-dialog"},
+			{"images/gimp-display-filter-gamma.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-gamma.png", *, *, *}
+		}
+
+	# display-filter-lcms
+	# -----------------
+		stock["gimp-display-filter-lcms"] = {
+			{"images/gimp-display-filter-lcms.png", *, *, "gtk-button"},
+			{"images/gimp-display-filter-lcms.png", *, *, "gtk-dialog"},
+			{"images/gimp-display-filter-lcms.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-lcms.png", *, *, *}
+		}
+
+	# display-filter-proof
+	# -----------------
+		stock["gimp-display-filter-proof"] = {
+			{"images/gimp-display-filter-proof.png", *, *, "gtk-button"},
+			{"images/gimp-display-filter-proof.png", *, *, "gtk-dialog"},
+			{"images/gimp-display-filter-proof.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-proof.png", *, *, *}
+		}
+
+	# qmask-on
+	# -----------------
+		stock["gimp-qmask-on"] = {
+			{"images/gimp-qmask-on.png", *, *, "gtk-button"},
+			{"images/gimp-qmask-on.png", *, *, "gtk-dialog"},
+			{"images/gimp-qmask-on.png", *, *, "gtk-menu"},
+			{"images/gimp-qmask-on.png", *, *, *}
+		}
+
+	# qmask-off
+	# -----------------
+		stock["gimp-qmask-off"] = {
+			{"images/gimp-qmask-off.png", *, *, "gtk-button"},
+			{"images/gimp-qmask-off.png", *, *, "gtk-dialog"},
+			{"images/gimp-qmask-off.png", *, *, "gtk-menu"},
+			{"images/gimp-qmask-off.png", *, *, *}
+		}
+
+	# brush
+	# -----------------
+		stock["gimp-brush"] = {
+			{"images/gimp-brush.png", *, *, "gtk-button"},
+			{"images/gimp-brush.png", *, *, "gtk-dialog"},
+			{"images/gimp-brush.png", *, *, "gtk-menu"},
+			{"images/gimp-brush.png", *, *, *}
+		}
+
+	# dynamics
+	# -----------------
+		stock["gimp-dynamics"] = {
+			{"images/gimp-dynamics.png", *, *, "gtk-button"},
+			{"images/gimp-dynamics.png", *, *, "gtk-dialog"},
+			{"images/gimp-dynamics.png", *, *, "gtk-menu"},
+			{"images/gimp-dynamics.png", *, *, *}
+		}
+
+	# buffer
+	# -----------------
+		stock["gimp-buffer"] = {
+			{"images/gimp-buffer.png", *, *, "gtk-button"},
+			{"images/gimp-buffer.png", *, *, "gtk-dialog"},
+			{"images/gimp-buffer.png", *, *, "gtk-menu"},
+			{"images/gimp-buffer.png", *, *, *}
+		}
+
+	# detach
+	# -----------------
+		stock["gimp-detach"] = {
+			{"images/gimp-detach.png", *, *, "gtk-button"},
+			{"images/gimp-detach.png", *, *, "gtk-dialog"},
+			{"images/gimp-detach.png", *, *, "gtk-menu"},
+			{"images/gimp-detach.png", *, *, *}
+		}
+
+	# font
+	# -----------------
+		stock["gimp-font"] = {
+			{"images/gimp-font.png", *, *, "gtk-button"},
+			{"images/gimp-font.png", *, *, "gtk-dialog"},
+			{"images/gimp-font.png", *, *, "gtk-menu"},
+			{"images/gimp-font.png", *, *, *}
+		}
+
+	# gradient
+	# -----------------
+		stock["gimp-gradient"] = {
+			{"images/gimp-gradient.png", *, *, "gtk-button"},
+			{"images/gimp-gradient.png", *, *, "gtk-dialog"},
+			{"images/gimp-gradient.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient.png", *, *, *}
+		}
+
+	# palette
+	# -----------------
+		stock["gimp-palette"] = {
+			{"images/gimp-palette.png", *, *, "gtk-button"},
+			{"images/gimp-palette.png", *, *, "gtk-dialog"},
+			{"images/gimp-palette.png", *, *, "gtk-menu"},
+			{"images/gimp-palette.png", *, *, *}
+		}
+
+	# pattern
+	# -----------------
+		stock["gimp-pattern"] = {
+			{"images/gimp-pattern.png", *, *, "gtk-button"},
+			{"images/gimp-pattern.png", *, *, "gtk-dialog"},
+			{"images/gimp-pattern.png", *, *, "gtk-menu"},
+			{"images/gimp-pattern.png", *, *, *}
+		}
+
+	# tool-preset
+	# -----------------
+		stock["gimp-tool-preset"] = {
+			{"images/gimp-tool-preset.png", *, *, "gtk-button"},
+			{"images/gimp-tool-preset.png", *, *, "gtk-dialog"},
+			{"images/gimp-tool-preset.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-preset.png", *, *, *}
+		}
+
 	}
 
+# GTK Icons
+#
+# http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
+# --------------------
+
+# Widgets
+# --------------------
 
 class "GtkWidget" style "gimp-icons"
