@@ -1,5 +1,6 @@
 include "imagerc"
 
+
 # GTK Icons
 #
 # http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
@@ -370,10 +371,10 @@ include "imagerc"
 		# help
 		# --------------------
 			stock["gtk-help"] = {
-				{"images/gtk-help.png", *, *, "gtk-button"},
-				{"images/gtk-help.png", *, *, "gtk-dialog"},
-				{"images/gtk-help.png", *, *, "gtk-menu"},
-				{"images/gtk-help.png", *, *, *}
+				{"images/gimp-question.png", *, *, "gtk-button"},
+				{"images/gimp-question.png", *, *, "gtk-dialog"},
+				{"images/gimp-question.png", *, *, "gtk-menu"},
+				{"images/gimp-question.png", *, *, *}
 			}
 
 		# home
@@ -898,3 +899,38 @@ include "imagerc"
 				{"images/gtk-zoom-out.png", *, *, *}
 			}
 	}
+
+# GTK Styles
+#
+# --------------------
+
+	# Panel Drop area text
+	# --------------------
+		style "gimp-drop-text-style" = "gimp-default-style" {
+			fg[NORMAL] = "#cccccc" # "you can drop docable dialogs here" label
+		}
+		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
+
+	# Empty image background
+	# --------------------
+		style "gimp-empty-image-style" = "gimp-default-style" {
+		  bg[NORMAL] = "#cccccc" # canvas padding
+		  fg[NORMAL] = "#cccccc" # Wilber
+		}
+		widget_class "*Canv*" style:highest "gimp-empty-image-style"
+
+
+class "GtkWidget" style "gimp-default-style"
+class "GtkButton" style "gimp-button"
+class "GtkMenu"   style "gimp-menu"
+class "GtkEntry"  style "gimp-entry"
+class "GtkMenuItem"    style "gimp-menu-item"
+class "GtkStatusbar"   style "gimp-statusbar"
+class "GtkNotebook"    style "gimp-panel"
+class "GtkProgressBar" style "gimp-progressbar"
+class "GtkCheckButton" style "gimp-check"
+class "GtkRadioButton" style "gimp-check"
+class "GtkMenuBar" style "gimp-menubar"
+class "GtkScrollbar" style "gimp-scrollbar"
+class "GtkHScale" style "gimp-hslider"
+class "GtkVScale" style "gimp-vslider"
