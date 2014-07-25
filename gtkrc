@@ -20,6 +20,18 @@ include "imagerc"
 				{"images/gtk-page-setup.png", *, *, *}
 			}
 
+		# document-open-recent
+		# --------------------
+			stock["gtk-document-open-recent"] = {
+				{"images/gtk-page-setup.png", *, *, "gtk-button"},
+				{"images/gtk-page-setup.png", *, *, "gtk-dialog"},
+				{"images/gtk-page-setup.png", *, *, "gtk-menu"},
+				{"images/gtk-page-setup.png", *, *, "gtk-small-toolbar"},
+				{"images/gtk-page-setup.png", *, *, "gtk-large-toolbar"},
+				{"images/gtk-page-setup.png", *, *, "gtk-dnd"},
+				{"images/gtk-page-setup.png", *, *, *}
+			}
+
 
 		# about
 		# --------------------
