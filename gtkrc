@@ -56,10 +56,10 @@ include "imagerc"
 		# cdrom
 		# --------------------
 			stock["gtk-cdrom"] = {
-				{"images/gtk-cdrom.png", *, *, "gtk-button"},
-				{"images/gtk-cdrom.png", *, *, "gtk-dialog"},
-				{"images/gtk-cdrom.png", *, *, "gtk-menu"},
-				{"images/gtk-cdrom.png", *, *, *}
+				# {"images/gtk-cdrom.png", *, *, "gtk-button"},
+				# {"images/gtk-cdrom.png", *, *, "gtk-dialog"},
+				{"images/gtk-cdrom.png", *, *, "gtk-menu"}
+				# {"images/gtk-cdrom.png", *, *, *}
 			}
 
 		# clear
@@ -272,10 +272,10 @@ include "imagerc"
 		# floppy
 		# --------------------
 			stock["gtk-floppy"] = {
-				{"images/gtk-floppy.png", *, *, "gtk-button"},
-				{"images/gtk-floppy.png", *, *, "gtk-dialog"},
-				{"images/gtk-floppy.png", *, *, "gtk-menu"},
-				{"images/gtk-floppy.png", *, *, *}
+				# {"images/gtk-floppy.png", *, *, "gtk-button"},
+				# {"images/gtk-floppy.png", *, *, "gtk-dialog"},
+				{"images/gtk-floppy.png", *, *, "gtk-menu"}
+				# {"images/gtk-floppy.png", *, *, *}
 			}
 
 		# fullscreen
@@ -900,24 +900,53 @@ include "imagerc"
 			}
 	}
 
-# GTK Styles
-#
+# Windows 7 (Classic)
 # --------------------
+
+	# Default Styles
+	# --------------------
+		style "gimp-default-style" {
+			bg[NORMAL] = "#d4d0c8" # background set to match "windows classic" theme in Windows 7
+		}
 
 	# Panel Drop area text
 	# --------------------
 		style "gimp-drop-text-style" = "gimp-default-style" {
-			fg[NORMAL] = "#cccccc" # "you can drop docable dialogs here" label
+			fg[NORMAL] = "#d4d0c8" # "you can drop docable dialogs here" label
 		}
 		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
 
 	# Empty image background
 	# --------------------
 		style "gimp-empty-image-style" = "gimp-default-style" {
-		  bg[NORMAL] = "#cccccc" # canvas padding
-		  fg[NORMAL] = "#cccccc" # Wilber
+		  bg[NORMAL] = "#d4d0c8" # canvas padding
+		  fg[NORMAL] = "#d4d0c8" # Wilber
 		}
 		widget_class "*Canv*" style:highest "gimp-empty-image-style"
+
+# # Windows 7 (Aero)
+# # --------------------
+
+# 	# Default Styles
+# 	# --------------------
+# 		style "gimp-default-style" {
+# 			bg[NORMAL] = "#ffffff" # background set to match "windows classic" theme in Windows 7
+# 		}
+
+# 	# Panel Drop area text
+# 	# --------------------
+# 		style "gimp-drop-text-style" = "gimp-default-style" {
+# 			fg[NORMAL] = "#ffffff" # "you can drop docable dialogs here" label
+# 		}
+# 		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
+
+# 	# Empty image background
+# 	# --------------------
+# 		style "gimp-empty-image-style" = "gimp-default-style" {
+# 		  bg[NORMAL] = "#eeeeee" # canvas padding
+# 		  fg[NORMAL] = "#eeeeee" # Wilber
+# 		}
+# 		widget_class "*Canv*" style:highest "gimp-empty-image-style"
 
 
 class "GtkWidget" style "gimp-default-style"

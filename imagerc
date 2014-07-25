@@ -333,19 +333,19 @@
 	# video
 	# -----------------
 		stock["gimp-video"] = {
-			{"images/gimp-video.png", *, *, "gtk-button"},
-			{"images/gimp-video.png", *, *, "gtk-dialog"},
-			{"images/gimp-video.png", *, *, "gtk-menu"},
-			{"images/gimp-video.png", *, *, *}
+			# {"images/gimp-video.png", *, *, "gtk-button"},
+			# {"images/gimp-video.png", *, *, "gtk-dialog"},
+			{"images/gimp-video.png", *, *, "gtk-menu"}
+			# {"images/gimp-video.png", *, *, *}
 		}
 
 	# web
 	# -----------------
 		stock["gimp-web"] = {
-			{"images/gimp-web.png", *, *, "gtk-button"},
-			{"images/gimp-web.png", *, *, "gtk-dialog"},
-			{"images/gimp-web.png", *, *, "gtk-menu"},
-			{"images/gimp-web.png", *, *, *}
+			# {"images/gimp-web.png", *, *, "gtk-button"},
+			# {"images/gimp-web.png", *, *, "gtk-dialog"},
+			{"images/gimp-web.png", *, *, "gtk-menu"}
+			# {"images/gimp-web.png", *, *, *}
 		}
 
 	# image
@@ -468,10 +468,19 @@
 	# template
 	# -----------------
 		stock["gimp-template"] = {
-			{"images/gimp-template.png", *, *, "gtk-button"},
-			{"images/gimp-template.png", *, *, "gtk-dialog"},
-			{"images/gimp-template.png", *, *, "gtk-menu"},
-			{"images/gimp-template.png", *, *, *}
+			# {"images/gimp-template.png", *, *, "gtk-button"},
+			# {"images/gimp-template.png", *, *, "gtk-dialog"},
+			{"images/gimp-template.png", *, *, "gtk-menu"}
+			# {"images/gimp-template.png", *, *, *}
+		}
+
+	# toilet paper
+	# -----------------
+		stock["gimp-toilet-paper"] = {
+			# {"images/gimp-toilet-paper.png", *, *, "gtk-button"},
+			# {"images/gimp-toilet-paper.png", *, *, "gtk-dialog"},
+			{"images/gimp-toilet-paper.png", *, *, "gtk-menu"}
+			# {"images/gimp-toilet-paper.png", *, *, *}
 		}
 
 	# images
