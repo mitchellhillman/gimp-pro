@@ -12,6 +12,9 @@
 			{"images/gimp-anchor.png", *, *, "gtk-button"},
 			{"images/gimp-anchor.png", *, *, "gtk-dialog"},
 			{"images/gimp-anchor.png", *, *, "gtk-menu"},
+			{"images/gimp-anchor.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-anchor.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-anchor.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-anchor.png", *, *, *}
 		}
 
@@ -21,6 +24,9 @@
 			{"images/gimp-center.png", *, *, "gtk-button"},
 			{"images/gimp-center.png", *, *, "gtk-dialog"},
 			{"images/gimp-center.png", *, *, "gtk-menu"},
+			{"images/gimp-center.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-center.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-center.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-center.png", *, *, *}
 		}
 
@@ -30,6 +36,9 @@
 			{"images/gimp-images.png", *, *, "gtk-button"},
 			{"images/gimp-images.png", *, *, "gtk-dialog"},
 			{"images/gimp-images.png", *, *, "gtk-menu"},
+			{"images/gimp-images.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-images.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-images.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-images.png", *, *, *}
 		}
 
@@ -39,6 +48,9 @@
 			{"images/gimp-edit.png", *, *, "gtk-button"},
 			{"images/gimp-edit.png", *, *, "gtk-dialog"},
 			{"images/gimp-edit.png", *, *, "gtk-menu"},
+			{"images/gimp-edit.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-edit.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-edit.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-edit.png", *, *, *}
 		}
 
@@ -48,6 +60,9 @@
 			{"images/gimp-reset.png", *, *, "gtk-button"},
 			{"images/gimp-reset.png", *, *, "gtk-dialog"},
 			{"images/gimp-reset.png", *, *, "gtk-menu"},
+			{"images/gimp-reset.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-reset.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-reset.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-reset.png", *, *, *}
 		}
 
@@ -57,6 +72,9 @@
 			{"images/gimp-close.png", *, *, "gtk-button"},
 			{"images/gimp-close.png", *, *, "gtk-dialog"},
 			{"images/gimp-close.png", *, *, "gtk-menu"},
+			{"images/gimp-close.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-close.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-close.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-close.png", *, *, *}
 		}
 
@@ -66,6 +84,9 @@
 			{"images/gimp-menu-left.png", *, *, "gtk-button"},
 			{"images/gimp-menu-left.png", *, *, "gtk-dialog"},
 			{"images/gimp-menu-left.png", *, *, "gtk-menu"},
+			{"images/gimp-menu-left.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-menu-left.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-menu-left.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-menu-left.png", *, *, *}
 		}
 
@@ -75,6 +96,9 @@
 			{"images/gimp-menu-right.png", *, *, "gtk-button"},
 			{"images/gimp-menu-right.png", *, *, "gtk-dialog"},
 			{"images/gimp-menu-right.png", *, *, "gtk-menu"},
+			{"images/gimp-menu-right.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-menu-right.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-menu-right.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-menu-right.png", *, *, *}
 		}
 
@@ -84,6 +108,9 @@
 			{"images/gimp-move-to-screen.png", *, *, "gtk-button"},
 			{"images/gimp-move-to-screen.png", *, *, "gtk-dialog"},
 			{"images/gimp-move-to-screen.png", *, *, "gtk-menu"},
+			{"images/gimp-move-to-screen.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-move-to-screen.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-move-to-screen.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-move-to-screen.png", *, *, *}
 		}
 
@@ -93,6 +120,9 @@
 			{"images/gimp-invert.png", *, *, "gtk-button"},
 			{"images/gimp-invert.png", *, *, "gtk-dialog"},
 			{"images/gimp-invert.png", *, *, "gtk-menu"},
+			{"images/gimp-invert.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-invert.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-invert.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-invert.png", *, *, *}
 		}
 
@@ -102,6 +132,9 @@
 			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-button"},
 			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-dialog"},
 			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-menu"},
+			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-layer-to-imagesize.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-layer-to-imagesize.png", *, *, *}
 		}
 
@@ -111,6 +144,9 @@
 			{"images/gimp-merge-down.png", *, *, "gtk-button"},
 			{"images/gimp-merge-down.png", *, *, "gtk-dialog"},
 			{"images/gimp-merge-down.png", *, *, "gtk-menu"},
+			{"images/gimp-merge-down.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-merge-down.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-merge-down.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-merge-down.png", *, *, *}
 		}
 
@@ -120,6 +156,9 @@
 			{"images/gimp-navigation.png", *, *, "gtk-button"},
 			{"images/gimp-navigation.png", *, *, "gtk-dialog"},
 			{"images/gimp-navigation.png", *, *, "gtk-menu"},
+			{"images/gimp-navigation.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-navigation.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-navigation.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-navigation.png", *, *, *}
 		}
 
@@ -129,6 +168,9 @@
 			{"images/gimp-paste-as-new.png", *, *, "gtk-button"},
 			{"images/gimp-paste-as-new.png", *, *, "gtk-dialog"},
 			{"images/gimp-paste-as-new.png", *, *, "gtk-menu"},
+			{"images/gimp-paste-as-new.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-paste-as-new.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-paste-as-new.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-paste-as-new.png", *, *, *}
 		}
 
@@ -138,6 +180,9 @@
 			{"images/gimp-paste-into.png", *, *, "gtk-button"},
 			{"images/gimp-paste-into.png", *, *, "gtk-dialog"},
 			{"images/gimp-paste-into.png", *, *, "gtk-menu"},
+			{"images/gimp-paste-into.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-paste-into.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-paste-into.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-paste-into.png", *, *, *}
 		}
 
@@ -147,6 +192,9 @@
 			{"images/gimp-path-stroke.png", *, *, "gtk-button"},
 			{"images/gimp-path-stroke.png", *, *, "gtk-dialog"},
 			{"images/gimp-path-stroke.png", *, *, "gtk-menu"},
+			{"images/gimp-path-stroke.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-path-stroke.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-path-stroke.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-path-stroke.png", *, *, *}
 		}
 
@@ -156,6 +204,9 @@
 			{"images/gimp-plugin.png", *, *, "gtk-button"},
 			{"images/gimp-plugin.png", *, *, "gtk-dialog"},
 			{"images/gimp-plugin.png", *, *, "gtk-menu"},
+			{"images/gimp-plugin.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-plugin.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-plugin.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-plugin.png", *, *, *}
 		}
 
@@ -165,6 +216,9 @@
 			{"images/gimp-quick-mask-off.png", *, *, "gtk-button"},
 			{"images/gimp-quick-mask-off.png", *, *, "gtk-dialog"},
 			{"images/gimp-quick-mask-off.png", *, *, "gtk-menu"},
+			{"images/gimp-quick-mask-off.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-quick-mask-off.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-quick-mask-off.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-quick-mask-off.png", *, *, *}
 		}
 
@@ -174,6 +228,9 @@
 			{"images/gimp-quick-mask-on.png", *, *, "gtk-button"},
 			{"images/gimp-quick-mask-on.png", *, *, "gtk-dialog"},
 			{"images/gimp-quick-mask-on.png", *, *, "gtk-menu"},
+			{"images/gimp-quick-mask-on.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-quick-mask-on.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-quick-mask-on.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-quick-mask-on.png", *, *, *}
 		}
 
@@ -183,6 +240,9 @@
 			{"images/gimp-histogram.png", *, *, "gtk-button"},
 			{"images/gimp-histogram.png", *, *, "gtk-dialog"},
 			{"images/gimp-histogram.png", *, *, "gtk-menu"},
+			{"images/gimp-histogram.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-histogram.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-histogram.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-histogram.png", *, *, *}
 		}
 
@@ -192,6 +252,9 @@
 			{"images/gimp-histogram-linear.png", *, *, "gtk-button"},
 			{"images/gimp-histogram-linear.png", *, *, "gtk-dialog"},
 			{"images/gimp-histogram-linear.png", *, *, "gtk-menu"},
+			{"images/gimp-histogram-linear.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-histogram-linear.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-histogram-linear.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-histogram-linear.png", *, *, *}
 		}
 
@@ -201,6 +264,9 @@
 			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-button"},
 			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-dialog"},
 			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-menu"},
+			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-histogram-logarithmic.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-histogram-logarithmic.png", *, *, *}
 		}
 
@@ -210,6 +276,9 @@
 			{"images/gimp-reshow-filter.png", *, *, "gtk-button"},
 			{"images/gimp-reshow-filter.png", *, *, "gtk-dialog"},
 			{"images/gimp-reshow-filter.png", *, *, "gtk-menu"},
+			{"images/gimp-reshow-filter.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-reshow-filter.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-reshow-filter.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-reshow-filter.png", *, *, *}
 		}
 
@@ -219,6 +288,9 @@
 			{"images/gimp-resize.png", *, *, "gtk-button"},
 			{"images/gimp-resize.png", *, *, "gtk-dialog"},
 			{"images/gimp-resize.png", *, *, "gtk-menu"},
+			{"images/gimp-resize.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-resize.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-resize.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-resize.png", *, *, *}
 		}
 
@@ -228,6 +300,9 @@
 			{"images/gimp-flip-horizontal.png", *, *, "gtk-button"},
 			{"images/gimp-flip-horizontal.png", *, *, "gtk-dialog"},
 			{"images/gimp-flip-horizontal.png", *, *, "gtk-menu"},
+			{"images/gimp-flip-horizontal.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-flip-horizontal.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-flip-horizontal.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-flip-horizontal.png", *, *, *}
 		}
 
@@ -237,6 +312,9 @@
 			{"images/gimp-flip-vertical.png", *, *, "gtk-button"},
 			{"images/gimp-flip-vertical.png", *, *, "gtk-dialog"},
 			{"images/gimp-flip-vertical.png", *, *, "gtk-menu"},
+			{"images/gimp-flip-vertical.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-flip-vertical.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-flip-vertical.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-flip-vertical.png", *, *, *}
 		}
 
@@ -246,6 +324,9 @@
 			{"images/gimp-rotate-180.png", *, *, "gtk-button"},
 			{"images/gimp-rotate-180.png", *, *, "gtk-dialog"},
 			{"images/gimp-rotate-180.png", *, *, "gtk-menu"},
+			{"images/gimp-rotate-180.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-rotate-180.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-rotate-180.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-rotate-180.png", *, *, *}
 		}
 
@@ -255,6 +336,9 @@
 			{"images/gimp-rotate-270.png", *, *, "gtk-button"},
 			{"images/gimp-rotate-270.png", *, *, "gtk-dialog"},
 			{"images/gimp-rotate-270.png", *, *, "gtk-menu"},
+			{"images/gimp-rotate-270.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-rotate-270.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-rotate-270.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-rotate-270.png", *, *, *}
 		}
 
@@ -264,6 +348,9 @@
 			{"images/gimp-rotate-90.png", *, *, "gtk-button"},
 			{"images/gimp-rotate-90.png", *, *, "gtk-dialog"},
 			{"images/gimp-rotate-90.png", *, *, "gtk-menu"},
+			{"images/gimp-rotate-90.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-rotate-90.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-rotate-90.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-rotate-90.png", *, *, *}
 		}
 
@@ -273,6 +360,9 @@
 			{"images/gimp-scale.png", *, *, "gtk-button"},
 			{"images/gimp-scale.png", *, *, "gtk-dialog"},
 			{"images/gimp-scale.png", *, *, "gtk-menu"},
+			{"images/gimp-scale.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-scale.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-scale.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-scale.png", *, *, *}
 		}
 
@@ -282,6 +372,9 @@
 			{"images/gimp-vchain.png", *, *, "gtk-button"},
 			{"images/gimp-vchain.png", *, *, "gtk-dialog"},
 			{"images/gimp-vchain.png", *, *, "gtk-menu"},
+			{"images/gimp-vchain.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-vchain.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-vchain.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-vchain.png", *, *, *}
 		}
 
@@ -291,6 +384,9 @@
 			{"images/gimp-visible.png", *, *, "gtk-button"},
 			{"images/gimp-visible.png", *, *, "gtk-dialog"},
 			{"images/gimp-visible.png", *, *, "gtk-menu"},
+			{"images/gimp-visible.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-visible.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-visible.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-visible.png", *, *, *}
 		}
 
@@ -300,6 +396,9 @@
 			{"images/gimp-list.png", *, *, "gtk-button"},
 			{"images/gimp-list.png", *, *, "gtk-dialog"},
 			{"images/gimp-list.png", *, *, "gtk-menu"},
+			{"images/gimp-list.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-list.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-list.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-list.png", *, *, *}
 		}
 
@@ -309,6 +408,9 @@
 			{"images/gimp-grid.png", *, *, "gtk-button"},
 			{"images/gimp-grid.png", *, *, "gtk-dialog"},
 			{"images/gimp-grid.png", *, *, "gtk-menu"},
+			{"images/gimp-grid.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-grid.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-grid.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-grid.png", *, *, *}
 		}
 
@@ -318,6 +420,9 @@
 			{"images/gtk-orientation-portrait.png", *, *, "gtk-button"},
 			{"images/gtk-orientation-portrait.png", *, *, "gtk-dialog"},
 			{"images/gtk-orientation-portrait.png", *, *, "gtk-menu"},
+			{"images/gtk-orientation-portrait.png", *, *, "gtk-small-toolbar"},
+			{"images/gtk-orientation-portrait.png", *, *, "gtk-large-toolbar"},
+			{"images/gtk-orientation-portrait.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gtk-orientation-portrait.png", *, *, *}
 		}
 
@@ -327,25 +432,34 @@
 			{"images/gtk-orientation-landscape.png", *, *, "gtk-button"},
 			{"images/gtk-orientation-landscape.png", *, *, "gtk-dialog"},
 			{"images/gtk-orientation-landscape.png", *, *, "gtk-menu"},
+			{"images/gtk-orientation-landscape.png", *, *, "gtk-small-toolbar"},
+			{"images/gtk-orientation-landscape.png", *, *, "gtk-large-toolbar"},
+			{"images/gtk-orientation-landscape.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gtk-orientation-landscape.png", *, *, *}
 		}
 
 	# video
 	# -----------------
 		stock["gimp-video"] = {
-			# {"images/gimp-video.png", *, *, "gtk-button"},
-			# {"images/gimp-video.png", *, *, "gtk-dialog"},
-			{"images/gimp-video.png", *, *, "gtk-menu"}
-			# {"images/gimp-video.png", *, *, *}
+			{"images/gimp-video.png", *, *, "gtk-button"},
+			{"images/gimp-video.png", *, *, "gtk-dialog"},
+			{"images/gimp-video.png", *, *, "gtk-menu"},
+			{"images/gimp-video.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-video.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-video.png", *, *, "gtk-dnd-toolbar"},
+			{"images/gimp-video.png", *, *, *}
 		}
 
 	# web
 	# -----------------
 		stock["gimp-web"] = {
-			# {"images/gimp-web.png", *, *, "gtk-button"},
-			# {"images/gimp-web.png", *, *, "gtk-dialog"},
-			{"images/gimp-web.png", *, *, "gtk-menu"}
-			# {"images/gimp-web.png", *, *, *}
+			{"images/gimp-web.png", *, *, "gtk-button"},
+			{"images/gimp-web.png", *, *, "gtk-dialog"},
+			{"images/gimp-web.png", *, *, "gtk-menu"},
+			{"images/gimp-web.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-web.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-web.png", *, *, "gtk-dnd-toolbar"},
+			{"images/gimp-web.png", *, *, *}
 		}
 
 	# image
@@ -354,6 +468,9 @@
 			{"images/gimp-image.png", *, *, "gtk-button"},
 			{"images/gimp-image.png", *, *, "gtk-dialog"},
 			{"images/gimp-image.png", *, *, "gtk-menu"},
+			{"images/gimp-image.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-image.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-image.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-image.png", *, *, *}
 		}
 
@@ -363,6 +480,9 @@
 			{"images/gimp-layer.png", *, *, "gtk-button"},
 			{"images/gimp-layer.png", *, *, "gtk-dialog"},
 			{"images/gimp-layer.png", *, *, "gtk-menu"},
+			{"images/gimp-layer.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-layer.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-layer.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-layer.png", *, *, *}
 		}
 
@@ -372,6 +492,9 @@
 			{"images/gimp-layer-mask.png", *, *, "gtk-button"},
 			{"images/gimp-layer-mask.png", *, *, "gtk-dialog"},
 			{"images/gimp-layer-mask.png", *, *, "gtk-menu"},
+			{"images/gimp-layer-mask.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-layer-mask.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-layer-mask.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-layer-mask.png", *, *, *}
 		}
 
@@ -381,6 +504,9 @@
 			{"images/gimp-channel.png", *, *, "gtk-button"},
 			{"images/gimp-channel.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel.png", *, *, "gtk-menu"},
+			{"images/gimp-channel.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel.png", *, *, *}
 		}
 
@@ -390,6 +516,9 @@
 			{"images/gimp-channel-red.png", *, *, "gtk-button"},
 			{"images/gimp-channel-red.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel-red.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-red.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel-red.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel-red.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel-red.png", *, *, *}
 		}
 
@@ -399,6 +528,9 @@
 			{"images/gimp-channel-green.png", *, *, "gtk-button"},
 			{"images/gimp-channel-green.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel-green.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-green.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel-green.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel-green.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel-green.png", *, *, *}
 		}
 
@@ -408,6 +540,9 @@
 			{"images/gimp-channel-blue.png", *, *, "gtk-button"},
 			{"images/gimp-channel-blue.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel-blue.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-blue.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel-blue.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel-blue.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel-blue.png", *, *, *}
 		}
 
@@ -417,6 +552,9 @@
 			{"images/gimp-channel-gray.png", *, *, "gtk-button"},
 			{"images/gimp-channel-gray.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel-gray.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-gray.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel-gray.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel-gray.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel-gray.png", *, *, *}
 		}
 
@@ -426,6 +564,9 @@
 			{"images/gimp-channel-indexed.png", *, *, "gtk-button"},
 			{"images/gimp-channel-indexed.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel-indexed.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-indexed.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel-indexed.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel-indexed.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel-indexed.png", *, *, *}
 		}
 
@@ -435,6 +576,9 @@
 			{"images/gimp-channel-alpha.png", *, *, "gtk-button"},
 			{"images/gimp-channel-alpha.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel-alpha.png", *, *, "gtk-menu"},
+			{"images/gimp-channel-alpha.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel-alpha.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel-alpha.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel-alpha.png", *, *, *}
 		}
 
@@ -444,6 +588,9 @@
 			{"images/gimp-path.png", *, *, "gtk-button"},
 			{"images/gimp-path.png", *, *, "gtk-dialog"},
 			{"images/gimp-path.png", *, *, "gtk-menu"},
+			{"images/gimp-path.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-path.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-path.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-path.png", *, *, *}
 		}
 
@@ -453,6 +600,9 @@
 			{"images/gimp-text-layer.png", *, *, "gtk-button"},
 			{"images/gimp-text-layer.png", *, *, "gtk-dialog"},
 			{"images/gimp-text-layer.png", *, *, "gtk-menu"},
+			{"images/gimp-text-layer.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-text-layer.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-text-layer.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-text-layer.png", *, *, *}
 		}
 
@@ -462,25 +612,34 @@
 			{"images/gimp-floating-selection.png", *, *, "gtk-button"},
 			{"images/gimp-floating-selection.png", *, *, "gtk-dialog"},
 			{"images/gimp-floating-selection.png", *, *, "gtk-menu"},
+			{"images/gimp-floating-selection.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-floating-selection.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-floating-selection.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-floating-selection.png", *, *, *}
 		}
 
 	# template
 	# -----------------
 		stock["gimp-template"] = {
-			# {"images/gimp-template.png", *, *, "gtk-button"},
-			# {"images/gimp-template.png", *, *, "gtk-dialog"},
-			{"images/gimp-template.png", *, *, "gtk-menu"}
-			# {"images/gimp-template.png", *, *, *}
+			{"images/gimp-template.png", *, *, "gtk-button"},
+			{"images/gimp-template.png", *, *, "gtk-dialog"},
+			{"images/gimp-template.png", *, *, "gtk-menu"},
+			{"images/gimp-template.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-template.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-template.png", *, *, "gtk-dnd-toolbar"},
+			{"images/gimp-template.png", *, *, *}
 		}
 
 	# toilet paper
 	# -----------------
 		stock["gimp-toilet-paper"] = {
-			# {"images/gimp-toilet-paper.png", *, *, "gtk-button"},
-			# {"images/gimp-toilet-paper.png", *, *, "gtk-dialog"},
-			{"images/gimp-toilet-paper.png", *, *, "gtk-menu"}
-			# {"images/gimp-toilet-paper.png", *, *, *}
+			{"images/gimp-toilet-paper.png", *, *, "gtk-button"},
+			{"images/gimp-toilet-paper.png", *, *, "gtk-dialog"},
+			{"images/gimp-toilet-paper.png", *, *, "gtk-menu"},
+			{"images/gimp-toilet-paper.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-toilet-paper.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-toilet-paper.png", *, *, "gtk-dnd-toolbar"},
+			{"images/gimp-toilet-paper.png", *, *, *}
 		}
 
 	# images
@@ -489,6 +648,9 @@
 			{"images/gimp-images.png", *, *, "gtk-button"},
 			{"images/gimp-images.png", *, *, "gtk-dialog"},
 			{"images/gimp-images.png", *, *, "gtk-menu"},
+			{"images/gimp-images.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-images.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-images.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-images.png", *, *, *}
 		}
 
@@ -498,6 +660,9 @@
 			{"images/gimp-layer.png", *, *, "gtk-button"},
 			{"images/gimp-layer.png", *, *, "gtk-dialog"},
 			{"images/gimp-layer.png", *, *, "gtk-menu"},
+			{"images/gimp-layer.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-layer.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-layer.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-layer.png", *, *, *}
 		}
 
@@ -507,6 +672,9 @@
 			{"images/gimp-channel.png", *, *, "gtk-button"},
 			{"images/gimp-channel.png", *, *, "gtk-dialog"},
 			{"images/gimp-channel.png", *, *, "gtk-menu"},
+			{"images/gimp-channel.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-channel.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-channel.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-channel.png", *, *, *}
 		}
 
@@ -516,6 +684,9 @@
 			{"images/gimp-path.png", *, *, "gtk-button"},
 			{"images/gimp-path.png", *, *, "gtk-dialog"},
 			{"images/gimp-path.png", *, *, "gtk-menu"},
+			{"images/gimp-path.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-path.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-path.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-path.png", *, *, *}
 		}
 
@@ -525,6 +696,9 @@
 			{"images/gimp-colormap.png", *, *, "gtk-button"},
 			{"images/gimp-colormap.png", *, *, "gtk-dialog"},
 			{"images/gimp-colormap.png", *, *, "gtk-menu"},
+			{"images/gimp-colormap.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-colormap.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-colormap.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-colormap.png", *, *, *}
 		}
 
@@ -534,6 +708,9 @@
 			{"images/gimp-indexed-palette.png", *, *, "gtk-button"},
 			{"images/gimp-indexed-palette.png", *, *, "gtk-dialog"},
 			{"images/gimp-indexed-palette.png", *, *, "gtk-menu"},
+			{"images/gimp-indexed-palette.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-indexed-palette.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-indexed-palette.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-indexed-palette.png", *, *, *}
 		}
 
@@ -543,6 +720,9 @@
 			{"images/gimp-cursor.png", *, *, "gtk-button"},
 			{"images/gimp-cursor.png", *, *, "gtk-dialog"},
 			{"images/gimp-cursor.png", *, *, "gtk-menu"},
+			{"images/gimp-cursor.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-cursor.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-cursor.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-cursor.png", *, *, *}
 		}
 
@@ -552,6 +732,9 @@
 			{"images/gimp-sample-point.png", *, *, "gtk-button"},
 			{"images/gimp-sample-point.png", *, *, "gtk-dialog"},
 			{"images/gimp-sample-point.png", *, *, "gtk-menu"},
+			{"images/gimp-sample-point.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-sample-point.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-sample-point.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-sample-point.png", *, *, *}
 		}
 
@@ -561,6 +744,9 @@
 			{"images/gimp-shape-circle.png", *, *, "gtk-button"},
 			{"images/gimp-shape-circle.png", *, *, "gtk-dialog"},
 			{"images/gimp-shape-circle.png", *, *, "gtk-menu"},
+			{"images/gimp-shape-circle.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-shape-circle.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-shape-circle.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-shape-circle.png", *, *, *}
 		}
 
@@ -570,6 +756,9 @@
 			{"images/gimp-shape-square.png", *, *, "gtk-button"},
 			{"images/gimp-shape-square.png", *, *, "gtk-dialog"},
 			{"images/gimp-shape-square.png", *, *, "gtk-menu"},
+			{"images/gimp-shape-square.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-shape-square.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-shape-square.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-shape-square.png", *, *, *}
 		}
 
@@ -579,6 +768,9 @@
 			{"images/gimp-shape-diamond.png", *, *, "gtk-button"},
 			{"images/gimp-shape-diamond.png", *, *, "gtk-dialog"},
 			{"images/gimp-shape-diamond.png", *, *, "gtk-menu"},
+			{"images/gimp-shape-diamond.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-shape-diamond.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-shape-diamond.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-shape-diamond.png", *, *, *}
 		}
 
@@ -588,6 +780,9 @@
 			{"images/gimp-cap-butt.png", *, *, "gtk-button"},
 			{"images/gimp-cap-butt.png", *, *, "gtk-dialog"},
 			{"images/gimp-cap-butt.png", *, *, "gtk-menu"},
+			{"images/gimp-cap-butt.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-cap-butt.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-cap-butt.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-cap-butt.png", *, *, *}
 		}
 
@@ -597,6 +792,9 @@
 			{"images/gimp-cap-round.png", *, *, "gtk-button"},
 			{"images/gimp-cap-round.png", *, *, "gtk-dialog"},
 			{"images/gimp-cap-round.png", *, *, "gtk-menu"},
+			{"images/gimp-cap-round.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-cap-round.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-cap-round.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-cap-round.png", *, *, *}
 		}
 
@@ -606,6 +804,9 @@
 			{"images/gimp-cap-square.png", *, *, "gtk-button"},
 			{"images/gimp-cap-square.png", *, *, "gtk-dialog"},
 			{"images/gimp-cap-square.png", *, *, "gtk-menu"},
+			{"images/gimp-cap-square.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-cap-square.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-cap-square.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-cap-square.png", *, *, *}
 		}
 
@@ -615,6 +816,9 @@
 			{"images/gimp-join-miter.png", *, *, "gtk-button"},
 			{"images/gimp-join-miter.png", *, *, "gtk-dialog"},
 			{"images/gimp-join-miter.png", *, *, "gtk-menu"},
+			{"images/gimp-join-miter.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-join-miter.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-join-miter.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-join-miter.png", *, *, *}
 		}
 
@@ -624,6 +828,9 @@
 			{"images/gimp-join-round.png", *, *, "gtk-button"},
 			{"images/gimp-join-round.png", *, *, "gtk-dialog"},
 			{"images/gimp-join-round.png", *, *, "gtk-menu"},
+			{"images/gimp-join-round.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-join-round.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-join-round.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-join-round.png", *, *, *}
 		}
 
@@ -633,6 +840,9 @@
 			{"images/gimp-join-bevel.png", *, *, "gtk-button"},
 			{"images/gimp-join-bevel.png", *, *, "gtk-dialog"},
 			{"images/gimp-join-bevel.png", *, *, "gtk-menu"},
+			{"images/gimp-join-bevel.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-join-bevel.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-join-bevel.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-join-bevel.png", *, *, *}
 		}
 
@@ -642,6 +852,9 @@
 			{"images/gimp-selection.png", *, *, "gtk-button"},
 			{"images/gimp-selection.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection.png", *, *, "gtk-menu"},
+			{"images/gimp-selection.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection.png", *, *, *}
 		}
 
@@ -651,6 +864,9 @@
 			{"images/gimp-selection.png", *, *, "gtk-button"},
 			{"images/gimp-selection.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection.png", *, *, "gtk-menu"},
+			{"images/gimp-selection.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection.png", *, *, *}
 		}
 
@@ -660,6 +876,9 @@
 			{"images/gimp-selection-none.png", *, *, "gtk-button"},
 			{"images/gimp-selection-none.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-none.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-none.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-none.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-none.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-none.png", *, *, *}
 		}
 
@@ -669,6 +888,9 @@
 			{"images/gimp-selection-grow.png", *, *, "gtk-button"},
 			{"images/gimp-selection-grow.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-grow.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-grow.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-grow.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-grow.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-grow.png", *, *, *}
 		}
 
@@ -678,6 +900,9 @@
 			{"images/gimp-selection-shrink.png", *, *, "gtk-button"},
 			{"images/gimp-selection-shrink.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-shrink.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-shrink.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-shrink.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-shrink.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-shrink.png", *, *, *}
 		}
 
@@ -687,6 +912,9 @@
 			{"images/gimp-selection-border.png", *, *, "gtk-button"},
 			{"images/gimp-selection-border.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-border.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-border.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-border.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-border.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-border.png", *, *, *}
 		}
 
@@ -696,6 +924,9 @@
 			{"images/gimp-selection-add.png", *, *, "gtk-button"},
 			{"images/gimp-selection-add.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-add.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-add.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-add.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-add.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-add.png", *, *, *}
 		}
 
@@ -705,6 +936,9 @@
 			{"images/gimp-selection-subtract.png", *, *, "gtk-button"},
 			{"images/gimp-selection-subtract.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-subtract.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-subtract.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-subtract.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-subtract.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-subtract.png", *, *, *}
 		}
 
@@ -714,6 +948,9 @@
 			{"images/gimp-selection-replace.png", *, *, "gtk-button"},
 			{"images/gimp-selection-replace.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-replace.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-replace.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-replace.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-replace.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-replace.png", *, *, *}
 		}
 
@@ -723,6 +960,9 @@
 			{"images/gimp-selection-intersect.png", *, *, "gtk-button"},
 			{"images/gimp-selection-intersect.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-intersect.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-intersect.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-intersect.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-intersect.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-intersect.png", *, *, *}
 		}
 
@@ -732,6 +972,9 @@
 			{"images/gimp-selection-stroke.png", *, *, "gtk-button"},
 			{"images/gimp-selection-stroke.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-stroke.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-stroke.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-stroke.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-stroke.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-stroke.png", *, *, *}
 		}
 
@@ -741,6 +984,9 @@
 			{"images/gimp-selection-to-channel.png", *, *, "gtk-button"},
 			{"images/gimp-selection-to-channel.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-to-channel.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-to-channel.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-to-channel.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-to-channel.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-to-channel.png", *, *, *}
 		}
 
@@ -750,6 +996,9 @@
 			{"images/gimp-selection-to-path.png", *, *, "gtk-button"},
 			{"images/gimp-selection-to-path.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection-to-path.png", *, *, "gtk-menu"},
+			{"images/gimp-selection-to-path.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection-to-path.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection-to-path.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection-to-path.png", *, *, *}
 		}
 
@@ -759,6 +1008,9 @@
 			{"images/gimp-gradient-linear.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-linear.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-linear.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-linear.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-linear.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-linear.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-linear.png", *, *, *}
 		}
 
@@ -768,6 +1020,9 @@
 			{"images/gimp-gradient-bilinear.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-bilinear.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-bilinear.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-bilinear.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-bilinear.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-bilinear.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-bilinear.png", *, *, *}
 		}
 
@@ -777,6 +1032,9 @@
 			{"images/gimp-gradient-radial.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-radial.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-radial.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-radial.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-radial.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-radial.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-radial.png", *, *, *}
 		}
 
@@ -786,6 +1044,9 @@
 			{"images/gimp-gradient-square.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-square.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-square.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-square.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-square.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-square.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-square.png", *, *, *}
 		}
 
@@ -795,6 +1056,9 @@
 			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-conical-symmetric.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-conical-symmetric.png", *, *, *}
 		}
 
@@ -804,6 +1068,9 @@
 			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-conical-asymmetric.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-conical-asymmetric.png", *, *, *}
 		}
 
@@ -813,6 +1080,9 @@
 			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-shapeburst-spherical.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-shapeburst-spherical.png", *, *, *}
 		}
 
@@ -822,6 +1092,9 @@
 			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-shapeburst-angular.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-shapeburst-angular.png", *, *, *}
 		}
 
@@ -831,6 +1104,9 @@
 			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-shapeburst-dimpled.png", *, *, *}
 		}
 
@@ -840,6 +1116,9 @@
 			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-spiral-clockwise.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-spiral-clockwise.png", *, *, *}
 		}
 
@@ -849,6 +1128,9 @@
 			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-button"},
 			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient-spiral-anticlockwise.png", *, *, *}
 		}
 
@@ -858,6 +1140,9 @@
 			{"images/gimp-gravity-north-west.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-north-west.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-north-west.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-north-west.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-north-west.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-north-west.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-north-west.png", *, *, *}
 		}
 
@@ -867,6 +1152,9 @@
 			{"images/gimp-gravity-north.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-north.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-north.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-north.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-north.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-north.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-north.png", *, *, *}
 		}
 
@@ -876,6 +1164,9 @@
 			{"images/gimp-gravity-north-east.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-north-east.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-north-east.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-north-east.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-north-east.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-north-east.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-north-east.png", *, *, *}
 		}
 
@@ -885,6 +1176,9 @@
 			{"images/gimp-gravity-west.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-west.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-west.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-west.png", *, *, *}
 		}
 
@@ -894,6 +1188,9 @@
 			{"images/gimp-gravity-east.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-east.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-east.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-east.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-east.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-east.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-east.png", *, *, *}
 		}
 
@@ -903,6 +1200,9 @@
 			{"images/gimp-gravity-south-west.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-south-west.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-south-west.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-south-west.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-south-west.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-south-west.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-south-west.png", *, *, *}
 		}
 
@@ -912,6 +1212,9 @@
 			{"images/gimp-gravity-south.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-south.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-south.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-south.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-south.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-south.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-south.png", *, *, *}
 		}
 
@@ -921,6 +1224,9 @@
 			{"images/gimp-gravity-south-east.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-south-east.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-south-east.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-south-east.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-south-east.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-south-east.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-south-east.png", *, *, *}
 		}
 
@@ -930,6 +1236,9 @@
 			{"images/gimp-hcenter.png", *, *, "gtk-button"},
 			{"images/gimp-hcenter.png", *, *, "gtk-dialog"},
 			{"images/gimp-hcenter.png", *, *, "gtk-menu"},
+			{"images/gimp-hcenter.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-hcenter.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-hcenter.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-hcenter.png", *, *, *}
 		}
 
@@ -939,6 +1248,9 @@
 			{"images/gimp-vcenter.png", *, *, "gtk-button"},
 			{"images/gimp-vcenter.png", *, *, "gtk-dialog"},
 			{"images/gimp-vcenter.png", *, *, "gtk-menu"},
+			{"images/gimp-vcenter.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-vcenter.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-vcenter.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-vcenter.png", *, *, *}
 		}
 
@@ -948,6 +1260,9 @@
 			{"images/gimp-controller-keyboard.png", *, *, "gtk-button"},
 			{"images/gimp-controller-keyboard.png", *, *, "gtk-dialog"},
 			{"images/gimp-controller-keyboard.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-controller-keyboard.png", *, *, *}
 		}
 
@@ -957,6 +1272,9 @@
 			{"images/gimp-letter-spacing.png", *, *, "gtk-button"},
 			{"images/gimp-letter-spacing.png", *, *, "gtk-dialog"},
 			{"images/gimp-letter-spacing.png", *, *, "gtk-menu"},
+			{"images/gimp-letter-spacing.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-letter-spacing.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-letter-spacing.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-letter-spacing.png", *, *, *}
 		}
 
@@ -966,6 +1284,9 @@
 			{"images/gimp-line-spacing.png", *, *, "gtk-button"},
 			{"images/gimp-line-spacing.png", *, *, "gtk-dialog"},
 			{"images/gimp-line-spacing.png", *, *, "gtk-menu"},
+			{"images/gimp-line-spacing.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-line-spacing.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-line-spacing.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-line-spacing.png", *, *, *}
 		}
 
@@ -975,6 +1296,9 @@
 			{"images/gimp-text-dir-ltr.png", *, *, "gtk-button"},
 			{"images/gimp-text-dir-ltr.png", *, *, "gtk-dialog"},
 			{"images/gimp-text-dir-ltr.png", *, *, "gtk-menu"},
+			{"images/gimp-text-dir-ltr.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-text-dir-ltr.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-text-dir-ltr.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-text-dir-ltr.png", *, *, *}
 		}
 
@@ -984,6 +1308,9 @@
 			{"images/gimp-text-dir-rtl.png", *, *, "gtk-button"},
 			{"images/gimp-text-dir-rtl.png", *, *, "gtk-dialog"},
 			{"images/gimp-text-dir-rtl.png", *, *, "gtk-menu"},
+			{"images/gimp-text-dir-rtl.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-text-dir-rtl.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-text-dir-rtl.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-text-dir-rtl.png", *, *, *}
 		}
 
@@ -993,6 +1320,9 @@
 			{"images/gimp-print-resolution.png", *, *, "gtk-button"},
 			{"images/gimp-print-resolution.png", *, *, "gtk-dialog"},
 			{"images/gimp-print-resolution.png", *, *, "gtk-menu"},
+			{"images/gimp-print-resolution.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-print-resolution.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-print-resolution.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-print-resolution.png", *, *, *}
 		}
 
@@ -1002,6 +1332,9 @@
 			{"images/gimp-tools.png", *, *, "gtk-button"},
 			{"images/gimp-tools.png", *, *, "gtk-dialog"},
 			{"images/gimp-tools.png", *, *, "gtk-menu"},
+			{"images/gimp-tools.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tools.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tools.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tools.png", *, *, *}
 		}
 
@@ -1011,6 +1344,9 @@
 			{"images/gimp-tool-options.png", *, *, "gtk-button"},
 			{"images/gimp-tool-options.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-options.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-options.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-options.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-options.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-options.png", *, *, *}
 		}
 
@@ -1020,6 +1356,9 @@
 			{"images/gimp-device-status.png", *, *, "gtk-button"},
 			{"images/gimp-device-status.png", *, *, "gtk-dialog"},
 			{"images/gimp-device-status.png", *, *, "gtk-menu"},
+			{"images/gimp-device-status.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-device-status.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-device-status.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-device-status.png", *, *, *}
 		}
 
@@ -1029,6 +1368,9 @@
 			{"images/gimp-input-device.png", *, *, "gtk-button"},
 			{"images/gimp-input-device.png", *, *, "gtk-dialog"},
 			{"images/gimp-input-device.png", *, *, "gtk-menu"},
+			{"images/gimp-input-device.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-input-device.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-input-device.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-input-device.png", *, *, *}
 		}
 
@@ -1038,6 +1380,9 @@
 			{"images/gimp-display-filter.png", *, *, "gtk-button"},
 			{"images/gimp-display-filter.png", *, *, "gtk-dialog"},
 			{"images/gimp-display-filter.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-display-filter.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-display-filter.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-display-filter.png", *, *, *}
 		}
 
@@ -1047,6 +1392,9 @@
 			{"images/gimp-curve-free.png", *, *, "gtk-button"},
 			{"images/gimp-curve-free.png", *, *, "gtk-dialog"},
 			{"images/gimp-curve-free.png", *, *, "gtk-menu"},
+			{"images/gimp-curve-free.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-curve-free.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-curve-free.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-curve-free.png", *, *, *}
 		}
 
@@ -1056,6 +1404,9 @@
 			{"images/gimp-curve-smooth.png", *, *, "gtk-button"},
 			{"images/gimp-curve-smooth.png", *, *, "gtk-dialog"},
 			{"images/gimp-curve-smooth.png", *, *, "gtk-menu"},
+			{"images/gimp-curve-smooth.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-curve-smooth.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-curve-smooth.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-curve-smooth.png", *, *, *}
 		}
 
@@ -1065,6 +1416,9 @@
 			{"images/gimp-color-picker-black.png", *, *, "gtk-button"},
 			{"images/gimp-color-picker-black.png", *, *, "gtk-dialog"},
 			{"images/gimp-color-picker-black.png", *, *, "gtk-menu"},
+			{"images/gimp-color-picker-black.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-color-picker-black.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-color-picker-black.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-color-picker-black.png", *, *, *}
 		}
 
@@ -1074,6 +1428,9 @@
 			{"images/gimp-color-picker-gray.png", *, *, "gtk-button"},
 			{"images/gimp-color-picker-gray.png", *, *, "gtk-dialog"},
 			{"images/gimp-color-picker-gray.png", *, *, "gtk-menu"},
+			{"images/gimp-color-picker-gray.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-color-picker-gray.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-color-picker-gray.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-color-picker-gray.png", *, *, *}
 		}
 
@@ -1083,6 +1440,9 @@
 			{"images/gimp-color-picker-white.png", *, *, "gtk-button"},
 			{"images/gimp-color-picker-white.png", *, *, "gtk-dialog"},
 			{"images/gimp-color-picker-white.png", *, *, "gtk-menu"},
+			{"images/gimp-color-picker-white.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-color-picker-white.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-color-picker-white.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-color-picker-white.png", *, *, *}
 		}
 
@@ -1092,6 +1452,9 @@
 			{"images/gimp-color-triangle.png", *, *, "gtk-button"},
 			{"images/gimp-color-triangle.png", *, *, "gtk-dialog"},
 			{"images/gimp-color-triangle.png", *, *, "gtk-menu"},
+			{"images/gimp-color-triangle.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-color-triangle.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-color-triangle.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-color-triangle.png", *, *, *}
 		}
 
@@ -1101,6 +1464,9 @@
 			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-button"},
 			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-dialog"},
 			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-menu"},
+			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-color-pick-from-screen.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-color-pick-from-screen.png", *, *, *}
 		}
 
@@ -1110,6 +1476,9 @@
 			{"images/gimp-convert-grayscale.png", *, *, "gtk-button"},
 			{"images/gimp-convert-grayscale.png", *, *, "gtk-dialog"},
 			{"images/gimp-convert-grayscale.png", *, *, "gtk-menu"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-convert-grayscale.png", *, *, *}
 		}
 
@@ -1119,6 +1488,9 @@
 			{"images/gimp-convert-indexed.png", *, *, "gtk-button"},
 			{"images/gimp-convert-indexed.png", *, *, "gtk-dialog"},
 			{"images/gimp-convert-indexed.png", *, *, "gtk-menu"},
+			{"images/gimp-convert-indexed.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-convert-indexed.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-convert-indexed.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-convert-indexed.png", *, *, *}
 		}
 
@@ -1128,6 +1500,9 @@
 			{"images/gimp-convert-rgb.png", *, *, "gtk-button"},
 			{"images/gimp-convert-rgb.png", *, *, "gtk-dialog"},
 			{"images/gimp-convert-rgb.png", *, *, "gtk-menu"},
+			{"images/gimp-convert-rgb.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-convert-rgb.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-convert-rgb.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-convert-rgb.png", *, *, *}
 		}
 
@@ -1137,6 +1512,9 @@
 			{"images/gimp-transparency.png", *, *, "gtk-button"},
 			{"images/gimp-transparency.png", *, *, "gtk-dialog"},
 			{"images/gimp-transparency.png", *, *, "gtk-menu"},
+			{"images/gimp-transparency.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-transparency.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-transparency.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-transparency.png", *, *, *}
 		}
 
@@ -1146,6 +1524,9 @@
 			{"images/gimp-default-colors.png", *, *, "gtk-button"},
 			{"images/gimp-default-colors.png", *, *, "gtk-dialog"},
 			{"images/gimp-default-colors.png", *, *, "gtk-menu"},
+			{"images/gimp-default-colors.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-default-colors.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-default-colors.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-default-colors.png", *, *, *}
 		}
 
@@ -1155,6 +1536,9 @@
 			{"images/gimp-swap-colors.png", *, *, "gtk-button"},
 			{"images/gimp-swap-colors.png", *, *, "gtk-dialog"},
 			{"images/gimp-swap-colors.png", *, *, "gtk-menu"},
+			{"images/gimp-swap-colors.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-swap-colors.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-swap-colors.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-swap-colors.png", *, *, *}
 		}
 
@@ -1164,6 +1548,9 @@
 			{"images/gimp-undo-history.png", *, *, "gtk-button"},
 			{"images/gimp-undo-history.png", *, *, "gtk-dialog"},
 			{"images/gimp-undo-history.png", *, *, "gtk-menu"},
+			{"images/gimp-undo-history.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-undo-history.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-undo-history.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-undo-history.png", *, *, *}
 		}
 
@@ -1173,6 +1560,9 @@
 			{"images/gimp-hchain.png", *, *, "gtk-button"},
 			{"images/gimp-hchain.png", *, *, "gtk-dialog"},
 			{"images/gimp-hchain.png", *, *, "gtk-menu"},
+			{"images/gimp-hchain.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-hchain.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-hchain.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-hchain.png", *, *, *}
 		}
 
@@ -1182,6 +1572,9 @@
 			{"images/gimp-hchain-broken.png", *, *, "gtk-button"},
 			{"images/gimp-hchain-broken.png", *, *, "gtk-dialog"},
 			{"images/gimp-hchain-broken.png", *, *, "gtk-menu"},
+			{"images/gimp-hchain-broken.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-hchain-broken.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-hchain-broken.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-hchain-broken.png", *, *, *}
 		}
 
@@ -1191,6 +1584,9 @@
 			{"images/gimp-vchain.png", *, *, "gtk-button"},
 			{"images/gimp-vchain.png", *, *, "gtk-dialog"},
 			{"images/gimp-vchain.png", *, *, "gtk-menu"},
+			{"images/gimp-vchain.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-vchain.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-vchain.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-vchain.png", *, *, *}
 		}
 
@@ -1200,6 +1596,9 @@
 			{"images/gimp-vchain-broken.png", *, *, "gtk-button"},
 			{"images/gimp-vchain-broken.png", *, *, "gtk-dialog"},
 			{"images/gimp-vchain-broken.png", *, *, "gtk-menu"},
+			{"images/gimp-vchain-broken.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-vchain-broken.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-vchain-broken.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-vchain-broken.png", *, *, *}
 		}
 
@@ -1209,6 +1608,9 @@
 			{"images/gimp-texture.png", *, *, "gtk-button"},
 			{"images/gimp-texture.png", *, *, "gtk-dialog"},
 			{"images/gimp-texture.png", *, *, "gtk-menu"},
+			{"images/gimp-texture.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-texture.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-texture.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-texture.png", *, *, *}
 		}
 
@@ -1218,6 +1620,9 @@
 			{"images/gimp-frame.png", *, *, "gtk-button"},
 			{"images/gimp-frame.png", *, *, "gtk-dialog"},
 			{"images/gimp-frame.png", *, *, "gtk-menu"},
+			{"images/gimp-frame.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-frame.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-frame.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-frame.png", *, *, *}
 		}
 
@@ -1227,6 +1632,9 @@
 			{"images/gimp-error.png", *, *, "gtk-button"},
 			{"images/gimp-error.png", *, *, "gtk-dialog"},
 			{"images/gimp-error.png", *, *, "gtk-menu"},
+			{"images/gimp-error.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-error.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-error.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-error.png", *, *, *}
 		}
 
@@ -1236,6 +1644,9 @@
 			{"images/gimp-info.png", *, *, "gtk-button"},
 			{"images/gimp-info.png", *, *, "gtk-dialog"},
 			{"images/gimp-info.png", *, *, "gtk-menu"},
+			{"images/gimp-info.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-info.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-info.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-info.png", *, *, *}
 		}
 
@@ -1245,6 +1656,9 @@
 			{"images/gimp-question.png", *, *, "gtk-button"},
 			{"images/gimp-question.png", *, *, "gtk-dialog"},
 			{"images/gimp-question.png", *, *, "gtk-menu"},
+			{"images/gimp-question.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-question.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-question.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-question.png", *, *, *}
 		}
 
@@ -1254,6 +1668,9 @@
 			{"images/gimp-warning.png", *, *, "gtk-button"},
 			{"images/gimp-warning.png", *, *, "gtk-dialog"},
 			{"images/gimp-warning.png", *, *, "gtk-menu"},
+			{"images/gimp-warning.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-warning.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-warning.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-warning.png", *, *, *}
 		}
 
@@ -1263,6 +1680,9 @@
 			{"images/gimp-gegl.png", *, *, "gtk-button"},
 			{"images/gimp-gegl.png", *, *, "gtk-dialog"},
 			{"images/gimp-gegl.png", *, *, "gtk-menu"},
+			{"images/gimp-gegl.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gegl.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gegl.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gegl.png", *, *, *}
 		}
 
@@ -1272,6 +1692,9 @@
 			{"images/gimp-user-manual.png", *, *, "gtk-button"},
 			{"images/gimp-user-manual.png", *, *, "gtk-dialog"},
 			{"images/gimp-user-manual.png", *, *, "gtk-menu"},
+			{"images/gimp-user-manual.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-user-manual.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-user-manual.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-user-manual.png", *, *, *}
 		}
 
@@ -1281,6 +1704,9 @@
 			{"images/gimp-wilber.png", *, *, "gtk-button"},
 			{"images/gimp-wilber.png", *, *, "gtk-dialog"},
 			{"images/gimp-wilber.png", *, *, "gtk-menu"},
+			{"images/gimp-wilber.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-wilber.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-wilber.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-wilber.png", *, *, *}
 		}
 
@@ -1290,6 +1716,9 @@
 			{"images/gimp-wilber-eek.png", *, *, "gtk-button"},
 			{"images/gimp-wilber-eek.png", *, *, "gtk-dialog"},
 			{"images/gimp-wilber-eek.png", *, *, "gtk-menu"},
+			{"images/gimp-wilber-eek.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-wilber-eek.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-wilber-eek.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-wilber-eek.png", *, *, *}
 		}
 
@@ -1299,6 +1728,9 @@
 			{"images/gimp-zoom-follow-window.png", *, *, "gtk-button"},
 			{"images/gimp-zoom-follow-window.png", *, *, "gtk-dialog"},
 			{"images/gimp-zoom-follow-window.png", *, *, "gtk-menu"},
+			{"images/gimp-zoom-follow-window.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-zoom-follow-window.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-zoom-follow-window.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-zoom-follow-window.png", *, *, *}
 		}
 
@@ -1308,6 +1740,9 @@
 			{"images/gimp-tool-airbrush.png", *, *, "gtk-button"},
 			{"images/gimp-tool-airbrush.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-airbrush.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-airbrush.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-airbrush.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-airbrush.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-airbrush.png", *, *, *}
 		}
 
@@ -1317,6 +1752,9 @@
 			{"images/gimp-gravity-west.png", *, *, "gtk-button"},
 			{"images/gimp-gravity-west.png", *, *, "gtk-dialog"},
 			{"images/gimp-gravity-west.png", *, *, "gtk-menu"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gravity-west.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gravity-west.png", *, *, *}
 		}
 
@@ -1326,6 +1764,9 @@
 			{"images/gimp-tool-blend.png", *, *, "gtk-button"},
 			{"images/gimp-tool-blend.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-blend.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-blend.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-blend.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-blend.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-blend.png", *, *, *}
 		}
 
@@ -1335,6 +1776,9 @@
 			{"images/gimp-tool-blur.png", *, *, "gtk-button"},
 			{"images/gimp-tool-blur.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-blur.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-blur.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-blur.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-blur.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-blur.png", *, *, *}
 		}
 
@@ -1344,6 +1788,9 @@
 			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-button"},
 			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-brightness-contrast.png", *, *, *}
 		}
 
@@ -1353,6 +1800,9 @@
 			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-button"},
 			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-bucket-fill.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-bucket-fill.png", *, *, *}
 		}
 
@@ -1362,6 +1812,9 @@
 			{"images/gimp-tool-by-color-select.png", *, *, "gtk-button"},
 			{"images/gimp-tool-by-color-select.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-by-color-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-by-color-select.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-by-color-select.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-by-color-select.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-by-color-select.png", *, *, *}
 		}
 
@@ -1371,6 +1824,9 @@
 			{"images/gimp-tool-cage.png", *, *, "gtk-button"},
 			{"images/gimp-tool-cage.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-cage.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-cage.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-cage.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-cage.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-cage.png", *, *, *}
 		}
 
@@ -1380,6 +1836,9 @@
 			{"images/gimp-tool-clone.png", *, *, "gtk-button"},
 			{"images/gimp-tool-clone.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-clone.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-clone.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-clone.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-clone.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-clone.png", *, *, *}
 		}
 
@@ -1389,6 +1848,9 @@
 			{"images/gimp-tool-color-balance.png", *, *, "gtk-button"},
 			{"images/gimp-tool-color-balance.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-color-balance.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-color-balance.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-color-balance.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-color-balance.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-color-balance.png", *, *, *}
 		}
 
@@ -1398,6 +1860,9 @@
 			{"images/gimp-tool-color-picker.png", *, *, "gtk-button"},
 			{"images/gimp-tool-color-picker.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-color-picker.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-color-picker.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-color-picker.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-color-picker.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-color-picker.png", *, *, *}
 		}
 
@@ -1407,6 +1872,9 @@
 			{"images/gimp-tool-colorize.png", *, *, "gtk-button"},
 			{"images/gimp-tool-colorize.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-colorize.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-colorize.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-colorize.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-colorize.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-colorize.png", *, *, *}
 		}
 
@@ -1416,6 +1884,9 @@
 			{"images/gimp-tool-crop.png", *, *, "gtk-button"},
 			{"images/gimp-tool-crop.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-crop.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-crop.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-crop.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-crop.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-crop.png", *, *, *}
 		}
 
@@ -1425,6 +1896,9 @@
 			{"images/gimp-tool-curves.png", *, *, "gtk-button"},
 			{"images/gimp-tool-curves.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-curves.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-curves.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-curves.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-curves.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-curves.png", *, *, *}
 		}
 
@@ -1434,6 +1908,9 @@
 			{"images/gimp-convert-grayscale.png", *, *, "gtk-button"},
 			{"images/gimp-convert-grayscale.png", *, *, "gtk-dialog"},
 			{"images/gimp-convert-grayscale.png", *, *, "gtk-menu"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-convert-grayscale.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-convert-grayscale.png", *, *, *}
 		}
 
@@ -1443,6 +1920,9 @@
 			{"images/gimp-tool-dodge.png", *, *, "gtk-button"},
 			{"images/gimp-tool-dodge.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-dodge.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-dodge.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-dodge.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-dodge.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-dodge.png", *, *, *}
 		}
 
@@ -1452,6 +1932,9 @@
 			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-button"},
 			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-ellipse-select.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-ellipse-select.png", *, *, *}
 		}
 
@@ -1461,6 +1944,9 @@
 			{"images/gimp-tool-eraser.png", *, *, "gtk-button"},
 			{"images/gimp-tool-eraser.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-eraser.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-eraser.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-eraser.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-eraser.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-eraser.png", *, *, *}
 		}
 
@@ -1470,6 +1956,9 @@
 			{"images/gimp-tool-flip.png", *, *, "gtk-button"},
 			{"images/gimp-tool-flip.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-flip.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-flip.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-flip.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-flip.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-flip.png", *, *, *}
 		}
 
@@ -1479,6 +1968,9 @@
 			{"images/gimp-tool-foreground-select.png", *, *, "gtk-button"},
 			{"images/gimp-tool-foreground-select.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-foreground-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-foreground-select.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-foreground-select.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-foreground-select.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-foreground-select.png", *, *, *}
 		}
 
@@ -1488,6 +1980,9 @@
 			{"images/gimp-tool-free-select.png", *, *, "gtk-button"},
 			{"images/gimp-tool-free-select.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-free-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-free-select.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-free-select.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-free-select.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-free-select.png", *, *, *}
 		}
 
@@ -1497,6 +1992,9 @@
 			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-button"},
 			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-fuzzy-select.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-fuzzy-select.png", *, *, *}
 		}
 
@@ -1506,6 +2004,9 @@
 			{"images/gimp-tool-heal.png", *, *, "gtk-button"},
 			{"images/gimp-tool-heal.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-heal.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-heal.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-heal.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-heal.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-heal.png", *, *, *}
 		}
 
@@ -1515,6 +2016,9 @@
 			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-button"},
 			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-hue-saturation.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-hue-saturation.png", *, *, *}
 		}
 
@@ -1524,6 +2028,9 @@
 			{"images/gimp-tool-ink.png", *, *, "gtk-button"},
 			{"images/gimp-tool-ink.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-ink.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-ink.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-ink.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-ink.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-ink.png", *, *, *}
 		}
 
@@ -1533,6 +2040,9 @@
 			{"images/gimp-tool-iscissors.png", *, *, "gtk-button"},
 			{"images/gimp-tool-iscissors.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-iscissors.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-iscissors.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-iscissors.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-iscissors.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-iscissors.png", *, *, *}
 		}
 
@@ -1542,6 +2052,9 @@
 			{"images/gimp-tool-levels.png", *, *, "gtk-button"},
 			{"images/gimp-tool-levels.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-levels.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-levels.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-levels.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-levels.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-levels.png", *, *, *}
 		}
 
@@ -1551,6 +2064,9 @@
 			{"images/gimp-tool-measure.png", *, *, "gtk-button"},
 			{"images/gimp-tool-measure.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-measure.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-measure.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-measure.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-measure.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-measure.png", *, *, *}
 		}
 
@@ -1560,6 +2076,9 @@
 			{"images/gimp-tool-move.png", *, *, "gtk-button"},
 			{"images/gimp-tool-move.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-move.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-move.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-move.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-move.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-move.png", *, *, *}
 		}
 
@@ -1569,6 +2088,9 @@
 			{"images/gimp-tool-paintbrush.png", *, *, "gtk-button"},
 			{"images/gimp-tool-paintbrush.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-paintbrush.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-paintbrush.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-paintbrush.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-paintbrush.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-paintbrush.png", *, *, *}
 		}
 
@@ -1578,6 +2100,9 @@
 			{"images/gimp-tool-path.png", *, *, "gtk-button"},
 			{"images/gimp-tool-path.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-path.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-path.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-path.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-path.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-path.png", *, *, *}
 		}
 
@@ -1587,6 +2112,9 @@
 			{"images/gimp-tool-pencil.png", *, *, "gtk-button"},
 			{"images/gimp-tool-pencil.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-pencil.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-pencil.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-pencil.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-pencil.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-pencil.png", *, *, *}
 		}
 
@@ -1596,6 +2124,9 @@
 			{"images/gimp-tool-perspective.png", *, *, "gtk-button"},
 			{"images/gimp-tool-perspective.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-perspective.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-perspective.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-perspective.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-perspective.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-perspective.png", *, *, *}
 		}
 
@@ -1605,6 +2136,9 @@
 			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-button"},
 			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-perspective-clone.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-perspective-clone.png", *, *, *}
 		}
 
@@ -1614,6 +2148,9 @@
 			{"images/gimp-tool-posterize.png", *, *, "gtk-button"},
 			{"images/gimp-tool-posterize.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-posterize.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-posterize.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-posterize.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-posterize.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-posterize.png", *, *, *}
 		}
 
@@ -1623,6 +2160,9 @@
 			{"images/gimp-selection.png", *, *, "gtk-button"},
 			{"images/gimp-selection.png", *, *, "gtk-dialog"},
 			{"images/gimp-selection.png", *, *, "gtk-menu"},
+			{"images/gimp-selection.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-selection.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-selection.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-selection.png", *, *, *}
 		}
 
@@ -1632,6 +2172,9 @@
 			{"images/gimp-tool-rotate.png", *, *, "gtk-button"},
 			{"images/gimp-tool-rotate.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-rotate.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-rotate.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-rotate.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-rotate.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-rotate.png", *, *, *}
 		}
 
@@ -1641,6 +2184,9 @@
 			{"images/gimp-scale.png", *, *, "gtk-button"},
 			{"images/gimp-scale.png", *, *, "gtk-dialog"},
 			{"images/gimp-scale.png", *, *, "gtk-menu"},
+			{"images/gimp-scale.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-scale.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-scale.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-scale.png", *, *, *}
 		}
 
@@ -1650,6 +2196,9 @@
 			{"images/gimp-tool-shear.png", *, *, "gtk-button"},
 			{"images/gimp-tool-shear.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-shear.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-shear.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-shear.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-shear.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-shear.png", *, *, *}
 		}
 
@@ -1659,6 +2208,9 @@
 			{"images/gimp-tool-smudge.png", *, *, "gtk-button"},
 			{"images/gimp-tool-smudge.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-smudge.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-smudge.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-smudge.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-smudge.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-smudge.png", *, *, *}
 		}
 
@@ -1668,6 +2220,9 @@
 			{"images/gimp-tool-text.png", *, *, "gtk-button"},
 			{"images/gimp-tool-text.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-text.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-text.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-text.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-text.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-text.png", *, *, *}
 		}
 
@@ -1677,6 +2232,9 @@
 			{"images/gimp-tool-threshold.png", *, *, "gtk-button"},
 			{"images/gimp-tool-threshold.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-threshold.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-threshold.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-threshold.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-threshold.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-threshold.png", *, *, *}
 		}
 
@@ -1686,6 +2244,9 @@
 			{"images/gimp-tool-zoom.png", *, *, "gtk-button"},
 			{"images/gimp-tool-zoom.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-zoom.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-zoom.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-zoom.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-zoom.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-zoom.png", *, *, *}
 		}
 
@@ -1695,6 +2256,9 @@
 			{"images/gimp-tool-options.png", *, *, "gtk-button"},
 			{"images/gimp-tool-options.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-options.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-options.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-options.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-options.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-options.png", *, *, *}
 		}
 
@@ -1704,6 +2268,9 @@
 			{"images/gimp-controller-keyboard.png", *, *, "gtk-button"},
 			{"images/gimp-controller-keyboard.png", *, *, "gtk-dialog"},
 			{"images/gimp-controller-keyboard.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-controller-keyboard.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-controller-keyboard.png", *, *, *}
 		}
 
@@ -1713,6 +2280,9 @@
 			{"images/gimp-controller-linux-input.png", *, *, "gtk-button"},
 			{"images/gimp-controller-linux-input.png", *, *, "gtk-dialog"},
 			{"images/gimp-controller-linux-input.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-linux-input.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-controller-linux-input.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-controller-linux-input.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-controller-linux-input.png", *, *, *}
 		}
 
@@ -1722,6 +2292,9 @@
 			{"images/gimp-controller-midi.png", *, *, "gtk-button"},
 			{"images/gimp-controller-midi.png", *, *, "gtk-dialog"},
 			{"images/gimp-controller-midi.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-midi.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-controller-midi.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-controller-midi.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-controller-midi.png", *, *, *}
 		}
 
@@ -1731,6 +2304,9 @@
 			{"images/gimp-controller-mouse.png", *, *, "gtk-button"},
 			{"images/gimp-controller-mouse.png", *, *, "gtk-dialog"},
 			{"images/gimp-controller-mouse.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-mouse.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-controller-mouse.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-controller-mouse.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-controller-mouse.png", *, *, *}
 		}
 
@@ -1740,6 +2316,9 @@
 			{"images/gimp-controller-wheel.png", *, *, "gtk-button"},
 			{"images/gimp-controller-wheel.png", *, *, "gtk-dialog"},
 			{"images/gimp-controller-wheel.png", *, *, "gtk-menu"},
+			{"images/gimp-controller-wheel.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-controller-wheel.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-controller-wheel.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-controller-wheel.png", *, *, *}
 		}
 
@@ -1749,6 +2328,9 @@
 			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-button"},
 			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-dialog"},
 			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-display-filter-colorblind.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-display-filter-colorblind.png", *, *, *}
 		}
 
@@ -1758,6 +2340,9 @@
 			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-button"},
 			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-dialog"},
 			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-menu"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tool-brightness-contrast.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tool-brightness-contrast.png", *, *, *}
 		}
 
@@ -1767,6 +2352,9 @@
 			{"images/gimp-display-filter-gamma.png", *, *, "gtk-button"},
 			{"images/gimp-display-filter-gamma.png", *, *, "gtk-dialog"},
 			{"images/gimp-display-filter-gamma.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-gamma.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-display-filter-gamma.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-display-filter-gamma.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-display-filter-gamma.png", *, *, *}
 		}
 
@@ -1776,6 +2364,9 @@
 			{"images/gimp-display-filter-lcms.png", *, *, "gtk-button"},
 			{"images/gimp-display-filter-lcms.png", *, *, "gtk-dialog"},
 			{"images/gimp-display-filter-lcms.png", *, *, "gtk-menu"},
+			{"images/gimp-display-filter-lcms.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-display-filter-lcms.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-display-filter-lcms.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-display-filter-lcms.png", *, *, *}
 		}
 
@@ -1785,6 +2376,9 @@
 			{"images/gtk-print-preview.png", *, *, "gtk-button"},
 			{"images/gtk-print-preview.png", *, *, "gtk-dialog"},
 			{"images/gtk-print-preview.png", *, *, "gtk-menu"},
+			{"images/gtk-print-preview.png", *, *, "gtk-small-toolbar"},
+			{"images/gtk-print-preview.png", *, *, "gtk-large-toolbar"},
+			{"images/gtk-print-preview.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gtk-print-preview.png", *, *, *}
 		}
 
@@ -1794,6 +2388,9 @@
 			{"images/gimp-qmask-on.png", *, *, "gtk-button"},
 			{"images/gimp-qmask-on.png", *, *, "gtk-dialog"},
 			{"images/gimp-qmask-on.png", *, *, "gtk-menu"},
+			{"images/gimp-qmask-on.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-qmask-on.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-qmask-on.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-qmask-on.png", *, *, *}
 		}
 
@@ -1803,6 +2400,9 @@
 			{"images/gimp-qmask-off.png", *, *, "gtk-button"},
 			{"images/gimp-qmask-off.png", *, *, "gtk-dialog"},
 			{"images/gimp-qmask-off.png", *, *, "gtk-menu"},
+			{"images/gimp-qmask-off.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-qmask-off.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-qmask-off.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-qmask-off.png", *, *, *}
 		}
 
@@ -1812,6 +2412,9 @@
 			{"images/gimp-brush.png", *, *, "gtk-button"},
 			{"images/gimp-brush.png", *, *, "gtk-dialog"},
 			{"images/gimp-brush.png", *, *, "gtk-menu"},
+			{"images/gimp-brush.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-brush.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-brush.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-brush.png", *, *, *}
 		}
 
@@ -1821,6 +2424,9 @@
 			{"images/gimp-dynamics.png", *, *, "gtk-button"},
 			{"images/gimp-dynamics.png", *, *, "gtk-dialog"},
 			{"images/gimp-dynamics.png", *, *, "gtk-menu"},
+			{"images/gimp-dynamics.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-dynamics.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-dynamics.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-dynamics.png", *, *, *}
 		}
 
@@ -1830,6 +2436,9 @@
 			{"images/gimp-buffer.png", *, *, "gtk-button"},
 			{"images/gimp-buffer.png", *, *, "gtk-dialog"},
 			{"images/gimp-buffer.png", *, *, "gtk-menu"},
+			{"images/gimp-buffer.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-buffer.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-buffer.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-buffer.png", *, *, *}
 		}
 
@@ -1839,6 +2448,9 @@
 			{"images/gimp-detach.png", *, *, "gtk-button"},
 			{"images/gimp-detach.png", *, *, "gtk-dialog"},
 			{"images/gimp-detach.png", *, *, "gtk-menu"},
+			{"images/gimp-detach.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-detach.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-detach.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-detach.png", *, *, *}
 		}
 
@@ -1848,6 +2460,9 @@
 			{"images/gimp-font.png", *, *, "gtk-button"},
 			{"images/gimp-font.png", *, *, "gtk-dialog"},
 			{"images/gimp-font.png", *, *, "gtk-menu"},
+			{"images/gimp-font.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-font.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-font.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-font.png", *, *, *}
 		}
 
@@ -1857,6 +2472,9 @@
 			{"images/gimp-gradient.png", *, *, "gtk-button"},
 			{"images/gimp-gradient.png", *, *, "gtk-dialog"},
 			{"images/gimp-gradient.png", *, *, "gtk-menu"},
+			{"images/gimp-gradient.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-gradient.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-gradient.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-gradient.png", *, *, *}
 		}
 
@@ -1866,6 +2484,9 @@
 			{"images/gimp-palette.png", *, *, "gtk-button"},
 			{"images/gimp-palette.png", *, *, "gtk-dialog"},
 			{"images/gimp-palette.png", *, *, "gtk-menu"},
+			{"images/gimp-palette.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-palette.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-palette.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-palette.png", *, *, *}
 		}
 
@@ -1875,6 +2496,9 @@
 			{"images/gimp-pattern.png", *, *, "gtk-button"},
 			{"images/gimp-pattern.png", *, *, "gtk-dialog"},
 			{"images/gimp-pattern.png", *, *, "gtk-menu"},
+			{"images/gimp-pattern.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-pattern.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-pattern.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-pattern.png", *, *, *}
 		}
 
@@ -1884,6 +2508,9 @@
 			{"images/gimp-tools.png", *, *, "gtk-button"},
 			{"images/gimp-tools.png", *, *, "gtk-dialog"},
 			{"images/gimp-tools.png", *, *, "gtk-menu"},
+			{"images/gimp-tools.png", *, *, "gtk-small-toolbar"},
+			{"images/gimp-tools.png", *, *, "gtk-large-toolbar"},
+			{"images/gimp-tools.png", *, *, "gtk-dnd-toolbar"},
 			{"images/gimp-tools.png", *, *, *}
 		}
 

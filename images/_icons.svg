@@ -27,17 +27,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="710.61302"
-     inkscape:cy="286.95807"
+     inkscape:cx="412"
+     inkscape:cy="270"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:object-nodes="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1033"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-height="1080"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-global="true"
@@ -5776,47 +5776,6 @@
       </g>
     </g>
     <g
-       transform="translate(416,-128)"
-       id="g6652"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         transform="translate(0,452.36217)"
-         y="344"
-         x="240"
-         height="16"
-         width="16"
-         id="rect6650"
-         style="fill:none;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect6604"
-         transform="translate(0,452.36217)"
-         d="m 240,350 0,0.5 0,7 0,0.5 0.5,0 2.5,0 0,-1 -2,0 0,-6 2,0 0,-1 -2.5,0 -0.5,0 z m 13,0 0,1 2,0 0,6 -2,0 0,1 2.5,0 0.5,0 0,-0.5 0,-7 0,-0.5 -0.5,0 -2.5,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         sodipodi:nodetypes="cccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="rect6606"
-         d="m 243,807.34934 0,0.5 0,4.01283 0,0.5 0.5,0 9,0 0.5,0 0,-0.5 0,-4.01283 0,-0.5 -0.5,0 -9,0 z m 1,1 8,0 0,3.01283 -8,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path5807-1"
-         d="m 243,796.36217 0,9 10,0 0,-4 0,-1 -4,-4 -1,0 z m 1,1 4,0 0,3 0,1 4,0 0,3 -8,0 z m 5,0 3,3 -3,0 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <rect
-         transform="translate(0,452.36217)"
-         y="357"
-         x="250"
-         height="1"
-         width="1"
-         id="rect6648"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </g>
-    <g
        transform="translate(256,-63.999997)"
        id="g5252"
        inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-floppy.png"
@@ -5908,25 +5867,6 @@
          height="16"
          width="16"
          id="rect3754-78"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(-128,-208)"
-       id="g6443-7"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print-preview.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect9213-4-4-1-7"
-         d="m 884,876.36217 0,7 -4,0 0,7 3,0 0,1 -1,0 0,1 1,0 4,0 1,0 8,0 0,-11 0,-1 -4,-4 -1,0 -7,0 z m 1,1 6,0 0,3 0,1 4,0 0,10 -7,0 -1,0 0,-1 3,0 0,-7 -5,0 0,-6 z m 7,0 3,3 -3,0 0,-3 z m -11,7 8,0 0,5 -8,0 0,-5 z m 1,1 0,3 6,0 0,-3 -6,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         y="876.36218"
-         x="880"
-         height="16"
-         width="16"
-         id="rect3754-926-7"
          style="fill:none;stroke:none" />
     </g>
     <g
@@ -7329,245 +7269,6 @@
          style="fill:none;stroke:none" />
     </g>
     <g
-       transform="translate(-736,16.000003)"
-       id="g6210-9"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-delete.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5807-7-6"
-         d="m 1074,749.36217 0,13 5,0 0,-1 -4,0 0,-11 4,0 0,3 0,1 4,0 0,1 1,0 0,-1 0,-1 -4,-4 -1,0 -5,0 z m 6,1 3,3 -3,0 0,-3 z m 0.7188,5.28125 -1.4063,1.40625 2.3125,2.3125 -2.3125,2.28125 1.4063,1.40625 2.2812,-2.3125 2.3125,2.3125 1.4063,-1.40625 -2.2813,-2.28125 2.2813,-2.3125 -1.4063,-1.40625 -2.3125,2.28125 -2.2812,-2.28125 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <rect
-         y="748.36218"
-         x="1072"
-         height="16"
-         width="16"
-         id="rect3754-997-8"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(0,32.000003)"
-       id="g4431"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-find.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         transform="translate(0,452.36217)"
-         y="280"
-         x="368"
-         height="16"
-         width="16"
-         id="rect4429"
-         style="fill:none;stroke:none" />
-      <path
-         sodipodi:nodetypes="ccccccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path5807-9"
-         d="m 370,733.36217 0,13 6,0 0,-1 -5,0 0,-11 4,0 0,3 0,1 4,0 0,2 1,0 0,-2 0,-1 -4,-4 -1,0 z m 6,1 3,3 -3,0 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <path
-         sodipodi:nodetypes="sssccccsssssss"
-         inkscape:connector-curvature="0"
-         id="rect4107-1-8-4-2"
-         d="m 379,739.36217 c -1.6509,0 -3,1.34907 -3,3 0,1.65093 1.3491,3 3,3 0.6507,0 1.2572,-0.20751 1.75,-0.5625 l 1.9063,1.90625 0.7187,-0.71875 -1.9062,-1.90625 c 0.3394,-0.48604 0.5312,-1.08387 0.5312,-1.71875 0,-1.65093 -1.3491,-3 -3,-3 z m 0,1 c 1.1105,0 2,0.88951 2,2 0,1.11049 -0.8895,2 -2,2 -1.1105,0 -2,-0.88951 -2,-2 0,-1.11049 0.8895,-2 2,-2 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </g>
-    <g
-       transform="translate(-832,48.000003)"
-       id="g6132-4"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-find-and-replace.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect9238-4-0-2"
-         d="m 1238,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 4.5,0 0,-1 -4,0 0,-12 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,5 1,0 0,-5.5 0,-0.5 -0.5,0 -3.5,0 0,-1 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
-      <rect
-         y="716.36218"
-         x="1232"
-         height="16"
-         width="16"
-         id="rect3754-197-3"
-         style="fill:none;stroke:none" />
-      <path
-         sodipodi:nodetypes="sssccccsssssss"
-         inkscape:connector-curvature="0"
-         id="rect4107-1-8-4-2-2"
-         d="m 1243,724.36217 c -1.6509,0 -3,1.34907 -3,3 0,1.65093 1.3491,3 3,3 0.6507,0 1.2572,-0.20751 1.75,-0.5625 l 1.9063,1.90625 0.7187,-0.71875 -1.9062,-1.90625 c 0.3394,-0.48604 0.5312,-1.08387 0.5312,-1.71875 0,-1.65093 -1.3491,-3 -3,-3 z m 0,1 c 1.1105,0 2,0.88951 2,2 0,1.11049 -0.8895,2 -2,2 -1.1105,0 -2,-0.88951 -2,-2 0,-1.11049 0.8895,-2 2,-2 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </g>
-    <g
-       transform="translate(-800,48.000003)"
-       id="g6132"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-paste-as-new.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect9238-4-0"
-         d="m 1238,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 4.5,0 0,-1 -4,0 0,-12 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,5 1,0 0,-5.5 0,-0.5 -0.5,0 -3.5,0 0,-1 -4,0 z m 2,8 0,1 0,1 0,6 1,0 7,0 0,-1 0,-6 0,-1 -1,0 -6,0 -1,0 z m 1,1 6,0 0,6 -6,0 0,-6 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         y="716.36218"
-         x="1232"
-         height="16"
-         width="16"
-         id="rect3754-197"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(-736,48.000003)"
-       id="g6128"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-paste-into.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect9238-4"
-         d="m 1206,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 4.5,0 0,-1 -4,0 0,-12 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,5 1,0 0,-5.5 0,-0.5 -0.5,0 -3.5,0 0,-1 -4,0 z m 2,8 0,1 0,1 1,0 0,-1 1,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 1,0 0,1 1,0 0,-2 -2,0 z m -6,3 0,2 1,0 0,-2 -1,0 z m 7,0 0,2 1,0 0,-2 -1,0 z m -7,3 0,1 0,1 2,0 0,-1 -1,0 0,-1 -1,0 z m 7,0 0,1 -1,0 0,1 2,0 0,-1 0,-1 -1,0 z m -4,1 0,1 2,0 0,-1 -2,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         y="716.36218"
-         x="1200"
-         height="16"
-         width="16"
-         id="rect3754-821"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(-672,48.000003)"
-       id="g6124-0"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-paste.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect9238-0"
-         d="m 1174,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 11,0 0.5,0 0,-0.5 0,-13 0,-0.5 -0.5,0 -3.5,0 0,-1 -4,0 z m -3,2 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,12 -10,0 0,-12 z m 1,4 0,1 5,0 0,-1 -5,0 z m 0,2 0,1 8,0 0,-1 -8,0 z m 0,2 0,1 7,0 0,-1 -7,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         y="716.36218"
-         x="1168"
-         height="16"
-         width="16"
-         id="rect3754-461-1"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       id="g5424"
-       transform="translate(-672,-48.000007)"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-anchor.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(784,-16)"
-         inkscape:label="gimp-anchor"
-         id="gimp-anchor">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m 423.5,378 c -1.37301,0 -2.5,1.12698 -2.5,2.5 0,1.20138 0.86717,2.20571 2,2.4375 l 0,1.0625 -2,0 0,1 2,0 0,3 -2,0 c -0.83861,0 -1.67656,-0.12924 -2,-1 l 2,0 -3,-3 0,3 c 0.68442,2.30187 2.88308,3 5.5,3 2.61694,0 4.81558,-0.69813 5.5,-3 l 0,-3 -3,3 2,0 c -0.32344,0.87076 -1.16139,1 -2,1 l -2,0 0,-3 2,0 0,-1 -2,0 0,-1.0625 c 1.13283,-0.23179 2,-1.23612 2,-2.4375 0,-1.37302 -1.12699,-2.5 -2.5,-2.5 z m 0,1.28125 c 0.67044,0 1.21875,0.54831 1.21875,1.21875 0,0.67044 -0.54831,1.21875 -1.21875,1.21875 -0.67044,0 -1.21875,-0.54831 -1.21875,-1.21875 0,-0.67044 0.54831,-1.21875 1.21875,-1.21875 z"
-           id="path8817"
-           transform="translate(0,452.36217)" />
-      </g>
-      <rect
-         y="812.36218"
-         x="1200"
-         height="16"
-         width="16"
-         id="rect3754-1257"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(-608,16.000003)"
-       id="g6198"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-directory.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect5538"
-         d="m 1202,751.36217 0,1 0,9 0,1 11,0 c 1.1046,0 2,-0.89543 2,-2 l 0,-6 -1,0 0,-2 -6,0 0,-1 -6,0 z m 1,1 4,0 0,1 6,0 0,1 -9,0 0,1 0,6 -1,0 0,-9 z m 2,3 9,0 0,5 c 0,0.55228 -0.4477,1 -1,1 l -8,0 0,-6 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <rect
-         y="748.36218"
-         x="1200"
-         height="16"
-         width="16"
-         id="rect3754-125"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(-640,16.000003)"
-       id="g6198-9"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-open.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect5538-7"
-         d="m 1202,751.36217 0,1 0,9 0,1 11,0 c 1.1046,0 2,-0.89543 2,-2 l 1,-5 -2,0 0,-3 -6,0 0,-1 z m 1,1 4,0 0,1 6,0 0,2 -8,0 0,1 -1,5 -1,0 z m 3,4 9,0 -1,4 c -0.1339,0.53579 -0.4477,1 -1,1 l -8,0 z"
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         sodipodi:nodetypes="ccccssccccccccccccccccccsscc" />
-      <rect
-         y="748.36218"
-         x="1200"
-         height="16"
-         width="16"
-         id="rect3754-125-3"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(-704,-47.999997)"
-       id="g6283"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-image.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect9213-9-6-8"
-         d="m 1329,814.36217 0,0.5 0,10 0,0.5 2,0 1,0 10,0 0,-8 0,-1 0,-1.5 0,-0.5 -0.5,0 -12,0 -0.5,0 z m 1,1 11,0 0,9 -11,0 0,-9 z m 9,1 c -0.5523,0 -1,0.44772 -1,1 0,0.55228 0.4477,1 1,1 0.5523,0 1,-0.44772 1,-1 0,-0.55228 -0.4477,-1 -1,-1 z m -6,2 c -2,0 -2,5 -2,5 l 9,0 0,-2 -4,0 c 0,0 -1,-3 -3,-3 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         y="812.36218"
-         x="1328"
-         height="16"
-         width="16"
-         id="rect3754-596"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
-       transform="translate(576,288)"
-       id="g5485-3"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-images.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="translate(-432,-352.00001)"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:label="gimp-duplicate"
-         id="gimp-duplicate-2">
-        <path
-           inkscape:connector-curvature="0"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           d="m 512,378 0,0.5 0,10 0,0.5 0.5,0 1.5,0 0,1.5 0,0.5 0.5,0 12,0 0.5,0 0,-0.5 0,-10 0,-0.5 -0.5,0 -1.5,0 0,-1.5 0,-0.5 -0.5,0 -12,0 -0.5,0 z m 1,1 11,0 0,9 -11,0 0,-9 z m 9,1 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,1 1,0 0,9 -11,0 0,-1 9.5,0 0.5,0 0,-0.5 0,-7.5 z m -9,1 c -2,0 -2,5 -2,5 l 9,0 0,-2 -4,0 c 0,0 -1,-3 -3,-3 z"
-           id="rect9213-9-6-2"
-           transform="translate(0,452.36217)" />
-      </g>
-      <rect
-         y="476.36218"
-         x="80"
-         height="16"
-         width="16"
-         id="rect3754-342-1"
-         style="fill:none;stroke:none" />
-    </g>
-    <g
        transform="translate(-16,2.679205e-6)"
        id="g50291"
        inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-warning.png"
@@ -7796,6 +7497,174 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
+       transform="translate(-96,0)"
+       id="g6652"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="translate(0,452.36217)"
+         y="344"
+         x="240"
+         height="16"
+         width="16"
+         id="rect6650"
+         style="fill:none;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect6604"
+         transform="translate(0,452.36217)"
+         d="m 240,350 0,0.5 0,7 0,0.5 0.5,0 2.5,0 0,-1 -2,0 0,-6 2,0 0,-1 -2.5,0 -0.5,0 z m 13,0 0,1 2,0 0,6 -2,0 0,1 2.5,0 0.5,0 0,-0.5 0,-7 0,-0.5 -0.5,0 -2.5,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect6606"
+         d="m 243,807.34934 0,0.5 0,4.01283 0,0.5 0.5,0 9,0 0.5,0 0,-0.5 0,-4.01283 0,-0.5 -0.5,0 -9,0 z m 1,1 8,0 0,3.01283 -8,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5807-1"
+         d="m 243,796.36217 0,9 10,0 0,-4 0,-1 -4,-4 -1,0 z m 1,1 4,0 0,3 0,1 4,0 0,3 -8,0 z m 5,0 3,3 -3,0 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <rect
+         transform="translate(0,452.36217)"
+         y="357"
+         x="250"
+         height="1"
+         width="1"
+         id="rect6648"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(-672,-112)"
+       id="g6275-1"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-page-setup.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5807-71-7"
+         d="m 1328,780.36217 0,13 6.25,0 -2.25,3 12,0 0,-16 -6,8 0,-3 0,-1 -4,-4 -1,0 -5,0 z m 1,1 4,0 0,3 0,1 4,0 0,4.34375 -2,2.65625 -6,0 0,-11 z m 5,0 3,3 -3,0 0,-3 z m 9,2 0,4 -2,0 0,1 2,0 0,1 -2,0 0,1 2,0 0,1 -2,0 0,1 2,0 0,1 -2,0 0,1 2,0 0,1 -9,0 9,-12 z m -3,6 -4,5 4,0 0,-5 z m -1,3 0,1 -1,0 1,-1 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <rect
+         y="780.36218"
+         x="1328"
+         height="16"
+         width="16"
+         id="rect3754-293-4"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g5932"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print-error.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="translate(0,452.36217)"
+         y="344"
+         x="176"
+         height="16"
+         width="16"
+         id="rect5873"
+         style="fill:none;fill-opacity:1;stroke:none" />
+      <path
+         id="rect6604-5"
+         transform="translate(0,452.36217)"
+         d="M 179 344 L 179 350 L 176.5 350 L 176 350 L 176 350.5 L 176 357.5 L 176 358 L 176.5 358 L 179 358 L 179 359.5 L 179 360 L 179.5 360 L 183 360 L 183 359 L 180 359 L 180 356 L 183 356 L 183 355 L 179.5 355 L 179 355 L 179 355.5 L 179 357 L 177 357 L 177 351 L 179 351 L 179 353 L 183 353 L 183 352 L 180 352 L 180 345 L 184 345 L 184 348 L 184 349 L 188 349 L 188 350 L 189 350 L 189 349 L 189 348 L 185 344 L 184 344 L 179 344 z M 185 345 L 188 348 L 185 348 L 185 345 z "
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4828"
+         d="m 185,805.36217 6,6"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 191,805.36217 -6,6"
+         id="path5598"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5939"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print-paused.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="rect6604-5-5"
+         d="m 211,796.36217 0,6 -2.5,0 -0.5,0 0,0.5 0,7 0,0.5 0.5,0 2.5,0 0,1.5 0,0.5 0.5,0 3.5,0 0,-1 -3,0 0,-3 3,0 0,-1 -3.5,0 -0.5,0 0,0.5 0,1.5 -2,0 0,-6 2,0 0,2 4,0 0,-1 -3,0 0,-7 4,0 0,3 0,1 4,0 0,1 1,0 0,-1 0,-1 -4,-4 -1,0 -5,0 z m 6,1 3,3 -3,0 0,-3 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         transform="translate(0,452.36217)"
+         inkscape:connector-curvature="0"
+         id="path5658"
+         d="m 218,359 0,-7"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5658-9"
+         d="m 222,811.36217 0,-7"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="796.36218"
+         x="208"
+         height="16"
+         width="16"
+         id="rect5873-6"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g6076"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print-report.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path5869"
+         transform="translate(0,452.36217)"
+         d="M 283 350 C 280.23858 350 278 352.23858 278 355 C 278 357.76142 280.23858 360 283 360 C 285.76142 360 288 357.76142 288 355 C 288 352.23858 285.76142 350 283 350 z M 282 352 L 284 352 L 284 353 L 282 353 L 282 352 z M 282 354 L 284 354 L 284 358 L 282 358 L 282 354 z "
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc"
+         id="rect6604-5-5-5-3"
+         d="m 275,796.36217 0,6 -2.5,0 -0.5,0 0,0.5 0,7 0,0.5 0.5,0 2.5,0 0,1.5 0,0.5 0.5,0 3.5,0 0,-1 -3,0 0,-3 3,0 0,-1 -3.5,0 -0.5,0 0,0.5 0,1.5 -2,0 0,-6 2,0 0,2 4,0 0,-1 -3,0 0,-7 4,0 0,3 0,1 4,0 0,2 1,0 0,-2 0,-1 -4,-4 -1,0 z m 6,1 3,3 -3,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="796.36218"
+         x="272"
+         height="16"
+         width="16"
+         id="rect5873-0"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g6082"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print-warning.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path49337-7-1"
+         transform="translate(0,452.36217)"
+         d="M 315 349.875 L 310 360 L 320 360 L 315 349.875 z M 314 354 L 316 354 L 316 357 L 314 357 L 314 354 z M 314 358 L 316 358 L 316 359 L 314 359 L 314 358 z "
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <path
+         id="rect6604-5-5-5-3-3"
+         d="m 307,796.36217 0,6 -2.5,0 -0.5,0 0,0.5 0,7 0,0.5 0.5,0 2.5,0 0,1.5 0,0.5 0.5,0 3.5,0 0,-1 -3,0 0,-3 3,0 0,-1 -3.5,0 -0.5,0 0,0.5 0,1.5 -2,0 0,-6 2,0 0,2 4,0 0,-1 -3,0 0,-7 4,0 0,3 0,1 4,0 0,1 1,0 0,-1 0,-1 -4,-4 -1,0 -5,0 z m 6,1 3,3 -3,0 0,-3 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="796.36218"
+         x="304"
+         height="16"
+         width="16"
+         id="rect5873-2"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(64,-95.999997)"
        id="g5417"
        inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-toilet-paper.png"
        inkscape:export-xdpi="90"
@@ -7807,10 +7676,10 @@
          height="16"
          width="16"
          id="rect5415"
-         style="fill:none;fill-opacity:1;stroke:none" />
+         style="fill:none;stroke:none" />
       <path
          transform="matrix(0.78048778,0,0,0.84656047,158.47563,500.57657)"
-         d="m 698.3125,318.09375 a 5.125,5.90625 0 1 1 -10.25,0 5.125,5.90625 0 1 1 10.25,0 z"
+         d="m 698.3125,318.09375 c 0,3.26193 -2.29454,5.90625 -5.125,5.90625 -2.83046,0 -5.125,-2.64432 -5.125,-5.90625 0,-3.26193 2.29454,-5.90625 5.125,-5.90625 2.83046,0 5.125,2.64432 5.125,5.90625 z"
          sodipodi:ry="5.90625"
          sodipodi:rx="5.125"
          sodipodi:cy="318.09375"
@@ -7826,7 +7695,7 @@
          sodipodi:cy="318.09375"
          sodipodi:rx="5.125"
          sodipodi:ry="5.90625"
-         d="m 698.3125,318.09375 a 5.125,5.90625 0 1 1 -10.25,0 5.125,5.90625 0 1 1 10.25,0 z"
+         d="m 698.3125,318.09375 c 0,3.26193 -2.29454,5.90625 -5.125,5.90625 -2.83046,0 -5.125,-2.64432 -5.125,-5.90625 0,-3.26193 2.29454,-5.90625 5.125,-5.90625 2.83046,0 5.125,2.64432 5.125,5.90625 z"
          transform="matrix(0.29268284,0,0,0.38095219,496.61592,648.93366)" />
       <path
          sodipodi:nodetypes="csccscc"
@@ -7856,7 +7725,246 @@
          inkscape:connector-curvature="0"
          id="path5413"
          d="m 696,328 1,-1 1,1 1,-1 1,1 1,-1 1,1 1,-1 0,-1 -1,1 -1,-1 -1,1 -1,-1 -1,1 -1,-1 -1,1 z"
-         style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(-640,-80)"
+       id="g6443-7"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-print-preview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9213-4-4-1-7"
+         d="m 884,876.36217 0,7 -4,0 0,7 3,0 0,1 -1,0 0,1 1,0 4,0 1,0 8,0 0,-11 0,-1 -4,-4 -1,0 -7,0 z m 1,1 6,0 0,3 0,1 4,0 0,10 -7,0 -1,0 0,-1 3,0 0,-7 -5,0 0,-6 z m 7,0 3,3 -3,0 0,-3 z m -11,7 8,0 0,5 -8,0 0,-5 z m 1,1 0,3 6,0 0,-3 -6,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <rect
+         y="876.36218"
+         x="880"
+         height="16"
+         width="16"
+         id="rect3754-926-7"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(-32,32)"
+       id="g4431"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-find.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="translate(0,452.36217)"
+         y="280"
+         x="368"
+         height="16"
+         width="16"
+         id="rect4429"
+         style="fill:none;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5807-9"
+         d="m 370,733.36217 0,13 6,0 0,-1 -5,0 0,-11 4,0 0,3 0,1 4,0 0,2 1,0 0,-2 0,-1 -4,-4 -1,0 z m 6,1 3,3 -3,0 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="sssccccsssssss"
+         inkscape:connector-curvature="0"
+         id="rect4107-1-8-4-2"
+         d="m 379,739.36217 c -1.6509,0 -3,1.34907 -3,3 0,1.65093 1.3491,3 3,3 0.6507,0 1.2572,-0.20751 1.75,-0.5625 l 1.9063,1.90625 0.7187,-0.71875 -1.9062,-1.90625 c 0.3394,-0.48604 0.5312,-1.08387 0.5312,-1.71875 0,-1.65093 -1.3491,-3 -3,-3 z m 0,1 c 1.1105,0 2,0.88951 2,2 0,1.11049 -0.8895,2 -2,2 -1.1105,0 -2,-0.88951 -2,-2 0,-1.11049 0.8895,-2 2,-2 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="translate(-832,48)"
+       id="g6132"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-paste-as-new.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9238-4-0"
+         d="m 1238,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 4.5,0 0,-1 -4,0 0,-12 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,5 1,0 0,-5.5 0,-0.5 -0.5,0 -3.5,0 0,-1 -4,0 z m 2,8 0,1 0,1 0,6 1,0 7,0 0,-1 0,-6 0,-1 -1,0 -6,0 -1,0 z m 1,1 6,0 0,6 -6,0 0,-6 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <rect
+         y="716.36218"
+         x="1232"
+         height="16"
+         width="16"
+         id="rect3754-197"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(-768,48)"
+       id="g6128"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-paste-into.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9238-4"
+         d="m 1206,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 4.5,0 0,-1 -4,0 0,-12 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,5 1,0 0,-5.5 0,-0.5 -0.5,0 -3.5,0 0,-1 -4,0 z m 2,8 0,1 0,1 1,0 0,-1 1,0 0,-1 -2,0 z m 3,0 0,1 2,0 0,-1 -2,0 z m 3,0 0,1 1,0 0,1 1,0 0,-2 -2,0 z m -6,3 0,2 1,0 0,-2 -1,0 z m 7,0 0,2 1,0 0,-2 -1,0 z m -7,3 0,1 0,1 2,0 0,-1 -1,0 0,-1 -1,0 z m 7,0 0,1 -1,0 0,1 2,0 0,-1 0,-1 -1,0 z m -4,1 0,1 2,0 0,-1 -2,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <rect
+         y="716.36218"
+         x="1200"
+         height="16"
+         width="16"
+         id="rect3754-821"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(-704,48)"
+       id="g6124-0"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-paste.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9238-0"
+         d="m 1174,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 11,0 0.5,0 0,-0.5 0,-13 0,-0.5 -0.5,0 -3.5,0 0,-1 -4,0 z m -3,2 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,12 -10,0 0,-12 z m 1,4 0,1 5,0 0,-1 -5,0 z m 0,2 0,1 8,0 0,-1 -8,0 z m 0,2 0,1 7,0 0,-1 -7,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <rect
+         y="716.36218"
+         x="1168"
+         height="16"
+         width="16"
+         id="rect3754-461-1"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g5424"
+       transform="translate(-704,-48.00001)"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-anchor.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(784,-16)"
+         inkscape:label="gimp-anchor"
+         id="gimp-anchor">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m 423.5,378 c -1.37301,0 -2.5,1.12698 -2.5,2.5 0,1.20138 0.86717,2.20571 2,2.4375 l 0,1.0625 -2,0 0,1 2,0 0,3 -2,0 c -0.83861,0 -1.67656,-0.12924 -2,-1 l 2,0 -3,-3 0,3 c 0.68442,2.30187 2.88308,3 5.5,3 2.61694,0 4.81558,-0.69813 5.5,-3 l 0,-3 -3,3 2,0 c -0.32344,0.87076 -1.16139,1 -2,1 l -2,0 0,-3 2,0 0,-1 -2,0 0,-1.0625 c 1.13283,-0.23179 2,-1.23612 2,-2.4375 0,-1.37302 -1.12699,-2.5 -2.5,-2.5 z m 0,1.28125 c 0.67044,0 1.21875,0.54831 1.21875,1.21875 0,0.67044 -0.54831,1.21875 -1.21875,1.21875 -0.67044,0 -1.21875,-0.54831 -1.21875,-1.21875 0,-0.67044 0.54831,-1.21875 1.21875,-1.21875 z"
+           id="path8817"
+           transform="translate(0,452.36217)" />
+      </g>
+      <rect
+         y="812.36218"
+         x="1200"
+         height="16"
+         width="16"
+         id="rect3754-1257"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(-640,16)"
+       id="g6198"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-directory.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5538"
+         d="m 1202,751.36217 0,1 0,9 0,1 11,0 c 1.1046,0 2,-0.89543 2,-2 l 0,-6 -1,0 0,-2 -6,0 0,-1 -6,0 z m 1,1 4,0 0,1 6,0 0,1 -9,0 0,1 0,6 -1,0 0,-9 z m 2,3 9,0 0,5 c 0,0.55228 -0.4477,1 -1,1 l -8,0 0,-6 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <rect
+         y="748.36218"
+         x="1200"
+         height="16"
+         width="16"
+         id="rect3754-125"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(-672,16)"
+       id="g6198-9"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-open.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5538-7"
+         d="m 1202,751.36217 0,1 0,9 0,1 11,0 c 1.1046,0 2,-0.89543 2,-2 l 1,-5 -2,0 0,-3 -6,0 0,-1 z m 1,1 4,0 0,1 6,0 0,2 -8,0 0,1 -1,5 -1,0 z m 3,4 9,0 -1,4 c -0.1339,0.53579 -0.4477,1 -1,1 l -8,0 z"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="ccccssccccccccccccccccccsscc" />
+      <rect
+         y="748.36218"
+         x="1200"
+         height="16"
+         width="16"
+         id="rect3754-125-3"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(-736,-48)"
+       id="g6283"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-image.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9213-9-6-8"
+         d="m 1329,814.36217 0,0.5 0,10 0,0.5 2,0 1,0 10,0 0,-8 0,-1 0,-1.5 0,-0.5 -0.5,0 -12,0 -0.5,0 z m 1,1 11,0 0,9 -11,0 0,-9 z m 9,1 c -0.5523,0 -1,0.44772 -1,1 0,0.55228 0.4477,1 1,1 0.5523,0 1,-0.44772 1,-1 0,-0.55228 -0.4477,-1 -1,-1 z m -6,2 c -2,0 -2,5 -2,5 l 9,0 0,-2 -4,0 c 0,0 -1,-3 -3,-3 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <rect
+         y="812.36218"
+         x="1328"
+         height="16"
+         width="16"
+         id="rect3754-596"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(544,288)"
+       id="g5485-3"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gimp-images.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-432,-352.00001)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:label="gimp-duplicate"
+         id="gimp-duplicate-2">
+        <path
+           inkscape:connector-curvature="0"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 512,378 0,0.5 0,10 0,0.5 0.5,0 1.5,0 0,1.5 0,0.5 0.5,0 12,0 0.5,0 0,-0.5 0,-10 0,-0.5 -0.5,0 -1.5,0 0,-1.5 0,-0.5 -0.5,0 -12,0 -0.5,0 z m 1,1 11,0 0,9 -11,0 0,-9 z m 9,1 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z m 3,1 1,0 0,9 -11,0 0,-1 9.5,0 0.5,0 0,-0.5 0,-7.5 z m -9,1 c -2,0 -2,5 -2,5 l 9,0 0,-2 -4,0 c 0,0 -1,-3 -3,-3 z"
+           id="rect9213-9-6-2"
+           transform="translate(0,452.36217)" />
+      </g>
+      <rect
+         y="476.36218"
+         x="80"
+         height="16"
+         width="16"
+         id="rect3754-342-1"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="translate(-864,48)"
+       id="g6132-4"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-find-and-replace.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect9238-4-0-2"
+         d="m 1238,716.36217 0,1 -3.5,0 -0.5,0 0,0.5 0,13 0,0.5 0.5,0 4.5,0 0,-1 -4,0 0,-12 3,0 0,1 -2,0 0,1 8,0 0,-1 -2,0 0,-1 3,0 0,5 1,0 0,-5.5 0,-0.5 -0.5,0 -3.5,0 0,-1 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+      <rect
+         y="716.36218"
+         x="1232"
+         height="16"
+         width="16"
+         id="rect3754-197-3"
+         style="fill:none;stroke:none" />
+      <path
+         sodipodi:nodetypes="sssccccsssssss"
+         inkscape:connector-curvature="0"
+         id="rect4107-1-8-4-2-2"
+         d="m 1243,724.36217 c -1.6509,0 -3,1.34907 -3,3 0,1.65093 1.3491,3 3,3 0.6507,0 1.2572,-0.20751 1.75,-0.5625 l 1.9063,1.90625 0.7187,-0.71875 -1.9062,-1.90625 c 0.3394,-0.48604 0.5312,-1.08387 0.5312,-1.71875 0,-1.65093 -1.3491,-3 -3,-3 z m 0,1 c 1.1105,0 2,0.88951 2,2 0,1.11049 -0.8895,2 -2,2 -1.1105,0 -2,-0.88951 -2,-2 0,-1.11049 0.8895,-2 2,-2 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
