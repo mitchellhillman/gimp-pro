@@ -1630,7 +1630,7 @@
 	# -----------------
 		stock["gimp-error"] = {
 			{"images/gimp-error.png", *, *, "gtk-button"},
-			{"images/gimp-error.png", *, *, "gtk-dialog"},
+			{"images/gimp-error-large.png", *, *, "gtk-dialog"},
 			{"images/gimp-error.png", *, *, "gtk-menu"},
 			{"images/gimp-error.png", *, *, "gtk-small-toolbar"},
 			{"images/gimp-error.png", *, *, "gtk-large-toolbar"},
@@ -1642,7 +1642,7 @@
 	# -----------------
 		stock["gimp-info"] = {
 			{"images/gimp-info.png", *, *, "gtk-button"},
-			{"images/gimp-info.png", *, *, "gtk-dialog"},
+			{"images/gimp-info-large.png", *, *, "gtk-dialog"},
 			{"images/gimp-info.png", *, *, "gtk-menu"},
 			{"images/gimp-info.png", *, *, "gtk-small-toolbar"},
 			{"images/gimp-info.png", *, *, "gtk-large-toolbar"},
@@ -1654,7 +1654,7 @@
 	# -----------------
 		stock["gimp-question"] = {
 			{"images/gimp-question.png", *, *, "gtk-button"},
-			{"images/gimp-question.png", *, *, "gtk-dialog"},
+			{"images/gimp-question-large.png", *, *, "gtk-dialog"},
 			{"images/gimp-question.png", *, *, "gtk-menu"},
 			{"images/gimp-question.png", *, *, "gtk-small-toolbar"},
 			{"images/gimp-question.png", *, *, "gtk-large-toolbar"},
@@ -1666,7 +1666,7 @@
 	# -----------------
 		stock["gimp-warning"] = {
 			{"images/gimp-warning.png", *, *, "gtk-button"},
-			{"images/gimp-warning.png", *, *, "gtk-dialog"},
+			{"images/gimp-warning-large.png", *, *, "gtk-dialog"},
 			{"images/gimp-warning.png", *, *, "gtk-menu"},
 			{"images/gimp-warning.png", *, *, "gtk-small-toolbar"},
 			{"images/gimp-warning.png", *, *, "gtk-large-toolbar"},

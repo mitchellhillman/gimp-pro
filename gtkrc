@@ -265,7 +265,7 @@ include "imagerc"
 		# --------------------
 			stock["gtk-dialog-warning"] = {
 				{"images/gimp-warning.png", *, *, "gtk-button"},
-				{"images/gimp-warning.png", *, *, "gtk-dialog"},
+				{"images/gimp-warning-large.png", *, *, "gtk-dialog"},
 				{"images/gimp-warning.png", *, *, "gtk-menu"},
 				{"images/gimp-warning.png", *, *, "gtk-small-toolbar"},
 				{"images/gimp-warning.png", *, *, "gtk-large-toolbar"},
@@ -529,7 +529,7 @@ include "imagerc"
 		# --------------------
 			stock["gtk-help"] = {
 				{"images/gimp-question.png", *, *, "gtk-button"},
-				{"images/gimp-question.png", *, *, "gtk-dialog"},
+				{"images/gimp-question-large.png", *, *, "gtk-dialog"},
 				{"images/gimp-question.png", *, *, "gtk-menu"},
 				{"images/gimp-question.png", *, *, "gtk-small-toolbar"},
 				{"images/gimp-question.png", *, *, "gtk-large-toolbar"},
@@ -577,7 +577,7 @@ include "imagerc"
 		# --------------------
 			stock["gtk-info"] = {
 				{"images/gimp-info.png", *, *, "gtk-button"},
-				{"images/gimp-info.png", *, *, "gtk-dialog"},
+				{"images/gimp-info-large.png", *, *, "gtk-dialog"},
 				{"images/gimp-info.png", *, *, "gtk-menu"},
 				{"images/gimp-info.png", *, *, "gtk-small-toolbar"},
 				{"images/gimp-info.png", *, *, "gtk-large-toolbar"},
@@ -925,7 +925,7 @@ include "imagerc"
 		# --------------------
 			stock["gtk-print-error"] = {
 				{"images/gtk-print-error.png", *, *, "gtk-button"},
-				{"images/gtk-print-error.png", *, *, "gtk-dialog"},
+				{"images/gtk-print-error-large.png", *, *, "gtk-dialog"},
 				{"images/gtk-print-error.png", *, *, "gtk-menu"},
 				{"images/gtk-print-error.png", *, *, "gtk-small-toolbar"},
 				{"images/gtk-print-error.png", *, *, "gtk-large-toolbar"},
@@ -1153,7 +1153,7 @@ include "imagerc"
 		# --------------------
 			stock["gtk-stop"] = {
 				{"images/gimp-error.png", *, *, "gtk-button"},
-				{"images/gimp-error.png", *, *, "gtk-dialog"},
+				{"images/gimp-error-large.png", *, *, "gtk-dialog"},
 				{"images/gimp-error.png", *, *, "gtk-menu"},
 				{"images/gimp-error.png", *, *, "gtk-small-toolbar"},
 				{"images/gimp-error.png", *, *, "gtk-large-toolbar"},
@@ -1290,6 +1290,12 @@ include "imagerc"
 		style "gimp-default-style" {
 			bg[NORMAL]		= "#d4d0c8"
 			bg[PRELIGHT]	= "#a5a29c"
+			
+			bg[SELECTED]	= "#f0a513"
+
+			base[ACTIVE]	= "#aaccee"
+			base[SELECTED]	= "#aaccee"
+			text[SELECTED]	= "#000000"
 		}
 
 	# Panel Drop area text
@@ -1311,27 +1317,27 @@ include "imagerc"
 # Windows 8, Mac, Basic Linux
 # --------------------
 
-	# # Default Styles
-	# # --------------------
-	# 	style "gimp-default-style" {
-	# 		bg[NORMAL]		= "#eeeeee"
-	# 		bg[PRELIGHT]	= "#cccccc"
-	# 	}
+	# Default Styles
+	# --------------------
+		style "gimp-default-style" {
+			bg[NORMAL]		= "#a0a0a0"
+			bg[PRELIGHT]	= "#cccccc"
+		}
 
-	# # Panel Drop area text
-	# # --------------------
-	# 	style "gimp-drop-text-style" = "gimp-default-style" {
-	# 		fg[NORMAL] = "#eeeeee" # "you can drop docable dialogs here" label
-	# 	}
-	# 	widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
+	# Panel Drop area text
+	# --------------------
+		style "gimp-drop-text-style" = "gimp-default-style" {
+			fg[NORMAL] = "#a0a0a0" # "you can drop docable dialogs here" label
+		}
+		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
 
-	# # Empty image background
-	# # --------------------
-	# 	style "gimp-empty-image-style" = "gimp-default-style" {
-	# 	  bg[NORMAL] = "#cccccc" # canvas padding
-	# 	  fg[NORMAL] = "#cccccc" # Wilber
-	# 	}
-	# 	widget_class "*Canv*" style:highest "gimp-empty-image-style"
+	# Empty image background
+	# --------------------
+		style "gimp-empty-image-style" = "gimp-default-style" {
+		  bg[NORMAL] = "#606060" # canvas padding
+		  fg[NORMAL] = "#606060" # Wilber
+		}
+		widget_class "*Canv*" style:highest "gimp-empty-image-style"
 
 class "GtkWidget" style "gimp-default-style"
 class "GtkButton" style "gimp-button"
