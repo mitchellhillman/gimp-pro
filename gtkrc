@@ -11,13 +11,13 @@ include "imagerc"
 		# document-open-recent
 		# --------------------
 			stock["document-open-recent"] = {
-				{"images//gimp-undo-history.png", *, *, "gtk-button"},
-				{"images//gimp-undo-history.png", *, *, "gtk-dialog"},
-				{"images//gimp-undo-history.png", *, *, "gtk-menu"},
-				{"images//gimp-undo-history.png", *, *, "gtk-small-toolbar"},
-				{"images//gimp-undo-history.png", *, *, "gtk-large-toolbar"},
-				{"images//gimp-undo-history.png", *, *, "gtk-dnd"},
-				{"images//gimp-undo-history.png", *, *, *}
+				{"images/gimp-undo-history.png", *, *, "gtk-button"},
+				{"images/gimp-undo-history.png", *, *, "gtk-dialog"},
+				{"images/gimp-undo-history.png", *, *, "gtk-menu"},
+				{"images/gimp-undo-history.png", *, *, "gtk-small-toolbar"},
+				{"images/gimp-undo-history.png", *, *, "gtk-large-toolbar"},
+				{"images/gimp-undo-history.png", *, *, "gtk-dnd"},
+				{"images/gimp-undo-history.png", *, *, *}
 			}
 
 		# page-setup
