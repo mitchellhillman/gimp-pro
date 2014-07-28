@@ -1273,50 +1273,50 @@ include "imagerc"
 # # Windows 7 (Classic)
 # # --------------------
 
-# 	# Default Styles
-# 	# --------------------
-# 		style "gimp-default-style" {
-# 			bg[NORMAL] = "#d4d0c8" # background set to match "windows classic" theme in Windows 7
-# 		}
-
-# 	# Panel Drop area text
-# 	# --------------------
-# 		style "gimp-drop-text-style" = "gimp-default-style" {
-# 			fg[NORMAL] = "#d4d0c8" # "you can drop docable dialogs here" label
-# 		}
-# 		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
-
-# 	# Empty image background
-# 	# --------------------
-# 		style "gimp-empty-image-style" = "gimp-default-style" {
-# 		  bg[NORMAL] = "#a5a29c" # canvas padding
-# 		  fg[NORMAL] = "#a5a29c" # Wilber
-# 		}
-# 		widget_class "*Canv*" style:highest "gimp-empty-image-style"
-
-# Windows 8
-# --------------------
-
 	# Default Styles
 	# --------------------
 		style "gimp-default-style" {
-			bg[NORMAL] = "#eeeeee" # background set to match "windows classic" theme in Windows 7
+			bg[NORMAL] = "#d4d0c8" # background set to match "windows classic" theme in Windows 7
 		}
 
 	# Panel Drop area text
 	# --------------------
 		style "gimp-drop-text-style" = "gimp-default-style" {
-			fg[NORMAL] = "#eeeeee" # "you can drop docable dialogs here" label
+			fg[NORMAL] = "#d4d0c8" # "you can drop docable dialogs here" label
 		}
 		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
 
 	# Empty image background
 	# --------------------
 		style "gimp-empty-image-style" = "gimp-default-style" {
-		  bg[NORMAL] = "#cccccc" # canvas padding
-		  fg[NORMAL] = "#cccccc" # Wilber
+		  bg[NORMAL] = "#a5a29c" # canvas padding
+		  fg[NORMAL] = "#a5a29c" # Wilber
 		}
 		widget_class "*Canv*" style:highest "gimp-empty-image-style"
+
+# Windows 8
+# --------------------
+
+	# # Default Styles
+	# # --------------------
+	# 	style "gimp-default-style" {
+	# 		bg[NORMAL] = "#eeeeee" # background set to match "windows classic" theme in Windows 7
+	# 	}
+
+	# # Panel Drop area text
+	# # --------------------
+	# 	style "gimp-drop-text-style" = "gimp-default-style" {
+	# 		fg[NORMAL] = "#eeeeee" # "you can drop docable dialogs here" label
+	# 	}
+	# 	widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
+
+	# # Empty image background
+	# # --------------------
+	# 	style "gimp-empty-image-style" = "gimp-default-style" {
+	# 	  bg[NORMAL] = "#cccccc" # canvas padding
+	# 	  fg[NORMAL] = "#cccccc" # Wilber
+	# 	}
+	# 	widget_class "*Canv*" style:highest "gimp-empty-image-style"
 
 
 class "GtkWidget" style "gimp-default-style"
