@@ -8,6 +8,18 @@ include "imagerc"
 
 	style "gimp-icons" {
 
+		# document-open-recent
+		# --------------------
+			stock["document-open-recent"] = {
+				{"images//gimp-undo-history.png", *, *, "gtk-button"},
+				{"images//gimp-undo-history.png", *, *, "gtk-dialog"},
+				{"images//gimp-undo-history.png", *, *, "gtk-menu"},
+				{"images//gimp-undo-history.png", *, *, "gtk-small-toolbar"},
+				{"images//gimp-undo-history.png", *, *, "gtk-large-toolbar"},
+				{"images//gimp-undo-history.png", *, *, "gtk-dnd"},
+				{"images//gimp-undo-history.png", *, *, *}
+			}
+
 		# page-setup
 		# --------------------
 			stock["gtk-page-setup"] = {
@@ -1279,6 +1291,12 @@ include "imagerc"
 			bg[NORMAL] = "#d4d0c8" # background set to match "windows classic" theme in Windows 7
 		}
 
+	# Menu Item
+	# --------------------
+		style "gimp-menu-item" = "gimp-default-style" {
+			fg[PRELIGHT]      = "#ffffff" # Panel menu text hover
+		}
+
 	# Panel Drop area text
 	# --------------------
 		style "gimp-drop-text-style" = "gimp-default-style" {
@@ -1294,7 +1312,7 @@ include "imagerc"
 		}
 		widget_class "*Canv*" style:highest "gimp-empty-image-style"
 
-# Windows 8
+# Windows 8, Mac, Basic Linux
 # --------------------
 
 	# # Default Styles
