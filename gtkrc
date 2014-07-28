@@ -1288,19 +1288,14 @@ include "imagerc"
 	# Default Styles
 	# --------------------
 		style "gimp-default-style" {
-			bg[NORMAL] = "#d4d0c8" # background set to match "windows classic" theme in Windows 7
-		}
-
-	# Menu Item
-	# --------------------
-		style "gimp-menu-item" = "gimp-default-style" {
-			fg[PRELIGHT]      = "#ffffff" # Panel menu text hover
+			bg[NORMAL]		= "#d4d0c8"
+			bg[PRELIGHT]	= "#a5a29c"
 		}
 
 	# Panel Drop area text
 	# --------------------
 		style "gimp-drop-text-style" = "gimp-default-style" {
-			fg[NORMAL] = "#d4d0c8" # "you can drop docable dialogs here" label
+			fg[NORMAL] = "#d4d0c8" # "you can drop dockable dialogs here" label
 		}
 		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
 
@@ -1312,13 +1307,15 @@ include "imagerc"
 		}
 		widget_class "*Canv*" style:highest "gimp-empty-image-style"
 
+
 # Windows 8, Mac, Basic Linux
 # --------------------
 
 	# # Default Styles
 	# # --------------------
 	# 	style "gimp-default-style" {
-	# 		bg[NORMAL] = "#eeeeee" # background set to match "windows classic" theme in Windows 7
+	# 		bg[NORMAL]		= "#eeeeee"
+	# 		bg[PRELIGHT]	= "#cccccc"
 	# 	}
 
 	# # Panel Drop area text
@@ -1335,7 +1332,6 @@ include "imagerc"
 	# 	  fg[NORMAL] = "#cccccc" # Wilber
 	# 	}
 	# 	widget_class "*Canv*" style:highest "gimp-empty-image-style"
-
 
 class "GtkWidget" style "gimp-default-style"
 class "GtkButton" style "gimp-button"
