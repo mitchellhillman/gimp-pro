@@ -26,12 +26,12 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="372.84346"
-     inkscape:cy="217.03624"
+     inkscape:zoom="10.159091"
+     inkscape:cx="384.5"
+     inkscape:cy="217"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
+     inkscape:current-layer="g9723"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:object-nodes="true"
      inkscape:window-width="1920"
@@ -8303,16 +8303,16 @@
       </g>
     </g>
     <g
-       transform="translate(-823,43.999997)"
+       transform="translate(-800,80)"
        id="g6198-8"
-       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\gtk-directory.png"
+       inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\preferences\folders.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="rect5538-9"
          d="m 1202,751.36217 0,1 0,9 0,1 11,0 c 1.1046,0 2,-0.89543 2,-2 l 0,-6 -1,0 0,-2 -6,0 0,-1 -6,0 z m 1,1 4,0 0,1 6,0 0,1 -9,0 0,1 0,6 -1,0 0,-9 z m 2,3 9,0 0,5 c 0,0.55228 -0.4477,1 -1,1 l -8,0 0,-6 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
          y="748.36218"
          x="1200"
@@ -8327,18 +8327,40 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="translate(-2,-3)">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="rect9367-4"
-         d="m 370,832.36217 0,15 14,0 0,-13 -8,0 0,-2 z"
-         style="fill:#f0a513;fill-opacity:1;stroke:none" />
-      <path
-         sodipodi:nodetypes="cssccc"
-         inkscape:connector-curvature="0"
-         id="rect9373-3"
-         d="m 386,836.36217 0,9 c 0,1.04282 -0.99806,2 -2,2 l -12,0 0,-11 z"
-         style="fill:#fdd99b;fill-opacity:1;stroke:none" />
+      <g
+         id="g9723"
+         inkscape:export-filename="C:\Program Files\GIMP 2\share\gimp\2.0\themes\gimp-pro\images\preferences\folders.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           y="376"
+           x="368"
+           height="16"
+           width="16"
+           id="rect9721"
+           style="fill:none;fill-opacity:1;stroke:none"
+           transform="translate(2,455.36217)" />
+        <path
+           style="fill:#f0a513;fill-opacity:1;stroke:none"
+           d="m 370,832.36217 0,15 14,0 0,-13 -8,0 c 0,0 0,-2 -2,-2 -1.33333,0 -4,0 -4,0 z"
+           id="rect9367-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccsc" />
+        <path
+           style="fill:#fdd99b;fill-opacity:1;stroke:none"
+           d="m 386,836.36217 0,9 c 0,1.04282 -0.99806,2 -2,2 l -12,0 0,-11 z"
+           id="rect9373-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssccc" />
+      </g>
     </g>
+    <rect
+       style="fill:#aaccee;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect9730"
+       width="30"
+       height="31"
+       x="403"
+       y="377"
+       transform="translate(0,452.36217)" />
   </g>
 </svg>

@@ -1291,7 +1291,7 @@ include "imagerc"
 			bg[NORMAL]		= "#d4d0c8"
 			bg[PRELIGHT]	= "#a5a29c"
 			
-			bg[SELECTED]	= "#f0a513"
+			# bg[SELECTED]	= "#f0a513"
 
 			base[ACTIVE]	= "#aaccee"
 			base[SELECTED]	= "#aaccee"
@@ -1317,27 +1317,27 @@ include "imagerc"
 # Windows 8, Mac, Basic Linux
 # --------------------
 
-	# Default Styles
-	# --------------------
-		style "gimp-default-style" {
-			bg[NORMAL]		= "#a0a0a0"
-			bg[PRELIGHT]	= "#cccccc"
-		}
+	# # Default Styles
+	# # --------------------
+	# 	style "gimp-default-style" {
+	# 		bg[NORMAL]		= "#a0a0a0"
+	# 		bg[PRELIGHT]	= "#cccccc"
+	# 	}
 
-	# Panel Drop area text
-	# --------------------
-		style "gimp-drop-text-style" = "gimp-default-style" {
-			fg[NORMAL] = "#a0a0a0" # "you can drop docable dialogs here" label
-		}
-		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
+	# # Panel Drop area text
+	# # --------------------
+	# 	style "gimp-drop-text-style" = "gimp-default-style" {
+	# 		fg[NORMAL] = "#a0a0a0" # "you can drop docable dialogs here" label
+	# 	}
+	# 	widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
 
-	# Empty image background
-	# --------------------
-		style "gimp-empty-image-style" = "gimp-default-style" {
-		  bg[NORMAL] = "#606060" # canvas padding
-		  fg[NORMAL] = "#606060" # Wilber
-		}
-		widget_class "*Canv*" style:highest "gimp-empty-image-style"
+	# # Empty image background
+	# # --------------------
+	# 	style "gimp-empty-image-style" = "gimp-default-style" {
+	# 	  bg[NORMAL] = "#606060" # canvas padding
+	# 	  fg[NORMAL] = "#606060" # Wilber
+	# 	}
+	# 	widget_class "*Canv*" style:highest "gimp-empty-image-style"
 
 class "GtkWidget" style "gimp-default-style"
 class "GtkButton" style "gimp-button"
