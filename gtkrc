@@ -44,7 +44,6 @@ include "imagerc"
 				{"images/gtk-page-setup.png", *, *, *}
 			}
 
-
 		# about
 		# --------------------
 			stock["gtk-about"] = {
@@ -1282,74 +1281,41 @@ include "imagerc"
 			}
 	}
 
-# # Windows 7 (Classic)
-# # --------------------
+# Basic Color Reset
+# --------------------
+
+	# Windows 7 Users: 
+	# If using Windows Classic style. Make sure that base color of Windows 3D objects matches bg[NORMAL] color here.
+
+	# Windows 8 and Aero Users
+	# I reccomend changing these colors to lighter ones
 
 	# Default Styles
 	# --------------------
 		style "gimp-default-style" {
-			bg[NORMAL]		= "#d4d0c8"
-			bg[PRELIGHT]	= "#a5a29c"
-			
-			# bg[SELECTED]	= "#f0a513"
+			bg[NORMAL]		= "#cccccc" # universal background
+			fg[NORMAL]		= "#000000" # universal text color
+			bg[PRELIGHT]	= "#b2b2b2" # hover background and loading bar color
+			fg[PRELIGHT]	= "#000000" # hover text
 
-			base[ACTIVE]	= "#aaccee"
-			base[SELECTED]	= "#aaccee"
-			text[SELECTED]	= "#000000"
+			base[NORMAL]	= "#cccccc" # inset box and text area background
+			base[SELECTED]	= "#b2b2b2" # selected background for inset boxes and textareas
+			text[SELECTED]	= "#000000" # text color for inset boxes and textareas
 		}
 
 	# Panel Drop area text
 	# --------------------
 		style "gimp-drop-text-style" = "gimp-default-style" {
-			fg[NORMAL] = "#d4d0c8" # "you can drop dockable dialogs here" label
+			fg[NORMAL] = "#cccccc" # "you can drop docable dialogs here" label. Match to bg[NORMAL] above to hide
 		}
 		widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
 
 	# Empty image background
 	# --------------------
 		style "gimp-empty-image-style" = "gimp-default-style" {
-		  bg[NORMAL] = "#a5a29c" # canvas padding
-		  fg[NORMAL] = "#a5a29c" # Wilber
+		  bg[NORMAL] = "#999999" # canvas padding
+		  fg[NORMAL] = "#999999" # Wilber
 		}
 		widget_class "*Canv*" style:highest "gimp-empty-image-style"
 
-
-# Windows 8, Mac, Basic Linux
-# --------------------
-
-	# # Default Styles
-	# # --------------------
-	# 	style "gimp-default-style" {
-	# 		bg[NORMAL]		= "#a0a0a0"
-	# 		bg[PRELIGHT]	= "#cccccc"
-	# 	}
-
-	# # Panel Drop area text
-	# # --------------------
-	# 	style "gimp-drop-text-style" = "gimp-default-style" {
-	# 		fg[NORMAL] = "#a0a0a0" # "you can drop docable dialogs here" label
-	# 	}
-	# 	widget_class "*GimpPanedBox.GtkLabel" style:highest "gimp-drop-text-style"
-
-	# # Empty image background
-	# # --------------------
-	# 	style "gimp-empty-image-style" = "gimp-default-style" {
-	# 	  bg[NORMAL] = "#606060" # canvas padding
-	# 	  fg[NORMAL] = "#606060" # Wilber
-	# 	}
-	# 	widget_class "*Canv*" style:highest "gimp-empty-image-style"
-
 class "GtkWidget" style "gimp-default-style"
-class "GtkButton" style "gimp-button"
-class "GtkMenu"   style "gimp-menu"
-class "GtkEntry"  style "gimp-entry"
-class "GtkMenuItem"    style "gimp-menu-item"
-class "GtkStatusbar"   style "gimp-statusbar"
-class "GtkNotebook"    style "gimp-panel"
-class "GtkProgressBar" style "gimp-progressbar"
-class "GtkCheckButton" style "gimp-check"
-class "GtkRadioButton" style "gimp-check"
-class "GtkMenuBar" style "gimp-menubar"
-class "GtkScrollbar" style "gimp-scrollbar"
-class "GtkHScale" style "gimp-hslider"
-class "GtkVScale" style "gimp-vslider"
