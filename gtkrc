@@ -1298,7 +1298,7 @@ include "imagerc"
 			bg[PRELIGHT]	= "#b2b2b2" # hover background and loading bar color
 			fg[PRELIGHT]	= "#000000" # hover text
 
-			base[NORMAL]	= "#cccccc" # inset box and text area background
+			base[NORMAL]	= "#ffffff" # inset box and text area background
 			base[SELECTED]	= "#b2b2b2" # selected background for inset boxes and textareas
 			text[SELECTED]	= "#000000" # text color for inset boxes and textareas
 		}
