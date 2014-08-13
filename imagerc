@@ -2490,6 +2490,7 @@
 			{"images/gimp-palette.png", *, *, *}
 		}
 
+
 	# pattern
 	# -----------------
 		stock["gimp-pattern"] = {

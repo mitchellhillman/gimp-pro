@@ -10,7 +10,17 @@ include "imagerc"
 
 		# document-open-recent
 		# --------------------
-			stock["document-open-recent"] = {
+			# stock["document-open-recent"] = {
+			# 	{"images/gimp-undo-history.png", *, *, "gtk-button"},
+			# 	{"images/gimp-undo-history.png", *, *, "gtk-dialog"},
+			# 	{"images/gimp-undo-history.png", *, *, "gtk-menu"},
+			# 	{"images/gimp-undo-history.png", *, *, "gtk-small-toolbar"},
+			# 	{"images/gimp-undo-history.png", *, *, "gtk-large-toolbar"},
+			# 	{"images/gimp-undo-history.png", *, *, "gtk-dnd"},
+			# 	{"images/gimp-undo-history.png", *, *, *}
+			# }
+
+			stock["gimp-palette-dialog"] = {
 				{"images/gimp-undo-history.png", *, *, "gtk-button"},
 				{"images/gimp-undo-history.png", *, *, "gtk-dialog"},
 				{"images/gimp-undo-history.png", *, *, "gtk-menu"},
@@ -23,18 +33,6 @@ include "imagerc"
 		# page-setup
 		# --------------------
 			stock["gtk-page-setup"] = {
-				{"images/gtk-page-setup.png", *, *, "gtk-button"},
-				{"images/gtk-page-setup.png", *, *, "gtk-dialog"},
-				{"images/gtk-page-setup.png", *, *, "gtk-menu"},
-				{"images/gtk-page-setup.png", *, *, "gtk-small-toolbar"},
-				{"images/gtk-page-setup.png", *, *, "gtk-large-toolbar"},
-				{"images/gtk-page-setup.png", *, *, "gtk-dnd"},
-				{"images/gtk-page-setup.png", *, *, *}
-			}
-
-		# document-open-recent
-		# --------------------
-			stock["gtk-document-open-recent"] = {
 				{"images/gtk-page-setup.png", *, *, "gtk-button"},
 				{"images/gtk-page-setup.png", *, *, "gtk-dialog"},
 				{"images/gtk-page-setup.png", *, *, "gtk-menu"},
